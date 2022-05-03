@@ -1,0 +1,4987 @@
+{
+  "1": {
+    "english": "as",
+    "french": "comme",
+    "vietnamese": "như"
+  },
+  "2": {
+    "english": "I",
+    "french": "je",
+    "vietnamese": "tôi"
+  },
+  "3": {
+    "english": "his",
+    "french": "son",
+    "vietnamese": "mình"
+  },
+  "4": {
+    "english": "that",
+    "french": "que",
+    "vietnamese": "mà"
+  },
+  "5": {
+    "english": "he",
+    "french": "il",
+    "vietnamese": "ông"
+  },
+  "6": {
+    "english": "was",
+    "french": "était",
+    "vietnamese": "là"
+  },
+  "7": {
+    "english": "for",
+    "french": "pour",
+    "vietnamese": "cho"
+  },
+  "8": {
+    "english": "on",
+    "french": "sur",
+    "vietnamese": "trên"
+  },
+  "9": {
+    "english": "are",
+    "french": "sont",
+    "vietnamese": "là"
+  },
+  "10": {
+    "english": "with",
+    "french": "avec",
+    "vietnamese": "với"
+  },
+  "11": {
+    "english": "they",
+    "french": "ils",
+    "vietnamese": "họ"
+  },
+  "12": {
+    "english": "be",
+    "french": "être",
+    "vietnamese": "được"
+  },
+  "13": {
+    "english": "at",
+    "french": "à",
+    "vietnamese": "tại"
+  },
+  "14": {
+    "english": "one",
+    "french": "un",
+    "vietnamese": "một"
+  },
+  "15": {
+    "english": "have",
+    "french": "avoir",
+    "vietnamese": "có"
+  },
+  "16": {
+    "english": "this",
+    "french": "ce",
+    "vietnamese": "này"
+  },
+  "17": {
+    "english": "from",
+    "french": "à partir de",
+    "vietnamese": "từ"
+  },
+  "18": {
+    "english": "by",
+    "french": "par",
+    "vietnamese": "bởi"
+  },
+  "19": {
+    "english": "hot",
+    "french": "chaud",
+    "vietnamese": "nóng"
+  },
+  "20": {
+    "english": "word",
+    "french": "mot",
+    "vietnamese": "từ"
+  },
+  "21": {
+    "english": "but",
+    "french": "mais",
+    "vietnamese": "nhưng"
+  },
+  "22": {
+    "english": "what",
+    "french": "que",
+    "vietnamese": "những gì"
+  },
+  "23": {
+    "english": "some",
+    "french": "certains",
+    "vietnamese": "một số"
+  },
+  "24": {
+    "english": "is",
+    "french": "est",
+    "vietnamese": "là"
+  },
+  "25": {
+    "english": "it",
+    "french": "il",
+    "vietnamese": "nó"
+  },
+  "26": {
+    "english": "you",
+    "french": "vous",
+    "vietnamese": "anh"
+  },
+  "27": {
+    "english": "or",
+    "french": "ou",
+    "vietnamese": "hoặc"
+  },
+  "28": {
+    "english": "had",
+    "french": "eu",
+    "vietnamese": "có"
+  },
+  "29": {
+    "english": "the",
+    "french": "la",
+    "vietnamese": "các"
+  },
+  "30": {
+    "english": "of",
+    "french": "de",
+    "vietnamese": "của"
+  },
+  "31": {
+    "english": "to",
+    "french": "à",
+    "vietnamese": "để"
+  },
+  "32": {
+    "english": "and",
+    "french": "et",
+    "vietnamese": "và"
+  },
+  "33": {
+    "english": "a",
+    "french": "un",
+    "vietnamese": "một"
+  },
+  "34": {
+    "english": "in",
+    "french": "dans",
+    "vietnamese": "trong"
+  },
+  "35": {
+    "english": "we",
+    "french": "nous",
+    "vietnamese": "chúng tôi"
+  },
+  "36": {
+    "english": "can",
+    "french": "boîte",
+    "vietnamese": "có thể"
+  },
+  "37": {
+    "english": "out",
+    "french": "dehors",
+    "vietnamese": "ra"
+  },
+  "38": {
+    "english": "other",
+    "french": "autre",
+    "vietnamese": "khác"
+  },
+  "39": {
+    "english": "were",
+    "french": "étaient",
+    "vietnamese": "là"
+  },
+  "40": {
+    "english": "which",
+    "french": "qui",
+    "vietnamese": "mà"
+  },
+  "41": {
+    "english": "do",
+    "french": "faire",
+    "vietnamese": "làm"
+  },
+  "42": {
+    "english": "their",
+    "french": "leur",
+    "vietnamese": "của họ"
+  },
+  "43": {
+    "english": "time",
+    "french": "temps",
+    "vietnamese": "thời gian"
+  },
+  "44": {
+    "english": "if",
+    "french": "si",
+    "vietnamese": "nếu"
+  },
+  "45": {
+    "english": "will",
+    "french": "volonté",
+    "vietnamese": "sẽ"
+  },
+  "46": {
+    "english": "how",
+    "french": "comment",
+    "vietnamese": "như thế nào"
+  },
+  "47": {
+    "english": "said",
+    "french": "dit",
+    "vietnamese": "nói"
+  },
+  "48": {
+    "english": "an",
+    "french": "un",
+    "vietnamese": "một"
+  },
+  "49": {
+    "english": "each",
+    "french": "chaque",
+    "vietnamese": "môi"
+  },
+  "50": {
+    "english": "tell",
+    "french": "dire",
+    "vietnamese": "nói"
+  },
+  "51": {
+    "english": "does",
+    "french": "ne",
+    "vietnamese": "không"
+  },
+  "52": {
+    "english": "set",
+    "french": "ensemble",
+    "vietnamese": "bộ"
+  },
+  "53": {
+    "english": "three",
+    "french": "trois",
+    "vietnamese": "ba"
+  },
+  "54": {
+    "english": "want",
+    "french": "vouloir",
+    "vietnamese": "muốn"
+  },
+  "55": {
+    "english": "air",
+    "french": "air",
+    "vietnamese": "không khí"
+  },
+  "56": {
+    "english": "well",
+    "french": "bien",
+    "vietnamese": "cũng"
+  },
+  "57": {
+    "english": "also",
+    "french": "aussi",
+    "vietnamese": "cũng"
+  },
+  "58": {
+    "english": "play",
+    "french": "jouer",
+    "vietnamese": "chơi"
+  },
+  "59": {
+    "english": "small",
+    "french": "petit",
+    "vietnamese": "nhỏ"
+  },
+  "60": {
+    "english": "end",
+    "french": "fin",
+    "vietnamese": "cuối"
+  },
+  "61": {
+    "english": "put",
+    "french": "mettre",
+    "vietnamese": "đặt"
+  },
+  "62": {
+    "english": "home",
+    "french": "maison",
+    "vietnamese": "nhà"
+  },
+  "63": {
+    "english": "read",
+    "french": "lire",
+    "vietnamese": "đọc"
+  },
+  "64": {
+    "english": "hand",
+    "french": "main",
+    "vietnamese": "tay"
+  },
+  "65": {
+    "english": "port",
+    "french": "port",
+    "vietnamese": "cổng"
+  },
+  "66": {
+    "english": "large",
+    "french": "grand",
+    "vietnamese": "lớn"
+  },
+  "67": {
+    "english": "spell",
+    "french": "épeler",
+    "vietnamese": "chính tả"
+  },
+  "68": {
+    "english": "add",
+    "french": "ajouter",
+    "vietnamese": "thêm"
+  },
+  "69": {
+    "english": "even",
+    "french": "même",
+    "vietnamese": "thậm chí"
+  },
+  "70": {
+    "english": "land",
+    "french": "terre",
+    "vietnamese": "đất"
+  },
+  "71": {
+    "english": "here",
+    "french": "ici",
+    "vietnamese": "ở đây"
+  },
+  "72": {
+    "english": "must",
+    "french": "il faut",
+    "vietnamese": "phải"
+  },
+  "73": {
+    "english": "big",
+    "french": "grand",
+    "vietnamese": "lớn"
+  },
+  "74": {
+    "english": "high",
+    "french": "haut",
+    "vietnamese": "cao"
+  },
+  "75": {
+    "english": "such",
+    "french": "tel",
+    "vietnamese": "như vậy"
+  },
+  "76": {
+    "english": "follow",
+    "french": "suivre",
+    "vietnamese": "theo"
+  },
+  "77": {
+    "english": "act",
+    "french": "acte",
+    "vietnamese": "hành động"
+  },
+  "78": {
+    "english": "why",
+    "french": "pourquoi",
+    "vietnamese": "lý do tại sao"
+  },
+  "79": {
+    "english": "ask",
+    "french": "interroger",
+    "vietnamese": "xin"
+  },
+  "80": {
+    "english": "men",
+    "french": "hommes",
+    "vietnamese": "người đàn ông"
+  },
+  "81": {
+    "english": "change",
+    "french": "changement",
+    "vietnamese": "thay đổi"
+  },
+  "82": {
+    "english": "went",
+    "french": "est allé",
+    "vietnamese": "đi"
+  },
+  "83": {
+    "english": "light",
+    "french": "lumière",
+    "vietnamese": "ánh sáng"
+  },
+  "84": {
+    "english": "kind",
+    "french": "genre",
+    "vietnamese": "loại"
+  },
+  "85": {
+    "english": "off",
+    "french": "de",
+    "vietnamese": "tắt"
+  },
+  "86": {
+    "english": "need",
+    "french": "besoin",
+    "vietnamese": "cần"
+  },
+  "87": {
+    "english": "house",
+    "french": "maison",
+    "vietnamese": "nhà"
+  },
+  "88": {
+    "english": "picture",
+    "french": "image",
+    "vietnamese": "hình ảnh"
+  },
+  "89": {
+    "english": "try",
+    "french": "essayer",
+    "vietnamese": "thử"
+  },
+  "90": {
+    "english": "us",
+    "french": "nous",
+    "vietnamese": "chúng tôi"
+  },
+  "91": {
+    "english": "again",
+    "french": "encore",
+    "vietnamese": "một lần nữa"
+  },
+  "92": {
+    "english": "animal",
+    "french": "animal",
+    "vietnamese": "động vật"
+  },
+  "93": {
+    "english": "point",
+    "french": "point",
+    "vietnamese": "điểm"
+  },
+  "94": {
+    "english": "mother",
+    "french": "mère",
+    "vietnamese": "mẹ"
+  },
+  "95": {
+    "english": "world",
+    "french": "monde",
+    "vietnamese": "thế giới"
+  },
+  "96": {
+    "english": "near",
+    "french": "près de",
+    "vietnamese": "gần"
+  },
+  "97": {
+    "english": "build",
+    "french": "construire",
+    "vietnamese": "xây dựng"
+  },
+  "98": {
+    "english": "self",
+    "french": "soi",
+    "vietnamese": "tự"
+  },
+  "99": {
+    "english": "earth",
+    "french": "terre",
+    "vietnamese": "đất"
+  },
+  "100": {
+    "english": "father",
+    "french": "père",
+    "vietnamese": "cha"
+  },
+  "101": {
+    "english": "any",
+    "french": "tout",
+    "vietnamese": "bất kỳ"
+  },
+  "102": {
+    "english": "new",
+    "french": "nouveau",
+    "vietnamese": "mới"
+  },
+  "103": {
+    "english": "work",
+    "french": "travail",
+    "vietnamese": "công việc"
+  },
+  "104": {
+    "english": "part",
+    "french": "partie",
+    "vietnamese": "một phần"
+  },
+  "105": {
+    "english": "take",
+    "french": "prendre",
+    "vietnamese": "có"
+  },
+  "106": {
+    "english": "get",
+    "french": "obtenir",
+    "vietnamese": "được"
+  },
+  "107": {
+    "english": "place",
+    "french": "lieu",
+    "vietnamese": "nơi"
+  },
+  "108": {
+    "english": "made",
+    "french": "fabriqué",
+    "vietnamese": "thực hiện"
+  },
+  "109": {
+    "english": "live",
+    "french": "vivre",
+    "vietnamese": "sống"
+  },
+  "110": {
+    "english": "where",
+    "french": "où",
+    "vietnamese": "nơi"
+  },
+  "111": {
+    "english": "after",
+    "french": "après",
+    "vietnamese": "sau khi"
+  },
+  "112": {
+    "english": "back",
+    "french": "arrière",
+    "vietnamese": "trở lại"
+  },
+  "113": {
+    "english": "little",
+    "french": "peu",
+    "vietnamese": "ít"
+  },
+  "114": {
+    "english": "only",
+    "french": "seulement",
+    "vietnamese": "chỉ"
+  },
+  "115": {
+    "english": "round",
+    "french": "tour",
+    "vietnamese": "chung quanh"
+  },
+  "116": {
+    "english": "man",
+    "french": "homme",
+    "vietnamese": "người đàn ông"
+  },
+  "117": {
+    "english": "year",
+    "french": "année",
+    "vietnamese": "năm"
+  },
+  "118": {
+    "english": "came",
+    "french": "est venu",
+    "vietnamese": "đến"
+  },
+  "119": {
+    "english": "show",
+    "french": "montrer",
+    "vietnamese": "chương trình"
+  },
+  "120": {
+    "english": "every",
+    "french": "tous",
+    "vietnamese": "mỗi"
+  },
+  "121": {
+    "english": "good",
+    "french": "bon",
+    "vietnamese": "tốt"
+  },
+  "122": {
+    "english": "me",
+    "french": "moi",
+    "vietnamese": "tôi"
+  },
+  "123": {
+    "english": "give",
+    "french": "donner",
+    "vietnamese": "cung cấp cho"
+  },
+  "124": {
+    "english": "our",
+    "french": "notre",
+    "vietnamese": "của chúng tôi"
+  },
+  "125": {
+    "english": "under",
+    "french": "sous",
+    "vietnamese": "dưới"
+  },
+  "126": {
+    "english": "name",
+    "french": "nom",
+    "vietnamese": "tên"
+  },
+  "127": {
+    "english": "very",
+    "french": "très",
+    "vietnamese": "rất"
+  },
+  "128": {
+    "english": "through",
+    "french": "par",
+    "vietnamese": "thông qua"
+  },
+  "129": {
+    "english": "just",
+    "french": "juste",
+    "vietnamese": "chỉ"
+  },
+  "130": {
+    "english": "form",
+    "french": "forme",
+    "vietnamese": "hình thức"
+  },
+  "131": {
+    "english": "sentence",
+    "french": "phrase",
+    "vietnamese": "câu"
+  },
+  "132": {
+    "english": "great",
+    "french": "grand",
+    "vietnamese": "tuyệt vời"
+  },
+  "133": {
+    "english": "think",
+    "french": "penser",
+    "vietnamese": "nghi"
+  },
+  "134": {
+    "english": "say",
+    "french": "dire",
+    "vietnamese": "nói"
+  },
+  "135": {
+    "english": "help",
+    "french": "aider",
+    "vietnamese": "giúp"
+  },
+  "136": {
+    "english": "low",
+    "french": "faible",
+    "vietnamese": "thấp"
+  },
+  "137": {
+    "english": "line",
+    "french": "ligne",
+    "vietnamese": "dòng"
+  },
+  "138": {
+    "english": "differ",
+    "french": "différer",
+    "vietnamese": "khác nhau"
+  },
+  "139": {
+    "english": "turn",
+    "french": "tour",
+    "vietnamese": "lần lượt"
+  },
+  "140": {
+    "english": "cause",
+    "french": "la cause",
+    "vietnamese": "nguyên nhân"
+  },
+  "141": {
+    "english": "much",
+    "french": "beaucoup",
+    "vietnamese": "nhiều"
+  },
+  "142": {
+    "english": "mean",
+    "french": "signifier",
+    "vietnamese": "có nghĩa là"
+  },
+  "143": {
+    "english": "before",
+    "french": "avant",
+    "vietnamese": "trước"
+  },
+  "144": {
+    "english": "move",
+    "french": "déménagement",
+    "vietnamese": "di chuyển"
+  },
+  "145": {
+    "english": "right",
+    "french": "droit",
+    "vietnamese": "ngay"
+  },
+  "146": {
+    "english": "boy",
+    "french": "garçon",
+    "vietnamese": "cậu bé"
+  },
+  "147": {
+    "english": "old",
+    "french": "vieux",
+    "vietnamese": "cũ"
+  },
+  "148": {
+    "english": "too",
+    "french": "trop",
+    "vietnamese": "quá"
+  },
+  "149": {
+    "english": "same",
+    "french": "même",
+    "vietnamese": "như nhau"
+  },
+  "150": {
+    "english": "she",
+    "french": "elle",
+    "vietnamese": "cô"
+  },
+  "151": {
+    "english": "all",
+    "french": "tous",
+    "vietnamese": "tất cả"
+  },
+  "152": {
+    "english": "there",
+    "french": "là",
+    "vietnamese": "có"
+  },
+  "153": {
+    "english": "when",
+    "french": "quand",
+    "vietnamese": "khi"
+  },
+  "154": {
+    "english": "up",
+    "french": "jusqu’à",
+    "vietnamese": "lên"
+  },
+  "155": {
+    "english": "use",
+    "french": "utiliser",
+    "vietnamese": "sử dụng"
+  },
+  "156": {
+    "english": "your",
+    "french": "votre",
+    "vietnamese": "của bạn"
+  },
+  "157": {
+    "english": "way",
+    "french": "manière",
+    "vietnamese": "cách"
+  },
+  "158": {
+    "english": "about",
+    "french": "sur",
+    "vietnamese": "về"
+  },
+  "159": {
+    "english": "many",
+    "french": "beaucoup",
+    "vietnamese": "nhiều"
+  },
+  "160": {
+    "english": "then",
+    "french": "puis",
+    "vietnamese": "sau đó"
+  },
+  "161": {
+    "english": "them",
+    "french": "les",
+    "vietnamese": "họ"
+  },
+  "162": {
+    "english": "write",
+    "french": "écrire",
+    "vietnamese": "viết"
+  },
+  "163": {
+    "english": "would",
+    "french": "voudrais",
+    "vietnamese": "sẽ"
+  },
+  "164": {
+    "english": "like",
+    "french": "comme",
+    "vietnamese": "như"
+  },
+  "165": {
+    "english": "so",
+    "french": "si",
+    "vietnamese": "để"
+  },
+  "166": {
+    "english": "these",
+    "french": "ces",
+    "vietnamese": "các"
+  },
+  "167": {
+    "english": "her",
+    "french": "son",
+    "vietnamese": "cô"
+  },
+  "168": {
+    "english": "long",
+    "french": "long",
+    "vietnamese": "lâu"
+  },
+  "169": {
+    "english": "make",
+    "french": "faire",
+    "vietnamese": "làm"
+  },
+  "170": {
+    "english": "thing",
+    "french": "chose",
+    "vietnamese": "điều"
+  },
+  "171": {
+    "english": "see",
+    "french": "voir",
+    "vietnamese": "thấy"
+  },
+  "172": {
+    "english": "him",
+    "french": "lui",
+    "vietnamese": "anh"
+  },
+  "173": {
+    "english": "two",
+    "french": "deux",
+    "vietnamese": "hai"
+  },
+  "174": {
+    "english": "has",
+    "french": "a",
+    "vietnamese": "có"
+  },
+  "175": {
+    "english": "look",
+    "french": "regarder",
+    "vietnamese": "xem"
+  },
+  "176": {
+    "english": "more",
+    "french": "plus",
+    "vietnamese": "hơn"
+  },
+  "177": {
+    "english": "day",
+    "french": "jour",
+    "vietnamese": "ngày"
+  },
+  "178": {
+    "english": "could",
+    "french": "pourrait",
+    "vietnamese": "có thể"
+  },
+  "179": {
+    "english": "go",
+    "french": "aller",
+    "vietnamese": "đi"
+  },
+  "180": {
+    "english": "come",
+    "french": "venir",
+    "vietnamese": "đến"
+  },
+  "181": {
+    "english": "did",
+    "french": "fait",
+    "vietnamese": "đã làm"
+  },
+  "182": {
+    "english": "number",
+    "french": "nombre",
+    "vietnamese": "số"
+  },
+  "183": {
+    "english": "sound",
+    "french": "son",
+    "vietnamese": "âm thanh"
+  },
+  "184": {
+    "english": "no",
+    "french": "aucun",
+    "vietnamese": "không có"
+  },
+  "185": {
+    "english": "most",
+    "french": "plus",
+    "vietnamese": "nhất"
+  },
+  "186": {
+    "english": "people",
+    "french": "personnes",
+    "vietnamese": "nhân dân"
+  },
+  "187": {
+    "english": "my",
+    "french": "ma",
+    "vietnamese": "của tôi"
+  },
+  "188": {
+    "english": "over",
+    "french": "sur",
+    "vietnamese": "hơn"
+  },
+  "189": {
+    "english": "know",
+    "french": "savoir",
+    "vietnamese": "biết"
+  },
+  "190": {
+    "english": "water",
+    "french": "eau",
+    "vietnamese": "nước"
+  },
+  "191": {
+    "english": "than",
+    "french": "que",
+    "vietnamese": "hơn"
+  },
+  "192": {
+    "english": "call",
+    "french": "appel",
+    "vietnamese": "gọi"
+  },
+  "193": {
+    "english": "first",
+    "french": "première",
+    "vietnamese": "đầu tiên"
+  },
+  "194": {
+    "english": "who",
+    "french": "qui",
+    "vietnamese": "người"
+  },
+  "195": {
+    "english": "may",
+    "french": "peut",
+    "vietnamese": "có thể"
+  },
+  "196": {
+    "english": "down",
+    "french": "vers le bas",
+    "vietnamese": "xuống"
+  },
+  "197": {
+    "english": "side",
+    "french": "côté",
+    "vietnamese": "bên"
+  },
+  "198": {
+    "english": "been",
+    "french": "été",
+    "vietnamese": "được"
+  },
+  "199": {
+    "english": "now",
+    "french": "maintenant",
+    "vietnamese": "bây giờ"
+  },
+  "200": {
+    "english": "find",
+    "french": "trouver",
+    "vietnamese": "tìm"
+  },
+  "201": {
+    "english": "head",
+    "french": "tête",
+    "vietnamese": "đầu"
+  },
+  "202": {
+    "english": "stand",
+    "french": "supporter",
+    "vietnamese": "đứng"
+  },
+  "203": {
+    "english": "own",
+    "french": "propre",
+    "vietnamese": "riêng"
+  },
+  "204": {
+    "english": "page",
+    "french": "page",
+    "vietnamese": "trang"
+  },
+  "205": {
+    "english": "should",
+    "french": "devrait",
+    "vietnamese": "nên"
+  },
+  "206": {
+    "english": "country",
+    "french": "pays",
+    "vietnamese": "nước"
+  },
+  "207": {
+    "english": "found",
+    "french": "trouvé",
+    "vietnamese": "tìm thấy"
+  },
+  "208": {
+    "english": "answer",
+    "french": "réponse",
+    "vietnamese": "câu trả lời"
+  },
+  "209": {
+    "english": "school",
+    "french": "école",
+    "vietnamese": "trường"
+  },
+  "210": {
+    "english": "grow",
+    "french": "croître",
+    "vietnamese": "phát triển"
+  },
+  "211": {
+    "english": "study",
+    "french": "étude",
+    "vietnamese": "nghiên cứu"
+  },
+  "212": {
+    "english": "still",
+    "french": "encore",
+    "vietnamese": "vẫn"
+  },
+  "213": {
+    "english": "learn",
+    "french": "apprendre",
+    "vietnamese": "học"
+  },
+  "214": {
+    "english": "plant",
+    "french": "usine",
+    "vietnamese": "nhà máy"
+  },
+  "215": {
+    "english": "cover",
+    "french": "couvercle",
+    "vietnamese": "bìa"
+  },
+  "216": {
+    "english": "food",
+    "french": "nourriture",
+    "vietnamese": "thực phẩm"
+  },
+  "217": {
+    "english": "sun",
+    "french": "soleil",
+    "vietnamese": "ánh nắng mặt trời"
+  },
+  "218": {
+    "english": "four",
+    "french": "quatre",
+    "vietnamese": "bốn"
+  },
+  "219": {
+    "english": "between",
+    "french": "entre",
+    "vietnamese": "giữa"
+  },
+  "220": {
+    "english": "state",
+    "french": "état",
+    "vietnamese": "nhà nước"
+  },
+  "221": {
+    "english": "keep",
+    "french": "garder",
+    "vietnamese": "giữ"
+  },
+  "222": {
+    "english": "eye",
+    "french": "œil",
+    "vietnamese": "mắt"
+  },
+  "223": {
+    "english": "never",
+    "french": "jamais",
+    "vietnamese": "không bao giờ"
+  },
+  "224": {
+    "english": "last",
+    "french": "dernier",
+    "vietnamese": "cuối cùng"
+  },
+  "225": {
+    "english": "let",
+    "french": "laisser",
+    "vietnamese": "cho phép"
+  },
+  "226": {
+    "english": "thought",
+    "french": "pensée",
+    "vietnamese": "nghĩ"
+  },
+  "227": {
+    "english": "city",
+    "french": "ville",
+    "vietnamese": "thành phố"
+  },
+  "228": {
+    "english": "tree",
+    "french": "arbre",
+    "vietnamese": "cây"
+  },
+  "229": {
+    "english": "cross",
+    "french": "traverser",
+    "vietnamese": "qua"
+  },
+  "230": {
+    "english": "farm",
+    "french": "ferme",
+    "vietnamese": "trang trại"
+  },
+  "231": {
+    "english": "hard",
+    "french": "dur",
+    "vietnamese": "cứng"
+  },
+  "232": {
+    "english": "start",
+    "french": "début",
+    "vietnamese": "bắt đầu"
+  },
+  "233": {
+    "english": "might",
+    "french": "puissance",
+    "vietnamese": "might"
+  },
+  "234": {
+    "english": "story",
+    "french": "histoire",
+    "vietnamese": "câu chuyện"
+  },
+  "235": {
+    "english": "saw",
+    "french": "scie",
+    "vietnamese": "cưa"
+  },
+  "236": {
+    "english": "far",
+    "french": "loin",
+    "vietnamese": "đến nay"
+  },
+  "237": {
+    "english": "sea",
+    "french": "mer",
+    "vietnamese": "biển"
+  },
+  "238": {
+    "english": "draw",
+    "french": "tirer",
+    "vietnamese": "vẽ"
+  },
+  "239": {
+    "english": "left",
+    "french": "gauche",
+    "vietnamese": "còn lại"
+  },
+  "240": {
+    "english": "late",
+    "french": "tard",
+    "vietnamese": "cuối"
+  },
+  "241": {
+    "english": "run",
+    "french": "courir",
+    "vietnamese": "chạy"
+  },
+  "242": {
+    "english": "don’t",
+    "french": "needs a context",
+    "vietnamese": "không"
+  },
+  "243": {
+    "english": "while",
+    "french": "tandis que",
+    "vietnamese": "trong khi"
+  },
+  "244": {
+    "english": "press",
+    "french": "presse",
+    "vietnamese": "báo chí"
+  },
+  "245": {
+    "english": "close",
+    "french": "proche",
+    "vietnamese": "gần"
+  },
+  "246": {
+    "english": "night",
+    "french": "nuit",
+    "vietnamese": "đêm"
+  },
+  "247": {
+    "english": "real",
+    "french": "réel",
+    "vietnamese": "thực"
+  },
+  "248": {
+    "english": "life",
+    "french": "vie",
+    "vietnamese": "cuộc sống"
+  },
+  "249": {
+    "english": "few",
+    "french": "peu",
+    "vietnamese": "số"
+  },
+  "250": {
+    "english": "north",
+    "french": "nord",
+    "vietnamese": "phía bắc"
+  },
+  "251": {
+    "english": "book",
+    "french": "livre",
+    "vietnamese": "cuốn sách"
+  },
+  "252": {
+    "english": "carry",
+    "french": "porter",
+    "vietnamese": "thực hiện"
+  },
+  "253": {
+    "english": "took",
+    "french": "a pris",
+    "vietnamese": "mất"
+  },
+  "254": {
+    "english": "science",
+    "french": "science",
+    "vietnamese": "khoa học"
+  },
+  "255": {
+    "english": "eat",
+    "french": "manger",
+    "vietnamese": "ăn"
+  },
+  "256": {
+    "english": "room",
+    "french": "chambre",
+    "vietnamese": "phòng"
+  },
+  "257": {
+    "english": "friend",
+    "french": "ami",
+    "vietnamese": "người bạn"
+  },
+  "258": {
+    "english": "began",
+    "french": "a commencé",
+    "vietnamese": "bắt đầu"
+  },
+  "259": {
+    "english": "idea",
+    "french": "idée",
+    "vietnamese": "ý tưởng"
+  },
+  "260": {
+    "english": "fish",
+    "french": "poisson",
+    "vietnamese": "cá"
+  },
+  "261": {
+    "english": "mountain",
+    "french": "montagne",
+    "vietnamese": "núi"
+  },
+  "262": {
+    "english": "stop",
+    "french": "Arrêtez",
+    "vietnamese": "ngăn chặn"
+  },
+  "263": {
+    "english": "once",
+    "french": "une fois",
+    "vietnamese": "một lần"
+  },
+  "264": {
+    "english": "base",
+    "french": "base",
+    "vietnamese": "cơ sở"
+  },
+  "265": {
+    "english": "hear",
+    "french": "entendre",
+    "vietnamese": "nghe"
+  },
+  "266": {
+    "english": "horse",
+    "french": "cheval",
+    "vietnamese": "ngựa"
+  },
+  "267": {
+    "english": "cut",
+    "french": "coupe",
+    "vietnamese": "cắt"
+  },
+  "268": {
+    "english": "sure",
+    "french": "sûr",
+    "vietnamese": "chắc chắn"
+  },
+  "269": {
+    "english": "watch",
+    "french": "regarder",
+    "vietnamese": "xem"
+  },
+  "270": {
+    "english": "color",
+    "french": "couleur",
+    "vietnamese": "màu"
+  },
+  "271": {
+    "english": "face",
+    "french": "face",
+    "vietnamese": "khuôn mặt"
+  },
+  "272": {
+    "english": "wood",
+    "french": "bois",
+    "vietnamese": "gỗ"
+  },
+  "273": {
+    "english": "main",
+    "french": "principal",
+    "vietnamese": "chính"
+  },
+  "274": {
+    "english": "open",
+    "french": "ouvert",
+    "vietnamese": "mở"
+  },
+  "275": {
+    "english": "seem",
+    "french": "paraître",
+    "vietnamese": "dường như"
+  },
+  "276": {
+    "english": "together",
+    "french": "ensemble",
+    "vietnamese": "cùng"
+  },
+  "277": {
+    "english": "next",
+    "french": "suivant",
+    "vietnamese": "tiếp theo"
+  },
+  "278": {
+    "english": "white",
+    "french": "blanc",
+    "vietnamese": "trắng"
+  },
+  "279": {
+    "english": "children",
+    "french": "enfants",
+    "vietnamese": "trẻ em"
+  },
+  "280": {
+    "english": "begin",
+    "french": "commencer",
+    "vietnamese": "bắt đầu"
+  },
+  "281": {
+    "english": "got",
+    "french": "eu",
+    "vietnamese": "có"
+  },
+  "282": {
+    "english": "walk",
+    "french": "marcher",
+    "vietnamese": "đi bộ"
+  },
+  "283": {
+    "english": "example",
+    "french": "exemple",
+    "vietnamese": "Ví dụ"
+  },
+  "284": {
+    "english": "sight",
+    "french": "vue",
+    "vietnamese": "cảnh"
+  },
+  "285": {
+    "english": "paper",
+    "french": "papier",
+    "vietnamese": "giấy"
+  },
+  "286": {
+    "english": "group",
+    "french": "groupe",
+    "vietnamese": "nhóm"
+  },
+  "287": {
+    "english": "always",
+    "french": "toujours",
+    "vietnamese": "luôn luôn"
+  },
+  "288": {
+    "english": "music",
+    "french": "musique",
+    "vietnamese": "nhạc"
+  },
+  "289": {
+    "english": "those",
+    "french": "ceux",
+    "vietnamese": "những"
+  },
+  "290": {
+    "english": "both",
+    "french": "tous les deux",
+    "vietnamese": "cả hai"
+  },
+  "291": {
+    "english": "mark",
+    "french": "marque",
+    "vietnamese": "đánh dấu"
+  },
+  "292": {
+    "english": "often",
+    "french": "souvent",
+    "vietnamese": "thường"
+  },
+  "293": {
+    "english": "letter",
+    "french": "lettre",
+    "vietnamese": "thư"
+  },
+  "294": {
+    "english": "until",
+    "french": "jusqu’à ce que",
+    "vietnamese": "cho đến khi"
+  },
+  "295": {
+    "english": "mile",
+    "french": "mile",
+    "vietnamese": "dặm"
+  },
+  "296": {
+    "english": "river",
+    "french": "rivière",
+    "vietnamese": "sông"
+  },
+  "297": {
+    "english": "car",
+    "french": "voiture",
+    "vietnamese": "xe"
+  },
+  "298": {
+    "english": "feet",
+    "french": "pieds",
+    "vietnamese": "chân"
+  },
+  "299": {
+    "english": "care",
+    "french": "soins",
+    "vietnamese": "chăm sóc"
+  },
+  "300": {
+    "english": "second",
+    "french": "deuxième",
+    "vietnamese": "thứ hai"
+  },
+  "301": {
+    "english": "enough",
+    "french": "assez",
+    "vietnamese": "đủ"
+  },
+  "302": {
+    "english": "plain",
+    "french": "plaine",
+    "vietnamese": "đồng bằng"
+  },
+  "303": {
+    "english": "girl",
+    "french": "fille",
+    "vietnamese": "cô gái"
+  },
+  "304": {
+    "english": "usual",
+    "french": "habituel",
+    "vietnamese": "thông thường"
+  },
+  "305": {
+    "english": "young",
+    "french": "jeune",
+    "vietnamese": "trẻ"
+  },
+  "306": {
+    "english": "ready",
+    "french": "prêt",
+    "vietnamese": "sẵn sàng"
+  },
+  "307": {
+    "english": "above",
+    "french": "au-dessus",
+    "vietnamese": "trên đây"
+  },
+  "308": {
+    "english": "ever",
+    "french": "jamais",
+    "vietnamese": "bao giờ"
+  },
+  "309": {
+    "english": "red",
+    "french": "rouge",
+    "vietnamese": "màu đỏ"
+  },
+  "310": {
+    "english": "list",
+    "french": "liste",
+    "vietnamese": "danh sách"
+  },
+  "311": {
+    "english": "though",
+    "french": "bien que",
+    "vietnamese": "mặc dù"
+  },
+  "312": {
+    "english": "feel",
+    "french": "sentir",
+    "vietnamese": "cảm thấy"
+  },
+  "313": {
+    "english": "talk",
+    "french": "parler",
+    "vietnamese": "nói chuyện"
+  },
+  "314": {
+    "english": "bird",
+    "french": "oiseau",
+    "vietnamese": "chim"
+  },
+  "315": {
+    "english": "soon",
+    "french": "bientôt",
+    "vietnamese": "sớm"
+  },
+  "316": {
+    "english": "body",
+    "french": "corps",
+    "vietnamese": "cơ thể"
+  },
+  "317": {
+    "english": "dog",
+    "french": "chien",
+    "vietnamese": "con chó"
+  },
+  "318": {
+    "english": "family",
+    "french": "famille",
+    "vietnamese": "gia đình"
+  },
+  "319": {
+    "english": "direct",
+    "french": "direct",
+    "vietnamese": "trực tiếp"
+  },
+  "320": {
+    "english": "pose",
+    "french": "pose",
+    "vietnamese": "đặt ra"
+  },
+  "321": {
+    "english": "leave",
+    "french": "laisser",
+    "vietnamese": "lại"
+  },
+  "322": {
+    "english": "song",
+    "french": "chanson",
+    "vietnamese": "bài hát"
+  },
+  "323": {
+    "english": "measure",
+    "french": "mesurer",
+    "vietnamese": "đo lường"
+  },
+  "324": {
+    "english": "door",
+    "french": "porte",
+    "vietnamese": "cửa"
+  },
+  "325": {
+    "english": "product",
+    "french": "produit",
+    "vietnamese": "sản phẩm"
+  },
+  "326": {
+    "english": "black",
+    "french": "noir",
+    "vietnamese": "đen"
+  },
+  "327": {
+    "english": "short",
+    "french": "court",
+    "vietnamese": "ngắn"
+  },
+  "328": {
+    "english": "numeral",
+    "french": "chiffre",
+    "vietnamese": "chữ số"
+  },
+  "329": {
+    "english": "class",
+    "french": "classe",
+    "vietnamese": "lớp"
+  },
+  "330": {
+    "english": "wind",
+    "french": "vent",
+    "vietnamese": "gió"
+  },
+  "331": {
+    "english": "question",
+    "french": "question",
+    "vietnamese": "câu hỏi"
+  },
+  "332": {
+    "english": "happen",
+    "french": "arriver",
+    "vietnamese": "xảy ra"
+  },
+  "333": {
+    "english": "complete",
+    "french": "complète",
+    "vietnamese": "hoàn thành"
+  },
+  "334": {
+    "english": "ship",
+    "french": "navire",
+    "vietnamese": "tàu"
+  },
+  "335": {
+    "english": "area",
+    "french": "zone",
+    "vietnamese": "khu vực"
+  },
+  "336": {
+    "english": "half",
+    "french": "moitié",
+    "vietnamese": "một nửa"
+  },
+  "337": {
+    "english": "rock",
+    "french": "rock",
+    "vietnamese": "đá"
+  },
+  "338": {
+    "english": "order",
+    "french": "ordre",
+    "vietnamese": "để"
+  },
+  "339": {
+    "english": "fire",
+    "french": "feu",
+    "vietnamese": "lửa"
+  },
+  "340": {
+    "english": "south",
+    "french": "sud",
+    "vietnamese": "nam"
+  },
+  "341": {
+    "english": "problem",
+    "french": "problème",
+    "vietnamese": "vấn đề"
+  },
+  "342": {
+    "english": "piece",
+    "french": "pièce",
+    "vietnamese": "mảnh"
+  },
+  "343": {
+    "english": "told",
+    "french": "dit",
+    "vietnamese": "nói"
+  },
+  "344": {
+    "english": "knew",
+    "french": "savait",
+    "vietnamese": "biết"
+  },
+  "345": {
+    "english": "pass",
+    "french": "passer",
+    "vietnamese": "vượt qua"
+  },
+  "346": {
+    "english": "since",
+    "french": "depuis",
+    "vietnamese": "từ"
+  },
+  "347": {
+    "english": "top",
+    "french": "haut",
+    "vietnamese": "đầu"
+  },
+  "348": {
+    "english": "whole",
+    "french": "ensemble",
+    "vietnamese": "toàn bộ"
+  },
+  "349": {
+    "english": "king",
+    "french": "roi",
+    "vietnamese": "vua"
+  },
+  "350": {
+    "english": "street",
+    "french": "rue",
+    "vietnamese": "đường phố"
+  },
+  "351": {
+    "english": "inch",
+    "french": "pouce",
+    "vietnamese": "inch"
+  },
+  "352": {
+    "english": "multiply",
+    "french": "multiplier",
+    "vietnamese": "nhân"
+  },
+  "353": {
+    "english": "nothing",
+    "french": "rien",
+    "vietnamese": "không có gì"
+  },
+  "354": {
+    "english": "course",
+    "french": "cours",
+    "vietnamese": "Tất nhiên"
+  },
+  "355": {
+    "english": "stay",
+    "french": "rester",
+    "vietnamese": "ở lại"
+  },
+  "356": {
+    "english": "wheel",
+    "french": "roue",
+    "vietnamese": "bánh xe"
+  },
+  "357": {
+    "english": "full",
+    "french": "plein",
+    "vietnamese": "đầy đủ"
+  },
+  "358": {
+    "english": "force",
+    "french": "force",
+    "vietnamese": "lực"
+  },
+  "359": {
+    "english": "blue",
+    "french": "bleu",
+    "vietnamese": "màu xanh"
+  },
+  "360": {
+    "english": "object",
+    "french": "objet",
+    "vietnamese": "đối tượng"
+  },
+  "361": {
+    "english": "decide",
+    "french": "décider",
+    "vietnamese": "quyết định"
+  },
+  "362": {
+    "english": "surface",
+    "french": "surface",
+    "vietnamese": "bề mặt"
+  },
+  "363": {
+    "english": "deep",
+    "french": "profond",
+    "vietnamese": "sâu"
+  },
+  "364": {
+    "english": "moon",
+    "french": "lune",
+    "vietnamese": "mặt trăng"
+  },
+  "365": {
+    "english": "island",
+    "french": "île",
+    "vietnamese": "đảo"
+  },
+  "366": {
+    "english": "foot",
+    "french": "pied",
+    "vietnamese": "chân"
+  },
+  "367": {
+    "english": "system",
+    "french": "système",
+    "vietnamese": "hệ thống"
+  },
+  "368": {
+    "english": "busy",
+    "french": "occupé",
+    "vietnamese": "bận rộn"
+  },
+  "369": {
+    "english": "test",
+    "french": "test",
+    "vietnamese": "kiểm tra"
+  },
+  "370": {
+    "english": "record",
+    "french": "record",
+    "vietnamese": "ghi"
+  },
+  "371": {
+    "english": "boat",
+    "french": "bateau",
+    "vietnamese": "thuyền"
+  },
+  "372": {
+    "english": "common",
+    "french": "commun",
+    "vietnamese": "phổ biến"
+  },
+  "373": {
+    "english": "gold",
+    "french": "or",
+    "vietnamese": "vàng"
+  },
+  "374": {
+    "english": "possible",
+    "french": "possible",
+    "vietnamese": "có thể"
+  },
+  "375": {
+    "english": "plane",
+    "french": "plan",
+    "vietnamese": "máy bay"
+  },
+  "376": {
+    "english": "stead",
+    "french": "place",
+    "vietnamese": "thay"
+  },
+  "377": {
+    "english": "dry",
+    "french": "sec",
+    "vietnamese": "khô"
+  },
+  "378": {
+    "english": "wonder",
+    "french": "se demander",
+    "vietnamese": "tự hỏi"
+  },
+  "379": {
+    "english": "laugh",
+    "french": "rire",
+    "vietnamese": "cười"
+  },
+  "380": {
+    "english": "thousand",
+    "french": "mille",
+    "vietnamese": "ngàn"
+  },
+  "381": {
+    "english": "ago",
+    "french": "il ya",
+    "vietnamese": "trước"
+  },
+  "382": {
+    "english": "ran",
+    "french": "ran",
+    "vietnamese": "ran"
+  },
+  "383": {
+    "english": "check",
+    "french": "vérifier",
+    "vietnamese": "kiểm tra"
+  },
+  "384": {
+    "english": "game",
+    "french": "jeu",
+    "vietnamese": "trò chơi"
+  },
+  "385": {
+    "english": "shape",
+    "french": "forme",
+    "vietnamese": "hình dạng"
+  },
+  "386": {
+    "english": "equate",
+    "french": "assimiler",
+    "vietnamese": "đánh đồng"
+  },
+  "387": {
+    "english": "hot",
+    "french": "chaud",
+    "vietnamese": "nóng"
+  },
+  "388": {
+    "english": "miss",
+    "french": "manquer",
+    "vietnamese": "bỏ lỡ"
+  },
+  "389": {
+    "english": "brought",
+    "french": "apporté",
+    "vietnamese": "mang"
+  },
+  "390": {
+    "english": "heat",
+    "french": "chaleur",
+    "vietnamese": "nhiệt"
+  },
+  "391": {
+    "english": "snow",
+    "french": "neige",
+    "vietnamese": "tuyết"
+  },
+  "392": {
+    "english": "tire",
+    "french": "pneu",
+    "vietnamese": "lốp xe"
+  },
+  "393": {
+    "english": "bring",
+    "french": "apporter",
+    "vietnamese": "mang lại"
+  },
+  "394": {
+    "english": "yes",
+    "french": "oui",
+    "vietnamese": "vâng"
+  },
+  "395": {
+    "english": "distant",
+    "french": "lointain",
+    "vietnamese": "xa"
+  },
+  "396": {
+    "english": "fill",
+    "french": "remplir",
+    "vietnamese": "điền"
+  },
+  "397": {
+    "english": "east",
+    "french": "est",
+    "vietnamese": "đông"
+  },
+  "398": {
+    "english": "paint",
+    "french": "peindre",
+    "vietnamese": "sơn"
+  },
+  "399": {
+    "english": "language",
+    "french": "langue",
+    "vietnamese": "ngôn ngữ"
+  },
+  "400": {
+    "english": "among",
+    "french": "entre",
+    "vietnamese": "trong"
+  },
+  "401": {
+    "english": "unit",
+    "french": "unité",
+    "vietnamese": "đơn vị"
+  },
+  "402": {
+    "english": "power",
+    "french": "puissance",
+    "vietnamese": "điện"
+  },
+  "403": {
+    "english": "town",
+    "french": "ville",
+    "vietnamese": "thị trấn"
+  },
+  "404": {
+    "english": "fine",
+    "french": "fin",
+    "vietnamese": "tốt"
+  },
+  "405": {
+    "english": "certain",
+    "french": "certain",
+    "vietnamese": "nhất định"
+  },
+  "406": {
+    "english": "fly",
+    "french": "voler",
+    "vietnamese": "bay"
+  },
+  "407": {
+    "english": "fall",
+    "french": "tomber",
+    "vietnamese": "giảm"
+  },
+  "408": {
+    "english": "lead",
+    "french": "conduire",
+    "vietnamese": "dẫn"
+  },
+  "409": {
+    "english": "cry",
+    "french": "cri",
+    "vietnamese": "kêu"
+  },
+  "410": {
+    "english": "dark",
+    "french": "sombre",
+    "vietnamese": "tối"
+  },
+  "411": {
+    "english": "machine",
+    "french": "machine",
+    "vietnamese": "máy"
+  },
+  "412": {
+    "english": "note",
+    "french": "Note",
+    "vietnamese": "ghi"
+  },
+  "413": {
+    "english": "wait",
+    "french": "patienter",
+    "vietnamese": "đợi"
+  },
+  "414": {
+    "english": "plan",
+    "french": "plan",
+    "vietnamese": "kế hoạch"
+  },
+  "415": {
+    "english": "figure",
+    "french": "figure",
+    "vietnamese": "con số"
+  },
+  "416": {
+    "english": "star",
+    "french": "étoile",
+    "vietnamese": "sao"
+  },
+  "417": {
+    "english": "box",
+    "french": "boîte",
+    "vietnamese": "hộp"
+  },
+  "418": {
+    "english": "noun",
+    "french": "nom",
+    "vietnamese": "danh từ"
+  },
+  "419": {
+    "english": "field",
+    "french": "domaine",
+    "vietnamese": "lĩnh vực"
+  },
+  "420": {
+    "english": "rest",
+    "french": "reste",
+    "vietnamese": "phần còn lại"
+  },
+  "421": {
+    "english": "correct",
+    "french": "correct",
+    "vietnamese": "chính xác"
+  },
+  "422": {
+    "english": "able",
+    "french": "capable",
+    "vietnamese": "thể"
+  },
+  "423": {
+    "english": "pound",
+    "french": "livre",
+    "vietnamese": "bảng"
+  },
+  "424": {
+    "english": "done",
+    "french": "Terminé",
+    "vietnamese": "Xong"
+  },
+  "425": {
+    "english": "beauty",
+    "french": "beauté",
+    "vietnamese": "vẻ đẹp"
+  },
+  "426": {
+    "english": "drive",
+    "french": "entraînement",
+    "vietnamese": "ổ đĩa"
+  },
+  "427": {
+    "english": "stood",
+    "french": "résisté",
+    "vietnamese": "đứng"
+  },
+  "428": {
+    "english": "contain",
+    "french": "contenir",
+    "vietnamese": "chứa"
+  },
+  "429": {
+    "english": "front",
+    "french": "avant",
+    "vietnamese": "trước"
+  },
+  "430": {
+    "english": "teach",
+    "french": "enseigner",
+    "vietnamese": "dạy"
+  },
+  "431": {
+    "english": "week",
+    "french": "semaine",
+    "vietnamese": "tuần"
+  },
+  "432": {
+    "english": "final",
+    "french": "finale",
+    "vietnamese": "thức"
+  },
+  "433": {
+    "english": "gave",
+    "french": "donné",
+    "vietnamese": "đã"
+  },
+  "434": {
+    "english": "green",
+    "french": "vert",
+    "vietnamese": "màu xanh lá cây"
+  },
+  "435": {
+    "english": "oh",
+    "french": "oh",
+    "vietnamese": "oh"
+  },
+  "436": {
+    "english": "quick",
+    "french": "rapide",
+    "vietnamese": "nhanh chóng"
+  },
+  "437": {
+    "english": "develop",
+    "french": "développer",
+    "vietnamese": "phát triển"
+  },
+  "438": {
+    "english": "ocean",
+    "french": "océan",
+    "vietnamese": "đại dương"
+  },
+  "439": {
+    "english": "warm",
+    "french": "chaud",
+    "vietnamese": "ấm áp"
+  },
+  "440": {
+    "english": "free",
+    "french": "gratuit",
+    "vietnamese": "miễn phí"
+  },
+  "441": {
+    "english": "minute",
+    "french": "minute",
+    "vietnamese": "phút"
+  },
+  "442": {
+    "english": "strong",
+    "french": "fort",
+    "vietnamese": "mạnh mẽ"
+  },
+  "443": {
+    "english": "special",
+    "french": "spécial",
+    "vietnamese": "đặc biệt"
+  },
+  "444": {
+    "english": "mind",
+    "french": "esprit",
+    "vietnamese": "tâm"
+  },
+  "445": {
+    "english": "behind",
+    "french": "derrière",
+    "vietnamese": "sau"
+  },
+  "446": {
+    "english": "clear",
+    "french": "clair",
+    "vietnamese": "trong"
+  },
+  "447": {
+    "english": "tail",
+    "french": "queue",
+    "vietnamese": "đuôi"
+  },
+  "448": {
+    "english": "produce",
+    "french": "produire",
+    "vietnamese": "sản xuất"
+  },
+  "449": {
+    "english": "fact",
+    "french": "fait",
+    "vietnamese": "thực tế"
+  },
+  "450": {
+    "english": "space",
+    "french": "espace",
+    "vietnamese": "không gian"
+  },
+  "451": {
+    "english": "heard",
+    "french": "entendu",
+    "vietnamese": "nghe"
+  },
+  "452": {
+    "english": "best",
+    "french": "meilleur",
+    "vietnamese": "tốt nhất"
+  },
+  "453": {
+    "english": "hour",
+    "french": "heure",
+    "vietnamese": "giờ"
+  },
+  "454": {
+    "english": "better",
+    "french": "mieux",
+    "vietnamese": "tốt hơn"
+  },
+  "455": {
+    "english": "TRUE",
+    "french": "vrai",
+    "vietnamese": "đúng"
+  },
+  "456": {
+    "english": "during",
+    "french": "pendant",
+    "vietnamese": "trong khi"
+  },
+  "457": {
+    "english": "hundred",
+    "french": "cent",
+    "vietnamese": "trăm"
+  },
+  "458": {
+    "english": "five",
+    "french": "cinq",
+    "vietnamese": "năm"
+  },
+  "459": {
+    "english": "remember",
+    "french": "rappeler",
+    "vietnamese": "nhớ"
+  },
+  "460": {
+    "english": "step",
+    "french": "étape",
+    "vietnamese": "bước"
+  },
+  "461": {
+    "english": "early",
+    "french": "tôt",
+    "vietnamese": "đầu"
+  },
+  "462": {
+    "english": "hold",
+    "french": "tenir",
+    "vietnamese": "giư"
+  },
+  "463": {
+    "english": "west",
+    "french": "ouest",
+    "vietnamese": "tây"
+  },
+  "464": {
+    "english": "ground",
+    "french": "sol",
+    "vietnamese": "mặt đất"
+  },
+  "465": {
+    "english": "interest",
+    "french": "intérêt",
+    "vietnamese": "quan tâm"
+  },
+  "466": {
+    "english": "reach",
+    "french": "atteindre",
+    "vietnamese": "đạt"
+  },
+  "467": {
+    "english": "fast",
+    "french": "rapide",
+    "vietnamese": "nhanh chóng"
+  },
+  "468": {
+    "english": "verb",
+    "french": "verbe",
+    "vietnamese": "động từ"
+  },
+  "469": {
+    "english": "sing",
+    "french": "chanter",
+    "vietnamese": "hát"
+  },
+  "470": {
+    "english": "listen",
+    "french": "écouter",
+    "vietnamese": "lắng nghe"
+  },
+  "471": {
+    "english": "six",
+    "french": "six",
+    "vietnamese": "sáu"
+  },
+  "472": {
+    "english": "table",
+    "french": "table",
+    "vietnamese": "bảng"
+  },
+  "473": {
+    "english": "travel",
+    "french": "Voyage",
+    "vietnamese": "du lịch"
+  },
+  "474": {
+    "english": "less",
+    "french": "moins",
+    "vietnamese": "ít"
+  },
+  "475": {
+    "english": "morning",
+    "french": "matin",
+    "vietnamese": "buổi sáng"
+  },
+  "476": {
+    "english": "ten",
+    "french": "dix",
+    "vietnamese": "mười"
+  },
+  "477": {
+    "english": "simple",
+    "french": "simple",
+    "vietnamese": "đơn giản"
+  },
+  "478": {
+    "english": "several",
+    "french": "plusieurs",
+    "vietnamese": "nhiều"
+  },
+  "479": {
+    "english": "vowel",
+    "french": "voyelle",
+    "vietnamese": "nguyên âm"
+  },
+  "480": {
+    "english": "toward",
+    "french": "vers",
+    "vietnamese": "hướng"
+  },
+  "481": {
+    "english": "war",
+    "french": "guerre",
+    "vietnamese": "chiến tranh"
+  },
+  "482": {
+    "english": "lay",
+    "french": "poser",
+    "vietnamese": "đặt"
+  },
+  "483": {
+    "english": "against",
+    "french": "contre",
+    "vietnamese": "chống lại"
+  },
+  "484": {
+    "english": "pattern",
+    "french": "modèle",
+    "vietnamese": "mô hình"
+  },
+  "485": {
+    "english": "slow",
+    "french": "lent",
+    "vietnamese": "chậm"
+  },
+  "486": {
+    "english": "center",
+    "french": "centre",
+    "vietnamese": "trung tâm"
+  },
+  "487": {
+    "english": "love",
+    "french": "amour",
+    "vietnamese": "tình yêu"
+  },
+  "488": {
+    "english": "person",
+    "french": "personne",
+    "vietnamese": "người"
+  },
+  "489": {
+    "english": "money",
+    "french": "argent",
+    "vietnamese": "tiền"
+  },
+  "490": {
+    "english": "serve",
+    "french": "servir",
+    "vietnamese": "phục vụ"
+  },
+  "491": {
+    "english": "appear",
+    "french": "apparaître",
+    "vietnamese": "xuất hiện"
+  },
+  "492": {
+    "english": "road",
+    "french": "route",
+    "vietnamese": "đường"
+  },
+  "493": {
+    "english": "map",
+    "french": "carte",
+    "vietnamese": "Bản đồ"
+  },
+  "494": {
+    "english": "rain",
+    "french": "pluie",
+    "vietnamese": "mưa"
+  },
+  "495": {
+    "english": "rule",
+    "french": "règle",
+    "vietnamese": "quy tắc"
+  },
+  "496": {
+    "english": "govern",
+    "french": "gouverner",
+    "vietnamese": "phối"
+  },
+  "497": {
+    "english": "pull",
+    "french": "tirer",
+    "vietnamese": "kéo"
+  },
+  "498": {
+    "english": "cold",
+    "french": "froid",
+    "vietnamese": "lạnh"
+  },
+  "499": {
+    "english": "notice",
+    "french": "avis",
+    "vietnamese": "thông báo"
+  },
+  "500": {
+    "english": "voice",
+    "french": "voix",
+    "vietnamese": "giọng nói"
+  },
+  "501": {
+    "english": "energy",
+    "french": "énergie",
+    "vietnamese": "năng lượng"
+  },
+  "502": {
+    "english": "hunt",
+    "french": "chasse",
+    "vietnamese": "săn"
+  },
+  "503": {
+    "english": "probable",
+    "french": "probable",
+    "vietnamese": "có thể xảy ra"
+  },
+  "504": {
+    "english": "bed",
+    "french": "lit",
+    "vietnamese": "giường"
+  },
+  "505": {
+    "english": "brother",
+    "french": "frère",
+    "vietnamese": "anh trai"
+  },
+  "506": {
+    "english": "egg",
+    "french": "œuf",
+    "vietnamese": "trứng"
+  },
+  "507": {
+    "english": "ride",
+    "french": "tour",
+    "vietnamese": "đi xe"
+  },
+  "508": {
+    "english": "cell",
+    "french": "cellule",
+    "vietnamese": "pin"
+  },
+  "509": {
+    "english": "believe",
+    "french": "croire",
+    "vietnamese": "tin"
+  },
+  "510": {
+    "english": "perhaps",
+    "french": "peut-être",
+    "vietnamese": "có lẽ"
+  },
+  "511": {
+    "english": "pick",
+    "french": "choisir",
+    "vietnamese": "chọn"
+  },
+  "512": {
+    "english": "sudden",
+    "french": "soudain",
+    "vietnamese": "đột ngột"
+  },
+  "513": {
+    "english": "count",
+    "french": "compter",
+    "vietnamese": "tính"
+  },
+  "514": {
+    "english": "square",
+    "french": "carré",
+    "vietnamese": "vuông"
+  },
+  "515": {
+    "english": "reason",
+    "french": "raison",
+    "vietnamese": "lý do"
+  },
+  "516": {
+    "english": "length",
+    "french": "longueur",
+    "vietnamese": "chiều dài"
+  },
+  "517": {
+    "english": "represent",
+    "french": "représenter",
+    "vietnamese": "đại diện"
+  },
+  "518": {
+    "english": "art",
+    "french": "art",
+    "vietnamese": "nghệ thuật"
+  },
+  "519": {
+    "english": "subject",
+    "french": "sujet",
+    "vietnamese": "Tiêu đề"
+  },
+  "520": {
+    "english": "region",
+    "french": "région",
+    "vietnamese": "khu"
+  },
+  "521": {
+    "english": "size",
+    "french": "taille",
+    "vietnamese": "kích thước"
+  },
+  "522": {
+    "english": "vary",
+    "french": "varier",
+    "vietnamese": "khác nhau"
+  },
+  "523": {
+    "english": "settle",
+    "french": "régler",
+    "vietnamese": "giải quyết"
+  },
+  "524": {
+    "english": "speak",
+    "french": "parler",
+    "vietnamese": "nói"
+  },
+  "525": {
+    "english": "weight",
+    "french": "poids",
+    "vietnamese": "trọng lượng"
+  },
+  "526": {
+    "english": "general",
+    "french": "général",
+    "vietnamese": "chung"
+  },
+  "527": {
+    "english": "ice",
+    "french": "glace",
+    "vietnamese": "băng"
+  },
+  "528": {
+    "english": "matter",
+    "french": "question",
+    "vietnamese": "vấn đề"
+  },
+  "529": {
+    "english": "circle",
+    "french": "cercle",
+    "vietnamese": "vòng tròn"
+  },
+  "530": {
+    "english": "pair",
+    "french": "paire",
+    "vietnamese": "đôi"
+  },
+  "531": {
+    "english": "include",
+    "french": "inclure",
+    "vietnamese": "bao gồm"
+  },
+  "532": {
+    "english": "divide",
+    "french": "fracture",
+    "vietnamese": "chia"
+  },
+  "533": {
+    "english": "syllable",
+    "french": "syllabe",
+    "vietnamese": "âm tiết"
+  },
+  "534": {
+    "english": "felt",
+    "french": "feutre",
+    "vietnamese": "cảm thấy"
+  },
+  "535": {
+    "english": "grand",
+    "french": "grandiose",
+    "vietnamese": "lớn"
+  },
+  "536": {
+    "english": "ball",
+    "french": "balle",
+    "vietnamese": "bóng"
+  },
+  "537": {
+    "english": "yet",
+    "french": "encore",
+    "vietnamese": "nhưng"
+  },
+  "538": {
+    "english": "wave",
+    "french": "vague",
+    "vietnamese": "sóng"
+  },
+  "539": {
+    "english": "drop",
+    "french": "tomber",
+    "vietnamese": "rơi"
+  },
+  "540": {
+    "english": "heart",
+    "french": "cœur",
+    "vietnamese": "tim"
+  },
+  "541": {
+    "english": "am",
+    "french": "h",
+    "vietnamese": "là"
+  },
+  "542": {
+    "english": "present",
+    "french": "présent",
+    "vietnamese": "hiện nay"
+  },
+  "543": {
+    "english": "heavy",
+    "french": "lourd",
+    "vietnamese": "nặng"
+  },
+  "544": {
+    "english": "dance",
+    "french": "danse",
+    "vietnamese": "khiêu vũ"
+  },
+  "545": {
+    "english": "engine",
+    "french": "moteur",
+    "vietnamese": "động cơ"
+  },
+  "546": {
+    "english": "position",
+    "french": "position",
+    "vietnamese": "vị trí"
+  },
+  "547": {
+    "english": "arm",
+    "french": "bras",
+    "vietnamese": "cánh tay"
+  },
+  "548": {
+    "english": "wide",
+    "french": "large",
+    "vietnamese": "rộng"
+  },
+  "549": {
+    "english": "sail",
+    "french": "voile",
+    "vietnamese": "buồm"
+  },
+  "550": {
+    "english": "material",
+    "french": "matériel",
+    "vietnamese": "tài liệu"
+  },
+  "551": {
+    "english": "fraction",
+    "french": "fraction",
+    "vietnamese": "phần"
+  },
+  "552": {
+    "english": "forest",
+    "french": "forêt",
+    "vietnamese": "rừng"
+  },
+  "553": {
+    "english": "sit",
+    "french": "s’asseoir",
+    "vietnamese": "ngồi"
+  },
+  "554": {
+    "english": "race",
+    "french": "course",
+    "vietnamese": "cuộc đua"
+  },
+  "555": {
+    "english": "window",
+    "french": "fenêtre",
+    "vietnamese": "cửa sổ"
+  },
+  "556": {
+    "english": "store",
+    "french": "magasin",
+    "vietnamese": "cửa hàng"
+  },
+  "557": {
+    "english": "summer",
+    "french": "été",
+    "vietnamese": "mùa hè"
+  },
+  "558": {
+    "english": "train",
+    "french": "train",
+    "vietnamese": "đào tạo"
+  },
+  "559": {
+    "english": "sleep",
+    "french": "sommeil",
+    "vietnamese": "ngủ"
+  },
+  "560": {
+    "english": "prove",
+    "french": "prouver",
+    "vietnamese": "chứng minh"
+  },
+  "561": {
+    "english": "lone",
+    "french": "seul",
+    "vietnamese": "đơn độc"
+  },
+  "562": {
+    "english": "leg",
+    "french": "jambe",
+    "vietnamese": "chân"
+  },
+  "563": {
+    "english": "exercise",
+    "french": "exercice",
+    "vietnamese": "tập thể dục"
+  },
+  "564": {
+    "english": "wall",
+    "french": "mur",
+    "vietnamese": "tường"
+  },
+  "565": {
+    "english": "catch",
+    "french": "capture",
+    "vietnamese": "bắt"
+  },
+  "566": {
+    "english": "mount",
+    "french": "monture",
+    "vietnamese": "mount"
+  },
+  "567": {
+    "english": "wish",
+    "french": "souhaiter",
+    "vietnamese": "muốn"
+  },
+  "568": {
+    "english": "sky",
+    "french": "ciel",
+    "vietnamese": "bầu trời"
+  },
+  "569": {
+    "english": "board",
+    "french": "conseil",
+    "vietnamese": "hội đồng quản trị"
+  },
+  "570": {
+    "english": "joy",
+    "french": "joie",
+    "vietnamese": "niềm vui"
+  },
+  "571": {
+    "english": "winter",
+    "french": "hiver",
+    "vietnamese": "mùa đông"
+  },
+  "572": {
+    "english": "sat",
+    "french": "sat",
+    "vietnamese": "ngồi"
+  },
+  "573": {
+    "english": "written",
+    "french": "écrit",
+    "vietnamese": "bằng văn bản"
+  },
+  "574": {
+    "english": "wild",
+    "french": "sauvage",
+    "vietnamese": "hoang dã"
+  },
+  "575": {
+    "english": "instrument",
+    "french": "instrument",
+    "vietnamese": "cụ"
+  },
+  "576": {
+    "english": "kept",
+    "french": "conservé",
+    "vietnamese": "giữ"
+  },
+  "577": {
+    "english": "glass",
+    "french": "verre",
+    "vietnamese": "kính"
+  },
+  "578": {
+    "english": "grass",
+    "french": "herbe",
+    "vietnamese": "cỏ"
+  },
+  "579": {
+    "english": "cow",
+    "french": "vache",
+    "vietnamese": "bò"
+  },
+  "580": {
+    "english": "job",
+    "french": "emploi",
+    "vietnamese": "công việc"
+  },
+  "581": {
+    "english": "edge",
+    "french": "bord",
+    "vietnamese": "cạnh"
+  },
+  "582": {
+    "english": "sign",
+    "french": "signe",
+    "vietnamese": "dấu hiệu"
+  },
+  "583": {
+    "english": "visit",
+    "french": "visite",
+    "vietnamese": "lần"
+  },
+  "584": {
+    "english": "past",
+    "french": "passé",
+    "vietnamese": "qua"
+  },
+  "585": {
+    "english": "soft",
+    "french": "doux",
+    "vietnamese": "mềm"
+  },
+  "586": {
+    "english": "fun",
+    "french": "amusement",
+    "vietnamese": "vui vẻ"
+  },
+  "587": {
+    "english": "bright",
+    "french": "clair",
+    "vietnamese": "sáng"
+  },
+  "588": {
+    "english": "gas",
+    "french": "gaz",
+    "vietnamese": "khí"
+  },
+  "589": {
+    "english": "weather",
+    "french": "temps",
+    "vietnamese": "thời tiết"
+  },
+  "590": {
+    "english": "month",
+    "french": "mois",
+    "vietnamese": "tháng"
+  },
+  "591": {
+    "english": "million",
+    "french": "million",
+    "vietnamese": "triệu"
+  },
+  "592": {
+    "english": "bear",
+    "french": "porter",
+    "vietnamese": "chịu"
+  },
+  "593": {
+    "english": "finish",
+    "french": "finition",
+    "vietnamese": "kết thúc"
+  },
+  "594": {
+    "english": "happy",
+    "french": "heureux",
+    "vietnamese": "hạnh phúc"
+  },
+  "595": {
+    "english": "hope",
+    "french": "espoir",
+    "vietnamese": "hy vọng"
+  },
+  "596": {
+    "english": "flower",
+    "french": "fleur",
+    "vietnamese": "hoa"
+  },
+  "597": {
+    "english": "clothe",
+    "french": "vêtir",
+    "vietnamese": "mặc"
+  },
+  "598": {
+    "english": "strange",
+    "french": "étrange",
+    "vietnamese": "lạ"
+  },
+  "599": {
+    "english": "gone",
+    "french": "disparu",
+    "vietnamese": "ra đi"
+  },
+  "600": {
+    "english": "trade",
+    "french": "commerce",
+    "vietnamese": "thương mại"
+  },
+  "601": {
+    "english": "melody",
+    "french": "mélodie",
+    "vietnamese": "giai điệu"
+  },
+  "602": {
+    "english": "trip",
+    "french": "voyage",
+    "vietnamese": "chuyến đi"
+  },
+  "603": {
+    "english": "office",
+    "french": "bureau",
+    "vietnamese": "văn phòng"
+  },
+  "604": {
+    "english": "receive",
+    "french": "recevoir",
+    "vietnamese": "nhận"
+  },
+  "605": {
+    "english": "row",
+    "french": "rangée",
+    "vietnamese": "hàng"
+  },
+  "606": {
+    "english": "mouth",
+    "french": "bouche",
+    "vietnamese": "miệng"
+  },
+  "607": {
+    "english": "exact",
+    "french": "exact",
+    "vietnamese": "chính xác"
+  },
+  "608": {
+    "english": "symbol",
+    "french": "symbole",
+    "vietnamese": "biểu tượng"
+  },
+  "609": {
+    "english": "die",
+    "french": "mourir",
+    "vietnamese": "chết"
+  },
+  "610": {
+    "english": "least",
+    "french": "moins",
+    "vietnamese": "nhất"
+  },
+  "611": {
+    "english": "trouble",
+    "french": "difficulté",
+    "vietnamese": "rắc rối"
+  },
+  "612": {
+    "english": "shout",
+    "french": "cri",
+    "vietnamese": "hét lên"
+  },
+  "613": {
+    "english": "except",
+    "french": "sauf",
+    "vietnamese": "trừ"
+  },
+  "614": {
+    "english": "wrote",
+    "french": "écrit",
+    "vietnamese": "đã viết"
+  },
+  "615": {
+    "english": "seed",
+    "french": "semence",
+    "vietnamese": "hạt giống"
+  },
+  "616": {
+    "english": "tone",
+    "french": "ton",
+    "vietnamese": "giai điệu"
+  },
+  "617": {
+    "english": "join",
+    "french": "joindre",
+    "vietnamese": "tham gia"
+  },
+  "618": {
+    "english": "suggest",
+    "french": "suggérer",
+    "vietnamese": "đề nghị"
+  },
+  "619": {
+    "english": "clean",
+    "french": "propre",
+    "vietnamese": "sạch"
+  },
+  "620": {
+    "english": "break",
+    "french": "pause",
+    "vietnamese": "nghỉ"
+  },
+  "621": {
+    "english": "lady",
+    "french": "dame",
+    "vietnamese": "phụ nữ"
+  },
+  "622": {
+    "english": "yard",
+    "french": "cour",
+    "vietnamese": "sân"
+  },
+  "623": {
+    "english": "rise",
+    "french": "augmenter",
+    "vietnamese": "tăng"
+  },
+  "624": {
+    "english": "bad",
+    "french": "mauvais",
+    "vietnamese": "xấu"
+  },
+  "625": {
+    "english": "blow",
+    "french": "coup",
+    "vietnamese": "đòn"
+  },
+  "626": {
+    "english": "oil",
+    "french": "huile",
+    "vietnamese": "dầu"
+  },
+  "627": {
+    "english": "blood",
+    "french": "sang",
+    "vietnamese": "máu"
+  },
+  "628": {
+    "english": "touch",
+    "french": "toucher",
+    "vietnamese": "chạm"
+  },
+  "629": {
+    "english": "grew",
+    "french": "a augmenté",
+    "vietnamese": "tăng"
+  },
+  "630": {
+    "english": "cent",
+    "french": "cent",
+    "vietnamese": "phần trăm"
+  },
+  "631": {
+    "english": "mix",
+    "french": "mélanger",
+    "vietnamese": "trộn"
+  },
+  "632": {
+    "english": "team",
+    "french": "équipe",
+    "vietnamese": "đội"
+  },
+  "633": {
+    "english": "wire",
+    "french": "fil",
+    "vietnamese": "dây"
+  },
+  "634": {
+    "english": "cost",
+    "french": "coût",
+    "vietnamese": "chi phí"
+  },
+  "635": {
+    "english": "lost",
+    "french": "perdu",
+    "vietnamese": "thua"
+  },
+  "636": {
+    "english": "brown",
+    "french": "brun",
+    "vietnamese": "nâu"
+  },
+  "637": {
+    "english": "wear",
+    "french": "porter",
+    "vietnamese": "mặc"
+  },
+  "638": {
+    "english": "garden",
+    "french": "jardin",
+    "vietnamese": "vườn"
+  },
+  "639": {
+    "english": "equal",
+    "french": "égal",
+    "vietnamese": "như nhau"
+  },
+  "640": {
+    "english": "sent",
+    "french": "expédié",
+    "vietnamese": "gửi"
+  },
+  "641": {
+    "english": "choose",
+    "french": "choisir",
+    "vietnamese": "chọn"
+  },
+  "642": {
+    "english": "fell",
+    "french": "est tombé",
+    "vietnamese": "giảm"
+  },
+  "643": {
+    "english": "fit",
+    "french": "s’adapter",
+    "vietnamese": "phù hợp với"
+  },
+  "644": {
+    "english": "flow",
+    "french": "débit",
+    "vietnamese": "chảy"
+  },
+  "645": {
+    "english": "fair",
+    "french": "juste",
+    "vietnamese": "công bằng"
+  },
+  "646": {
+    "english": "bank",
+    "french": "banque",
+    "vietnamese": "ngân hàng"
+  },
+  "647": {
+    "english": "collect",
+    "french": "recueillir",
+    "vietnamese": "thu thập"
+  },
+  "648": {
+    "english": "save",
+    "french": "sauver",
+    "vietnamese": "lưu"
+  },
+  "649": {
+    "english": "control",
+    "french": "contrôle",
+    "vietnamese": "kiểm soát"
+  },
+  "650": {
+    "english": "decimal",
+    "french": "décimal",
+    "vietnamese": "số thập phân"
+  },
+  "651": {
+    "english": "ear",
+    "french": "oreille",
+    "vietnamese": "tai"
+  },
+  "652": {
+    "english": "else",
+    "french": "autre",
+    "vietnamese": "khác"
+  },
+  "653": {
+    "english": "quite",
+    "french": "tout à fait",
+    "vietnamese": "khá"
+  },
+  "654": {
+    "english": "broke",
+    "french": "cassé",
+    "vietnamese": "đã phá vỡ"
+  },
+  "655": {
+    "english": "case",
+    "french": "cas",
+    "vietnamese": "khi"
+  },
+  "656": {
+    "english": "middle",
+    "french": "milieu",
+    "vietnamese": "trung"
+  },
+  "657": {
+    "english": "kill",
+    "french": "tuer",
+    "vietnamese": "giết"
+  },
+  "658": {
+    "english": "son",
+    "french": "fils",
+    "vietnamese": "con trai"
+  },
+  "659": {
+    "english": "lake",
+    "french": "lac",
+    "vietnamese": "hồ"
+  },
+  "660": {
+    "english": "moment",
+    "french": "moment",
+    "vietnamese": "thời điểm"
+  },
+  "661": {
+    "english": "scale",
+    "french": "échelle",
+    "vietnamese": "quy mô"
+  },
+  "662": {
+    "english": "loud",
+    "french": "fort",
+    "vietnamese": "lớn"
+  },
+  "663": {
+    "english": "spring",
+    "french": "printemps",
+    "vietnamese": "mùa xuân"
+  },
+  "664": {
+    "english": "observe",
+    "french": "observer",
+    "vietnamese": "quan sát"
+  },
+  "665": {
+    "english": "child",
+    "french": "enfant",
+    "vietnamese": "con"
+  },
+  "666": {
+    "english": "straight",
+    "french": "droit",
+    "vietnamese": "thẳng"
+  },
+  "667": {
+    "english": "consonant",
+    "french": "consonne",
+    "vietnamese": "phụ âm"
+  },
+  "668": {
+    "english": "nation",
+    "french": "nation",
+    "vietnamese": "quốc gia"
+  },
+  "669": {
+    "english": "dictionary",
+    "french": "dictionnaire",
+    "vietnamese": "từ điển"
+  },
+  "670": {
+    "english": "milk",
+    "french": "lait",
+    "vietnamese": "sưa"
+  },
+  "671": {
+    "english": "speed",
+    "french": "vitesse",
+    "vietnamese": "tốc độ"
+  },
+  "672": {
+    "english": "method",
+    "french": "méthode",
+    "vietnamese": "phương pháp"
+  },
+  "673": {
+    "english": "organ",
+    "french": "organe",
+    "vietnamese": "cơ quan"
+  },
+  "674": {
+    "english": "pay",
+    "french": "payer",
+    "vietnamese": "trả"
+  },
+  "675": {
+    "english": "age",
+    "french": "âge",
+    "vietnamese": "tuổi"
+  },
+  "676": {
+    "english": "section",
+    "french": "section",
+    "vietnamese": "phần"
+  },
+  "677": {
+    "english": "dress",
+    "french": "robe",
+    "vietnamese": "váy"
+  },
+  "678": {
+    "english": "cloud",
+    "french": "nuage",
+    "vietnamese": "điện toán đám mây"
+  },
+  "679": {
+    "english": "surprise",
+    "french": "surprise",
+    "vietnamese": "bất ngờ"
+  },
+  "680": {
+    "english": "quiet",
+    "french": "calme",
+    "vietnamese": "yên tĩnh"
+  },
+  "681": {
+    "english": "stone",
+    "french": "pierre",
+    "vietnamese": "đá"
+  },
+  "682": {
+    "english": "tiny",
+    "french": "minuscule",
+    "vietnamese": "nhỏ"
+  },
+  "683": {
+    "english": "climb",
+    "french": "montée",
+    "vietnamese": "lên cao"
+  },
+  "684": {
+    "english": "cool",
+    "french": "frais",
+    "vietnamese": "mát mẻ"
+  },
+  "685": {
+    "english": "design",
+    "french": "conception",
+    "vietnamese": "thiết kế"
+  },
+  "686": {
+    "english": "poor",
+    "french": "pauvres",
+    "vietnamese": "người nghèo"
+  },
+  "687": {
+    "english": "lot",
+    "french": "lot",
+    "vietnamese": "rất nhiều"
+  },
+  "688": {
+    "english": "experiment",
+    "french": "expérience",
+    "vietnamese": "thí nghiệm"
+  },
+  "689": {
+    "english": "bottom",
+    "french": "bas",
+    "vietnamese": "dưới"
+  },
+  "690": {
+    "english": "key",
+    "french": "clé",
+    "vietnamese": "chính"
+  },
+  "691": {
+    "english": "iron",
+    "french": "fer",
+    "vietnamese": "sắt"
+  },
+  "692": {
+    "english": "single",
+    "french": "unique",
+    "vietnamese": "đơn"
+  },
+  "693": {
+    "english": "stick",
+    "french": "bâton",
+    "vietnamese": "thanh"
+  },
+  "694": {
+    "english": "flat",
+    "french": "plat",
+    "vietnamese": "phẳng"
+  },
+  "695": {
+    "english": "twenty",
+    "french": "vingt",
+    "vietnamese": "hai mươi"
+  },
+  "696": {
+    "english": "skin",
+    "french": "peau",
+    "vietnamese": "da"
+  },
+  "697": {
+    "english": "smile",
+    "french": "sourire",
+    "vietnamese": "nụ cười"
+  },
+  "698": {
+    "english": "crease",
+    "french": "pli",
+    "vietnamese": "nếp"
+  },
+  "699": {
+    "english": "hole",
+    "french": "trou",
+    "vietnamese": "lỗ"
+  },
+  "700": {
+    "english": "jump",
+    "french": "sauter",
+    "vietnamese": "nhảy"
+  },
+  "701": {
+    "english": "baby",
+    "french": "bébé",
+    "vietnamese": "bé"
+  },
+  "702": {
+    "english": "eight",
+    "french": "huit",
+    "vietnamese": "tám"
+  },
+  "703": {
+    "english": "village",
+    "french": "village",
+    "vietnamese": "làng"
+  },
+  "704": {
+    "english": "meet",
+    "french": "se rencontrent",
+    "vietnamese": "đáp ứng"
+  },
+  "705": {
+    "english": "root",
+    "french": "racine",
+    "vietnamese": "gốc"
+  },
+  "706": {
+    "english": "buy",
+    "french": "acheter",
+    "vietnamese": "mua"
+  },
+  "707": {
+    "english": "raise",
+    "french": "augmenter",
+    "vietnamese": "nâng cao"
+  },
+  "708": {
+    "english": "solve",
+    "french": "résoudre",
+    "vietnamese": "giải quyết"
+  },
+  "709": {
+    "english": "metal",
+    "french": "métal",
+    "vietnamese": "kim loại"
+  },
+  "710": {
+    "english": "whether",
+    "french": "si",
+    "vietnamese": "liệu"
+  },
+  "711": {
+    "english": "push",
+    "french": "pousser",
+    "vietnamese": "đẩy"
+  },
+  "712": {
+    "english": "seven",
+    "french": "sept",
+    "vietnamese": "bảy"
+  },
+  "713": {
+    "english": "paragraph",
+    "french": "paragraphe",
+    "vietnamese": "đoạn"
+  },
+  "714": {
+    "english": "third",
+    "french": "troisième",
+    "vietnamese": "thứ ba"
+  },
+  "715": {
+    "english": "shall",
+    "french": "doit",
+    "vietnamese": "có trách nhiệm"
+  },
+  "716": {
+    "english": "held",
+    "french": "en attente",
+    "vietnamese": "được tổ chức"
+  },
+  "717": {
+    "english": "hair",
+    "french": "cheveux",
+    "vietnamese": "lông"
+  },
+  "718": {
+    "english": "describe",
+    "french": "décrire",
+    "vietnamese": "mô tả"
+  },
+  "719": {
+    "english": "cook",
+    "french": "cuisinier",
+    "vietnamese": "nấu ăn"
+  },
+  "720": {
+    "english": "floor",
+    "french": "étage",
+    "vietnamese": "sàn"
+  },
+  "721": {
+    "english": "either",
+    "french": "chaque",
+    "vietnamese": "hoặc"
+  },
+  "722": {
+    "english": "result",
+    "french": "résultat",
+    "vietnamese": "kết quả"
+  },
+  "723": {
+    "english": "burn",
+    "french": "brûler",
+    "vietnamese": "ghi"
+  },
+  "724": {
+    "english": "hill",
+    "french": "colline",
+    "vietnamese": "đồi"
+  },
+  "725": {
+    "english": "safe",
+    "french": "coffre-fort",
+    "vietnamese": "an toàn"
+  },
+  "726": {
+    "english": "cat",
+    "french": "chat",
+    "vietnamese": "mèo"
+  },
+  "727": {
+    "english": "century",
+    "french": "siècle",
+    "vietnamese": "thế kỷ"
+  },
+  "728": {
+    "english": "consider",
+    "french": "envisager",
+    "vietnamese": "xem xét"
+  },
+  "729": {
+    "english": "type",
+    "french": "type",
+    "vietnamese": "loại"
+  },
+  "730": {
+    "english": "law",
+    "french": "droit",
+    "vietnamese": "pháp luật"
+  },
+  "731": {
+    "english": "bit",
+    "french": "peu",
+    "vietnamese": "bit"
+  },
+  "732": {
+    "english": "coast",
+    "french": "côte",
+    "vietnamese": "bờ biển"
+  },
+  "733": {
+    "english": "copy",
+    "french": "copie",
+    "vietnamese": "bản sao"
+  },
+  "734": {
+    "english": "phrase",
+    "french": "phrase",
+    "vietnamese": "cụm từ"
+  },
+  "735": {
+    "english": "silent",
+    "french": "silencieux",
+    "vietnamese": "im lặng"
+  },
+  "736": {
+    "english": "tall",
+    "french": "haut",
+    "vietnamese": "cao"
+  },
+  "737": {
+    "english": "sand",
+    "french": "sable",
+    "vietnamese": "cát"
+  },
+  "738": {
+    "english": "soil",
+    "french": "sol",
+    "vietnamese": "đất"
+  },
+  "739": {
+    "english": "roll",
+    "french": "rouleau",
+    "vietnamese": "cuộn"
+  },
+  "740": {
+    "english": "temperature",
+    "french": "température",
+    "vietnamese": "nhiệt độ"
+  },
+  "741": {
+    "english": "finger",
+    "french": "doigt",
+    "vietnamese": "ngón tay"
+  },
+  "742": {
+    "english": "industry",
+    "french": "industrie",
+    "vietnamese": "ngành công nghiệp"
+  },
+  "743": {
+    "english": "value",
+    "french": "valeur",
+    "vietnamese": "giá trị"
+  },
+  "744": {
+    "english": "fight",
+    "french": "lutte",
+    "vietnamese": "cuộc chiến"
+  },
+  "745": {
+    "english": "lie",
+    "french": "mensonge",
+    "vietnamese": "lời nói dối"
+  },
+  "746": {
+    "english": "beat",
+    "french": "battre",
+    "vietnamese": "đánh bại"
+  },
+  "747": {
+    "english": "excite",
+    "french": "exciter",
+    "vietnamese": "kích thích"
+  },
+  "748": {
+    "english": "natural",
+    "french": "naturel",
+    "vietnamese": "tự nhiên"
+  },
+  "749": {
+    "english": "view",
+    "french": "vue",
+    "vietnamese": "xem"
+  },
+  "750": {
+    "english": "sense",
+    "french": "sens",
+    "vietnamese": "ý nghĩa"
+  },
+  "751": {
+    "english": "capital",
+    "french": "capital",
+    "vietnamese": "vốn"
+  },
+  "752": {
+    "english": "won’t",
+    "french": "ne sera pas",
+    "vietnamese": "sẽ không"
+  },
+  "753": {
+    "english": "chair",
+    "french": "chaise",
+    "vietnamese": "ghế"
+  },
+  "754": {
+    "english": "danger",
+    "french": "danger",
+    "vietnamese": "nguy hiểm"
+  },
+  "755": {
+    "english": "fruit",
+    "french": "fruit",
+    "vietnamese": "trái cây"
+  },
+  "756": {
+    "english": "rich",
+    "french": "riche",
+    "vietnamese": "giàu"
+  },
+  "757": {
+    "english": "thick",
+    "french": "épais",
+    "vietnamese": "dày"
+  },
+  "758": {
+    "english": "soldier",
+    "french": "soldat",
+    "vietnamese": "người lính"
+  },
+  "759": {
+    "english": "process",
+    "french": "processus",
+    "vietnamese": "quá trình"
+  },
+  "760": {
+    "english": "operate",
+    "french": "fonctionner",
+    "vietnamese": "hoạt động"
+  },
+  "761": {
+    "english": "practice",
+    "french": "pratique",
+    "vietnamese": "thực hành"
+  },
+  "762": {
+    "english": "separate",
+    "french": "séparé",
+    "vietnamese": "riêng biệt"
+  },
+  "763": {
+    "english": "difficult",
+    "french": "difficile",
+    "vietnamese": "khó khăn"
+  },
+  "764": {
+    "english": "doctor",
+    "french": "médecin",
+    "vietnamese": "bác sĩ"
+  },
+  "765": {
+    "english": "please",
+    "french": "s’il vous plaît",
+    "vietnamese": "xin vui lòng"
+  },
+  "766": {
+    "english": "protect",
+    "french": "protéger",
+    "vietnamese": "bảo vệ"
+  },
+  "767": {
+    "english": "noon",
+    "french": "midi",
+    "vietnamese": "trưa"
+  },
+  "768": {
+    "english": "crop",
+    "french": "récolte",
+    "vietnamese": "cây trồng"
+  },
+  "769": {
+    "english": "modern",
+    "french": "moderne",
+    "vietnamese": "hiện đại"
+  },
+  "770": {
+    "english": "element",
+    "french": "élément",
+    "vietnamese": "yếu tố"
+  },
+  "771": {
+    "english": "hit",
+    "french": "frapper",
+    "vietnamese": "nhấn"
+  },
+  "772": {
+    "english": "student",
+    "french": "étudiant",
+    "vietnamese": "sinh viên"
+  },
+  "773": {
+    "english": "corner",
+    "french": "coin",
+    "vietnamese": "góc"
+  },
+  "774": {
+    "english": "party",
+    "french": "partie",
+    "vietnamese": "bên"
+  },
+  "775": {
+    "english": "supply",
+    "french": "alimentation",
+    "vietnamese": "cung cấp"
+  },
+  "776": {
+    "english": "whose",
+    "french": "dont",
+    "vietnamese": "có"
+  },
+  "777": {
+    "english": "locate",
+    "french": "localiser",
+    "vietnamese": "xác định vị trí"
+  },
+  "778": {
+    "english": "ring",
+    "french": "anneau",
+    "vietnamese": "vòng"
+  },
+  "779": {
+    "english": "character",
+    "french": "caractère",
+    "vietnamese": "nhân vật"
+  },
+  "780": {
+    "english": "insect",
+    "french": "insecte",
+    "vietnamese": "côn trùng"
+  },
+  "781": {
+    "english": "caught",
+    "french": "pris",
+    "vietnamese": "bắt"
+  },
+  "782": {
+    "english": "period",
+    "french": "période",
+    "vietnamese": "thời gian"
+  },
+  "783": {
+    "english": "indicate",
+    "french": "indiquer",
+    "vietnamese": "chỉ ra"
+  },
+  "784": {
+    "english": "radio",
+    "french": "radio",
+    "vietnamese": "radio"
+  },
+  "785": {
+    "english": "spoke",
+    "french": "rayon",
+    "vietnamese": "nói"
+  },
+  "786": {
+    "english": "atom",
+    "french": "atome",
+    "vietnamese": "nguyên tử"
+  },
+  "787": {
+    "english": "human",
+    "french": "humain",
+    "vietnamese": "con người"
+  },
+  "788": {
+    "english": "history",
+    "french": "histoire",
+    "vietnamese": "lịch sử"
+  },
+  "789": {
+    "english": "effect",
+    "french": "effet",
+    "vietnamese": "hiệu lực"
+  },
+  "790": {
+    "english": "electric",
+    "french": "électrique",
+    "vietnamese": "điện"
+  },
+  "791": {
+    "english": "expect",
+    "french": "attendre",
+    "vietnamese": "mong đợi"
+  },
+  "792": {
+    "english": "bone",
+    "french": "os",
+    "vietnamese": "xương"
+  },
+  "793": {
+    "english": "rail",
+    "french": "rail",
+    "vietnamese": "đường sắt"
+  },
+  "794": {
+    "english": "imagine",
+    "french": "imaginer",
+    "vietnamese": "tưởng tượng"
+  },
+  "795": {
+    "english": "provide",
+    "french": "fournir",
+    "vietnamese": "cho"
+  },
+  "796": {
+    "english": "agree",
+    "french": "se mettre d’accord",
+    "vietnamese": "đồng ý"
+  },
+  "797": {
+    "english": "thus",
+    "french": "ainsi",
+    "vietnamese": "do đó"
+  },
+  "798": {
+    "english": "gentle",
+    "french": "doux",
+    "vietnamese": "nhẹ nhàng"
+  },
+  "799": {
+    "english": "woman",
+    "french": "femme",
+    "vietnamese": "người phụ nữ"
+  },
+  "800": {
+    "english": "captain",
+    "french": "capitaine",
+    "vietnamese": "đội trưởng"
+  },
+  "801": {
+    "english": "guess",
+    "french": "deviner",
+    "vietnamese": "đoán"
+  },
+  "802": {
+    "english": "necessary",
+    "french": "nécessaire",
+    "vietnamese": "cần thiết"
+  },
+  "803": {
+    "english": "sharp",
+    "french": "net",
+    "vietnamese": "sắc nét"
+  },
+  "804": {
+    "english": "wing",
+    "french": "aile",
+    "vietnamese": "cánh"
+  },
+  "805": {
+    "english": "create",
+    "french": "créer",
+    "vietnamese": "tạo"
+  },
+  "806": {
+    "english": "neighbor",
+    "french": "voisin",
+    "vietnamese": "hàng xóm"
+  },
+  "807": {
+    "english": "wash",
+    "french": "lavage",
+    "vietnamese": "rửa"
+  },
+  "808": {
+    "english": "bat",
+    "french": "chauve-souris",
+    "vietnamese": "bat"
+  },
+  "809": {
+    "english": "rather",
+    "french": "plutôt",
+    "vietnamese": "thay"
+  },
+  "810": {
+    "english": "crowd",
+    "french": "foule",
+    "vietnamese": "đám đông"
+  },
+  "811": {
+    "english": "corn",
+    "french": "blé",
+    "vietnamese": "ngô"
+  },
+  "812": {
+    "english": "compare",
+    "french": "comparer",
+    "vietnamese": "so sánh"
+  },
+  "813": {
+    "english": "poem",
+    "french": "poème",
+    "vietnamese": "bài thơ"
+  },
+  "814": {
+    "english": "string",
+    "french": "chaîne",
+    "vietnamese": "chuỗi"
+  },
+  "815": {
+    "english": "bell",
+    "french": "cloche",
+    "vietnamese": "chuông"
+  },
+  "816": {
+    "english": "depend",
+    "french": "dépendre",
+    "vietnamese": "phụ thuộc"
+  },
+  "817": {
+    "english": "meat",
+    "french": "viande",
+    "vietnamese": "thịt"
+  },
+  "818": {
+    "english": "rub",
+    "french": "rub",
+    "vietnamese": "chà"
+  },
+  "819": {
+    "english": "tube",
+    "french": "tube",
+    "vietnamese": "ống"
+  },
+  "820": {
+    "english": "famous",
+    "french": "célèbre",
+    "vietnamese": "nổi tiếng"
+  },
+  "822": {
+    "english": "stream",
+    "french": "courant",
+    "vietnamese": "sông"
+  },
+  "823": {
+    "english": "fear",
+    "french": "peur",
+    "vietnamese": "sợ hãi"
+  },
+  "825": {
+    "english": "thin",
+    "french": "mince",
+    "vietnamese": "mỏng"
+  },
+  "826": {
+    "english": "triangle",
+    "french": "triangle",
+    "vietnamese": "tam giác"
+  },
+  "827": {
+    "english": "planet",
+    "french": "planète",
+    "vietnamese": "hành tinh"
+  },
+  "828": {
+    "english": "hurry",
+    "french": "se dépêcher",
+    "vietnamese": "nhanh"
+  },
+  "829": {
+    "english": "chief",
+    "french": "chef",
+    "vietnamese": "trưởng"
+  },
+  "830": {
+    "english": "colony",
+    "french": "colonie",
+    "vietnamese": "thuộc địa"
+  },
+  "831": {
+    "english": "clock",
+    "french": "horloge",
+    "vietnamese": "đồng hồ"
+  },
+  "832": {
+    "english": "mine",
+    "french": "mine",
+    "vietnamese": "tôi"
+  },
+  "833": {
+    "english": "tie",
+    "french": "lien",
+    "vietnamese": "cà vạt"
+  },
+  "834": {
+    "english": "enter",
+    "french": "entrer",
+    "vietnamese": "nhập"
+  },
+  "835": {
+    "english": "major",
+    "french": "majeur",
+    "vietnamese": "chính"
+  },
+  "836": {
+    "english": "fresh",
+    "french": "frais",
+    "vietnamese": "tươi"
+  },
+  "837": {
+    "english": "search",
+    "french": "recherche",
+    "vietnamese": "tìm kiếm"
+  },
+  "838": {
+    "english": "send",
+    "french": "envoyer",
+    "vietnamese": "gửi"
+  },
+  "839": {
+    "english": "yellow",
+    "french": "jaune",
+    "vietnamese": "vàng"
+  },
+  "840": {
+    "english": "rose",
+    "french": "rose",
+    "vietnamese": "tăng"
+  },
+  "841": {
+    "english": "allow",
+    "french": "permettre",
+    "vietnamese": "cho phép"
+  },
+  "842": {
+    "english": "print",
+    "french": "impression",
+    "vietnamese": "in"
+  },
+  "843": {
+    "english": "dead",
+    "french": "mort",
+    "vietnamese": "chết"
+  },
+  "844": {
+    "english": "spot",
+    "french": "place",
+    "vietnamese": "tại chỗ"
+  },
+  "845": {
+    "english": "desert",
+    "french": "désert",
+    "vietnamese": "sa mạc"
+  },
+  "846": {
+    "english": "suit",
+    "french": "costume",
+    "vietnamese": "phù hợp với"
+  },
+  "847": {
+    "english": "current",
+    "french": "courant",
+    "vietnamese": "hiện tại"
+  },
+  "848": {
+    "english": "lift",
+    "french": "ascenseur",
+    "vietnamese": "thang máy"
+  },
+  "850": {
+    "english": "arrive",
+    "french": "arriver",
+    "vietnamese": "đến"
+  },
+  "851": {
+    "english": "master",
+    "french": "maître",
+    "vietnamese": "chủ"
+  },
+  "852": {
+    "english": "track",
+    "french": "piste",
+    "vietnamese": "theo dõi"
+  },
+  "853": {
+    "english": "parent",
+    "french": "mère",
+    "vietnamese": "mẹ"
+  },
+  "854": {
+    "english": "shore",
+    "french": "rivage",
+    "vietnamese": "bờ"
+  },
+  "855": {
+    "english": "division",
+    "french": "division",
+    "vietnamese": "phân chia"
+  },
+  "856": {
+    "english": "sheet",
+    "french": "feuille",
+    "vietnamese": "tờ"
+  },
+  "857": {
+    "english": "substance",
+    "french": "substance",
+    "vietnamese": "chất"
+  },
+  "858": {
+    "english": "favor",
+    "french": "favoriser",
+    "vietnamese": "ủng hộ"
+  },
+  "859": {
+    "english": "connect",
+    "french": "relier",
+    "vietnamese": "kết nối"
+  },
+  "860": {
+    "english": "post",
+    "french": "poste",
+    "vietnamese": "bài"
+  },
+  "861": {
+    "english": "spend",
+    "french": "passer",
+    "vietnamese": "chi tiêu"
+  },
+  "862": {
+    "english": "chord",
+    "french": "corde",
+    "vietnamese": "hợp âm"
+  },
+  "863": {
+    "english": "fat",
+    "french": "graisse",
+    "vietnamese": "chất béo"
+  },
+  "864": {
+    "english": "glad",
+    "french": "heureux",
+    "vietnamese": "vui"
+  },
+  "865": {
+    "english": "original",
+    "french": "original",
+    "vietnamese": "ban đầu"
+  },
+  "866": {
+    "english": "share",
+    "french": "part",
+    "vietnamese": "chia sẻ"
+  },
+  "867": {
+    "english": "station",
+    "french": "station",
+    "vietnamese": "trạm"
+  },
+  "868": {
+    "english": "dad",
+    "french": "papa",
+    "vietnamese": "cha"
+  },
+  "869": {
+    "english": "bread",
+    "french": "pain",
+    "vietnamese": "bánh mì"
+  },
+  "870": {
+    "english": "charge",
+    "french": "charger",
+    "vietnamese": "phí"
+  },
+  "871": {
+    "english": "proper",
+    "french": "propre",
+    "vietnamese": "thích hợp"
+  },
+  "872": {
+    "english": "bar",
+    "french": "bar",
+    "vietnamese": "thanh"
+  },
+  "873": {
+    "english": "offer",
+    "french": "proposition",
+    "vietnamese": "phục vụ"
+  },
+  "874": {
+    "english": "segment",
+    "french": "segment",
+    "vietnamese": "phân khúc"
+  },
+  "875": {
+    "english": "slave",
+    "french": "esclave",
+    "vietnamese": "nô lệ"
+  },
+  "876": {
+    "english": "duck",
+    "french": "canard",
+    "vietnamese": "vịt"
+  },
+  "877": {
+    "english": "instant",
+    "french": "instant",
+    "vietnamese": "ngay lập tức"
+  },
+  "878": {
+    "english": "market",
+    "french": "marché",
+    "vietnamese": "thị trường"
+  },
+  "879": {
+    "english": "degree",
+    "french": "degré",
+    "vietnamese": "mức độ"
+  },
+  "880": {
+    "english": "populate",
+    "french": "peupler",
+    "vietnamese": "cư"
+  },
+  "881": {
+    "english": "chick",
+    "french": "poussin",
+    "vietnamese": "gà"
+  },
+  "882": {
+    "english": "dear",
+    "french": "cher",
+    "vietnamese": "thân yêu"
+  },
+  "883": {
+    "english": "enemy",
+    "french": "ennemi",
+    "vietnamese": "kẻ thù"
+  },
+  "884": {
+    "english": "reply",
+    "french": "répondre",
+    "vietnamese": "trả lời"
+  },
+  "885": {
+    "english": "drink",
+    "french": "boisson",
+    "vietnamese": "ly"
+  },
+  "886": {
+    "english": "occur",
+    "french": "se produire",
+    "vietnamese": "xảy ra"
+  },
+  "887": {
+    "english": "support",
+    "french": "support",
+    "vietnamese": "hỗ trợ"
+  },
+  "888": {
+    "english": "speech",
+    "french": "discours",
+    "vietnamese": "bài phát biểu"
+  },
+  "889": {
+    "english": "nature",
+    "french": "nature",
+    "vietnamese": "thiên nhiên"
+  },
+  "890": {
+    "english": "range",
+    "french": "gamme",
+    "vietnamese": "phạm vi"
+  },
+  "891": {
+    "english": "steam",
+    "french": "vapeur",
+    "vietnamese": "hơi nước"
+  },
+  "892": {
+    "english": "motion",
+    "french": "mouvement",
+    "vietnamese": "chuyển động"
+  },
+  "893": {
+    "english": "path",
+    "french": "chemin",
+    "vietnamese": "con đường"
+  },
+  "894": {
+    "english": "liquid",
+    "french": "liquide",
+    "vietnamese": "chất lỏng"
+  },
+  "895": {
+    "english": "log",
+    "french": "enregistrer",
+    "vietnamese": "đăng nhập"
+  },
+  "896": {
+    "english": "meant",
+    "french": "signifiait",
+    "vietnamese": "có nghĩa là"
+  },
+  "897": {
+    "english": "quotient",
+    "french": "quotient",
+    "vietnamese": "thương"
+  },
+  "898": {
+    "english": "teeth",
+    "french": "dents",
+    "vietnamese": "răng"
+  },
+  "899": {
+    "english": "shell",
+    "french": "coquille",
+    "vietnamese": "vỏ"
+  },
+  "900": {
+    "english": "neck",
+    "french": "cou",
+    "vietnamese": "cổ"
+  },
+  "901": {
+    "english": "oxygen",
+    "french": "oxygène",
+    "vietnamese": "oxy"
+  },
+  "902": {
+    "english": "sugar",
+    "french": "sucre",
+    "vietnamese": "đường"
+  },
+  "903": {
+    "english": "death",
+    "french": "décès",
+    "vietnamese": "chết"
+  },
+  "904": {
+    "english": "pretty",
+    "french": "assez",
+    "vietnamese": "khá"
+  },
+  "905": {
+    "english": "skill",
+    "french": "compétence",
+    "vietnamese": "kỹ năng"
+  },
+  "906": {
+    "english": "women",
+    "french": "femmes",
+    "vietnamese": "phụ nữ"
+  },
+  "907": {
+    "english": "season",
+    "french": "saison",
+    "vietnamese": "mùa"
+  },
+  "908": {
+    "english": "solution",
+    "french": "solution",
+    "vietnamese": "giải pháp"
+  },
+  "909": {
+    "english": "magnet",
+    "french": "aimant",
+    "vietnamese": "nam châm"
+  },
+  "910": {
+    "english": "silver",
+    "french": "argent",
+    "vietnamese": "bạc"
+  },
+  "911": {
+    "english": "thank",
+    "french": "merci",
+    "vietnamese": "cảm ơn"
+  },
+  "912": {
+    "english": "branch",
+    "french": "branche",
+    "vietnamese": "chi nhánh"
+  },
+  "913": {
+    "english": "match",
+    "french": "rencontre",
+    "vietnamese": "trận đấu"
+  },
+  "914": {
+    "english": "suffix",
+    "french": "suffixe",
+    "vietnamese": "hậu tố"
+  },
+  "915": {
+    "english": "especially",
+    "french": "particulièrement",
+    "vietnamese": "đặc biệt là"
+  },
+  "916": {
+    "english": "fig",
+    "french": "figue",
+    "vietnamese": "sung"
+  },
+  "917": {
+    "english": "afraid",
+    "french": "peur",
+    "vietnamese": "sợ"
+  },
+  "918": {
+    "english": "huge",
+    "french": "énorme",
+    "vietnamese": "to"
+  },
+  "919": {
+    "english": "sister",
+    "french": "sœur",
+    "vietnamese": "em gái"
+  },
+  "920": {
+    "english": "steel",
+    "french": "acier",
+    "vietnamese": "thép"
+  },
+  "921": {
+    "english": "discuss",
+    "french": "discuter",
+    "vietnamese": "thảo luận"
+  },
+  "922": {
+    "english": "forward",
+    "french": "avant",
+    "vietnamese": "về phía trước"
+  },
+  "923": {
+    "english": "similar",
+    "french": "similaire",
+    "vietnamese": "tương tự"
+  },
+  "924": {
+    "english": "guide",
+    "french": "guider",
+    "vietnamese": "hướng dẫn"
+  },
+  "925": {
+    "english": "experience",
+    "french": "expérience",
+    "vietnamese": "kinh nghiệm"
+  },
+  "926": {
+    "english": "score",
+    "french": "score",
+    "vietnamese": "điểm"
+  },
+  "927": {
+    "english": "apple",
+    "french": "pomme",
+    "vietnamese": "táo"
+  },
+  "928": {
+    "english": "bought",
+    "french": "acheté",
+    "vietnamese": "mua"
+  },
+  "929": {
+    "english": "led",
+    "french": "LED",
+    "vietnamese": "dẫn"
+  },
+  "930": {
+    "english": "pitch",
+    "french": "pas",
+    "vietnamese": "sân"
+  },
+  "931": {
+    "english": "coat",
+    "french": "manteau",
+    "vietnamese": "áo"
+  },
+  "932": {
+    "english": "mass",
+    "french": "masse",
+    "vietnamese": "khối lượng"
+  },
+  "933": {
+    "english": "card",
+    "french": "carte",
+    "vietnamese": "thẻ"
+  },
+  "934": {
+    "english": "band",
+    "french": "bande",
+    "vietnamese": "ban nhạc"
+  },
+  "935": {
+    "english": "rope",
+    "french": "corde",
+    "vietnamese": "dây"
+  },
+  "936": {
+    "english": "slip",
+    "french": "glissement",
+    "vietnamese": "trượt"
+  },
+  "937": {
+    "english": "win",
+    "french": "gagner",
+    "vietnamese": "giành chiến thắng"
+  },
+  "938": {
+    "english": "dream",
+    "french": "rêver",
+    "vietnamese": "mơ"
+  },
+  "939": {
+    "english": "evening",
+    "french": "soirée",
+    "vietnamese": "buổi tối"
+  },
+  "940": {
+    "english": "condition",
+    "french": "condition",
+    "vietnamese": "điều kiện"
+  },
+  "941": {
+    "english": "feed",
+    "french": "alimentation",
+    "vietnamese": "thức ăn chăn nuôi"
+  },
+  "942": {
+    "english": "tool",
+    "french": "outil",
+    "vietnamese": "công cụ"
+  },
+  "943": {
+    "english": "total",
+    "french": "total",
+    "vietnamese": "tổng số"
+  },
+  "944": {
+    "english": "basic",
+    "french": "de base",
+    "vietnamese": "cơ bản"
+  },
+  "945": {
+    "english": "smell",
+    "french": "odeur",
+    "vietnamese": "mùi"
+  },
+  "946": {
+    "english": "valley",
+    "french": "vallée",
+    "vietnamese": "thung lũng"
+  },
+  "947": {
+    "english": "nor",
+    "french": "ni",
+    "vietnamese": "cũng không"
+  },
+  "948": {
+    "english": "double",
+    "french": "double",
+    "vietnamese": "đôi"
+  },
+  "949": {
+    "english": "seat",
+    "french": "siège",
+    "vietnamese": "ghế"
+  },
+  "950": {
+    "english": "continue",
+    "french": "continuer",
+    "vietnamese": "tiếp tục"
+  },
+  "951": {
+    "english": "block",
+    "french": "bloc",
+    "vietnamese": "khối"
+  },
+  "952": {
+    "english": "chart",
+    "french": "graphique",
+    "vietnamese": "biểu đồ"
+  },
+  "953": {
+    "english": "hat",
+    "french": "chapeau",
+    "vietnamese": "mũ"
+  },
+  "954": {
+    "english": "sell",
+    "french": "vendre",
+    "vietnamese": "bán"
+  },
+  "955": {
+    "english": "success",
+    "french": "succès",
+    "vietnamese": "thành công"
+  },
+  "956": {
+    "english": "company",
+    "french": "entreprise",
+    "vietnamese": "công ty"
+  },
+  "957": {
+    "english": "subtract",
+    "french": "soustraire",
+    "vietnamese": "trừ"
+  },
+  "958": {
+    "english": "event",
+    "french": "événement",
+    "vietnamese": "sự kiện"
+  },
+  "959": {
+    "english": "particular",
+    "french": "particulier",
+    "vietnamese": "riêng"
+  },
+  "960": {
+    "english": "deal",
+    "french": "accord",
+    "vietnamese": "thỏa thuận"
+  },
+  "961": {
+    "english": "swim",
+    "french": "baignade",
+    "vietnamese": "bơi"
+  },
+  "962": {
+    "english": "term",
+    "french": "terme",
+    "vietnamese": "hạn"
+  },
+  "963": {
+    "english": "opposite",
+    "french": "opposé",
+    "vietnamese": "ngược lại"
+  },
+  "964": {
+    "english": "wife",
+    "french": "femme",
+    "vietnamese": "vợ"
+  },
+  "965": {
+    "english": "shoe",
+    "french": "chaussure",
+    "vietnamese": "giày"
+  },
+  "966": {
+    "english": "shoulder",
+    "french": "épaule",
+    "vietnamese": "vai"
+  },
+  "967": {
+    "english": "spread",
+    "french": "propagation",
+    "vietnamese": "lây lan"
+  },
+  "968": {
+    "english": "arrange",
+    "french": "organiser",
+    "vietnamese": "sắp xếp"
+  },
+  "969": {
+    "english": "camp",
+    "french": "camp",
+    "vietnamese": "trại"
+  },
+  "970": {
+    "english": "invent",
+    "french": "inventer",
+    "vietnamese": "phát minh"
+  },
+  "971": {
+    "english": "cotton",
+    "french": "coton",
+    "vietnamese": "bông"
+  },
+  "972": {
+    "english": "born",
+    "french": "né",
+    "vietnamese": "Sinh"
+  },
+  "973": {
+    "english": "determine",
+    "french": "déterminer",
+    "vietnamese": "xác định"
+  },
+  "974": {
+    "english": "quart",
+    "french": "litre",
+    "vietnamese": "lít"
+  },
+  "975": {
+    "english": "nine",
+    "french": "neuf",
+    "vietnamese": "chín"
+  },
+  "976": {
+    "english": "truck",
+    "french": "camion",
+    "vietnamese": "xe tải"
+  },
+  "977": {
+    "english": "noise",
+    "french": "bruit",
+    "vietnamese": "tiếng ồn"
+  },
+  "978": {
+    "english": "level",
+    "french": "niveau",
+    "vietnamese": "mức"
+  },
+  "979": {
+    "english": "chance",
+    "french": "chance",
+    "vietnamese": "cơ hội"
+  },
+  "980": {
+    "english": "gather",
+    "french": "recueillir",
+    "vietnamese": "thu thập"
+  },
+  "981": {
+    "english": "shop",
+    "french": "boutique",
+    "vietnamese": "cửa hàng"
+  },
+  "982": {
+    "english": "stretch",
+    "french": "tronçon",
+    "vietnamese": "căng ra"
+  },
+  "983": {
+    "english": "throw",
+    "french": "jeter",
+    "vietnamese": "ném"
+  },
+  "984": {
+    "english": "shine",
+    "french": "éclat",
+    "vietnamese": "tỏa sáng"
+  },
+  "985": {
+    "english": "property",
+    "french": "propriété",
+    "vietnamese": "tài sản"
+  },
+  "986": {
+    "english": "column",
+    "french": "colonne",
+    "vietnamese": "cột"
+  },
+  "987": {
+    "english": "molecule",
+    "french": "molécule",
+    "vietnamese": "phân tử"
+  },
+  "988": {
+    "english": "select",
+    "french": "sélectionner",
+    "vietnamese": "chọn"
+  },
+  "989": {
+    "english": "wrong",
+    "french": "mal",
+    "vietnamese": "sai"
+  },
+  "990": {
+    "english": "gray",
+    "french": "gris",
+    "vietnamese": "màu xám"
+  },
+  "991": {
+    "english": "repeat",
+    "french": "répétition",
+    "vietnamese": "lặp lại"
+  },
+  "992": {
+    "english": "require",
+    "french": "exiger",
+    "vietnamese": "yêu cầu"
+  },
+  "993": {
+    "english": "broad",
+    "french": "large",
+    "vietnamese": "rộng"
+  },
+  "994": {
+    "english": "prepare",
+    "french": "préparer",
+    "vietnamese": "chuẩn bị"
+  },
+  "995": {
+    "english": "salt",
+    "french": "sel",
+    "vietnamese": "muối"
+  },
+  "996": {
+    "english": "nose",
+    "french": "nez",
+    "vietnamese": "mui"
+  },
+  "997": {
+    "english": "plural",
+    "french": "pluriel",
+    "vietnamese": "số nhiều"
+  },
+  "998": {
+    "english": "anger",
+    "french": "colère",
+    "vietnamese": "tức giận"
+  },
+  "999": {
+    "english": "claim",
+    "french": "revendication",
+    "vietnamese": "xin"
+  },
+  "1000": {
+    "english": "continent",
+    "french": "continent…",
+    "vietnamese": "lục"
+  }
+}
