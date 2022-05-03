@@ -1,4 +1,5 @@
 import { useDarkMode } from 'usehooks-ts';
+import { GameProvider } from './context/GameContext';
 import Header from './components/Layout/Header/Header';
 import Main from './components/Layout/Main/Main';
 import Footer from './components/Layout/Footer/Footer';
@@ -9,7 +10,9 @@ const App: React.FC = () => {
   return (
     <div className="App" data-theme={isDarkMode ? 'dark' : 'light'}>
       <Header />
-      <Main />
+      <GameProvider>
+        <Main />
+      </GameProvider>
       <Footer />
     </div>
   );

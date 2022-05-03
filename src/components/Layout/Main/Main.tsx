@@ -1,10 +1,13 @@
+import { GameProvider } from '../../../context/GameContext';
 import GameCard from '../../GameCard/GameCard';
 import './Main.css';
 
 const Main: React.FC = () => {
   return (
     <main className="main">
-      <GameCard />
+      <GameProvider>
+        <GameCard />
+      </GameProvider>
     </main>
   );
 };
