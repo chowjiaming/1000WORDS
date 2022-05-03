@@ -5,6 +5,10 @@
   border: none;
 }
 
+.button::first-letter {
+  text-transform: capitalize;
+}
+
 .button--primary {
   background-color: var(--primary);
   color: var(--font);

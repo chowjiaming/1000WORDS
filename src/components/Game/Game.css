@@ -1,4 +1,4 @@
-.onboard {
+.game {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 0.6fr 1.4fr;
@@ -9,16 +9,12 @@
   height: 100%;
 }
 
-.onboard__heading {
+.game__word {
   grid-row: 1 / 2;
   text-align: center;
   align-self: center;
 }
 
-.onboard__buttons {
-  grid-row: 2 / 3;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  flex-wrap: wrap;
+.game__word::first-letter {
+  text-transform: uppercase;
 }
