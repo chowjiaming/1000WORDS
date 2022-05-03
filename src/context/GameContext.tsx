@@ -17,8 +17,16 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
     score: 0,
   });
 
+  const handleLanguageSelect = (
+    e: React.MouseEvent<HTMLButtonElement>,
+  ): void => {
+    setGameData({ ...gameData, language: e.currentTarget.value });
+  };
+
   return (
-    <GameContext.Provider value={{ gameData, setGameData }}>
+    <GameContext.Provider
+      value={{ gameData, setGameData, handleLanguageSelect }}
+    >
       {children}
     </GameContext.Provider>
   );

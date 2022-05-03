@@ -10,4 +10,5 @@ export interface IGameData {
 export type GameContextType = {
   gameData: IGameData;
   setGameData: React.Dispatch<React.SetStateAction<IGameData>>;
+  handleLanguageSelect: (e: React.MouseEvent<HTMLButtonElement>) => void;
 };
