@@ -8,11 +8,20 @@
   transition: all 0.3s ease-in;
 }
 
+.themetoggler__icon {
+  width: 1em;
+  position: absolute;
+}
+
+.themetoggler__icon--dark {
+  transform: translateX(150%);
+}
+
 .themetoggler__knob {
   width: 1em;
   height: 1em;
   border-radius: 50%;
-  background-color: var(--font);
+  background-color: var(--secondary);
   transition: all 0.3s ease-in-out;
 }
 
