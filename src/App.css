@@ -7,5 +7,27 @@
     '.'
     '.'
     '.';
+  background-color: var(--background);
+  color: var(--font);
   min-height: 100vh;
+}
+
+[data-theme='dark'] {
+  --background: #222831;
+  --background-secondary: #3c424b;
+  --primary: #4f8a8b;
+  --secondary: #fbd46d;
+  --tertiary: #f96d15;
+  --font: #eeeeee;
+  --error: #ff2216;
+}
+
+[data-theme='light'] {
+  --background: #eeeeee;
+  --bacground-secondary: #d5d5d5;
+  --primary: #4f8a8b;
+  --secondary: #fbd46d;
+  --tertiary: #f96d15;
+  --font: #222831;
+  --error: #ff2216;
 }

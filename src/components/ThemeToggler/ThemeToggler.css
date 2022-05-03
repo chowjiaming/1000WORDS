@@ -1,0 +1,22 @@
+.themetoggler {
+  width: 3em;
+  padding: 0.2em;
+  margin: 0 1em 0 0.5em;
+  border-radius: 2em;
+  cursor: pointer;
+  background-color: var(--primary);
+  transition: all 0.3s ease-in;
+}
+
+.themetoggler__knob {
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  background-color: var(--font);
+  transition: all 0.3s ease-in-out;
+}
+
+.themetoggler__knob--light {
+  margin-left: 100%;
+  transform: translateX(-100%);
+}

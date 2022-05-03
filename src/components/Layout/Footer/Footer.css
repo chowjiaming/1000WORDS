@@ -8,3 +8,11 @@ footer {
 footer > p {
   text-align: center;
 }
+
+.footer__text--link {
+  color: var(--primary);
+}
+
+.footer__text--emoji {
+  color: var(--error);
+}
