@@ -16,4 +16,5 @@ export type GameContextType = {
   setGameSequence: () => void;
   setNextRound: () => void;
   setGameRound: (sequence: number, numOptions: number) => void;
+  handleGuess: (e: React.MouseEvent<HTMLButtonElement>) => void;
 };

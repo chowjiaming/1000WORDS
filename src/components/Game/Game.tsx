@@ -5,9 +5,10 @@ import Button from '../Shared/Button/Button';
 import './Game.css';
 
 const Game: React.FC = () => {
-  const { gameData, setGameRound } = useContext(GameContext) as GameContextType;
+  const { gameData, setGameRound, handleGuess } = useContext(
+    GameContext,
+  ) as GameContextType;
   const { wordToTranslate, flashcardOptions, gameRound, score } = gameData;
-  console.log(flashcardOptions);
 
   useEffect(() => {
     setGameRound(gameData.gameSequence[gameData.gameRound - 1], 6);
@@ -19,7 +20,7 @@ const Game: React.FC = () => {
       return (
         <Button
           key={flashcardOption}
-          handleClick={() => console.log(flashcardOption)}
+          handleClick={handleGuess}
           classnames={'button--primary onboard__button'}
           type={'button'}
           value={flashcardOption}

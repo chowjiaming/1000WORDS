@@ -54,6 +54,21 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
     setGameData({ ...gameData, wordToTranslate, flashcardOptions });
   };
 
+  const handleGuess = (e: React.MouseEvent<HTMLButtonElement>): void => {
+    const wordObj =
+      words[
+        gameData.gameSequence[
+          gameData.gameRound - 1
+        ].toString() as keyof typeof words
+      ];
+    const word = wordObj['english' as keyof typeof wordObj];
+    if (word === e.currentTarget.value) {
+      console.log('Correct!');
+    } else {
+      console.log('Incorrect');
+    }
+  };
+
   return (
     <GameContext.Provider
       value={{
@@ -63,6 +78,7 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
         setGameSequence,
         setNextRound,
         setGameRound,
+        handleGuess,
       }}
     >
       {children}
