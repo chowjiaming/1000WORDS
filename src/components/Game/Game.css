@@ -9,12 +9,79 @@
   height: 100%;
 }
 
-.game__word {
-  grid-row: 1 / 2;
-  text-align: center;
-  align-self: center;
+.game__flashcards {
+  display: grid;
+  gap: 0px 0px;
+  justify-items: center;
+  align-items: center;
 }
 
-.game__word::first-letter {
-  text-transform: uppercase;
+.game__interface {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 0px 0px;
+  grid-template-areas:
+    '. . .'
+    '. . .'
+    '. . .';
+  justify-items: center;
+  align-items: center;
+}
+
+.game__score {
+  grid-row: 1 / 2;
+  grid-column: 1 / 2;
+}
+
+.game__round {
+  grid-row: 1 / 2;
+  grid-column: 3 / 4;
+}
+
+.game__word {
+  grid-row: 2 / 3;
+  grid-column: 1 / 4;
+  text-transform: capitalize;
+}
+
+@media (min-width: 48rem) {
+  .game {
+    grid-template-rows: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 64rem) {
+  .game {
+    grid-template-columns: 0.5fr 2fr 0.5fr;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-areas:
+      '. . .'
+      '. . .';
+  }
+  .game__interface {
+    grid-column: 1 / 4;
+  }
+  .game__flashcards {
+    grid-column: 2 / 3;
+  }
+}
+
+.game__flashcards--easy {
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas:
+    '. .'
+    '. .'
+    '. .';
+}
+
+@media (min-width: 48rem) {
+  .game__flashcards--easy {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-areas:
+      '. . .'
+      '. . .';
+  }
 }
