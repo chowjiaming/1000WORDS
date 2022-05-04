@@ -5,6 +5,7 @@ export interface IGameData {
   wordToTranslate: string;
   flashcardOptions: string[];
   guessedWords: string[];
+  completedWords: number[];
   score: number;
 }
 
@@ -13,6 +14,6 @@ export type GameContextType = {
   setGameData: React.Dispatch<React.SetStateAction<IGameData>>;
   handleLanguageSelect: (e: React.MouseEvent<HTMLButtonElement>) => void;
   setGameSequence: () => void;
-  setGameRound: () => void;
-  setWordToTranslate: (sequence: number) => void;
+  setNextRound: () => void;
+  setGameRound: (sequence: number, numOptions: number) => void;
 };

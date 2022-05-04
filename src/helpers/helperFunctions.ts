@@ -1,8 +1,6 @@
-export const populateAndShuffleArray = (length: number): number[] => {
-  // Populates array from 1 to length
-  const array = Array.from({ length }, (_, i) => i + 1);
-  let currentIndex = array.length,
-    randomIndex;
+const suffleArray = (array: number[]): number[] => {
+  let currentIndex: number = array.length,
+    randomIndex: number;
   // While there remain elements to shuffle.
   while (currentIndex != 0) {
     // Pick a remaining element.
@@ -17,13 +15,25 @@ export const populateAndShuffleArray = (length: number): number[] => {
   return array;
 };
 
-export const generateRandom = (max: number, exclude: number[]): number => {
-  let random;
-  // While random number that is not excluded is found
-  while (!random) {
-    const x = Math.floor(Math.random() * (max + 1));
-    // Only set random number if it is not found in exclusion array
-    if (exclude.indexOf(x) === -1) random = x;
+export const populateAndShuffleArray = (length: number): number[] => {
+  // Populates array from 1 to length
+  const array: number[] = Array.from({ length }, (_, i) => i + 1);
+  // shuffle the populated array
+  return suffleArray(array);
+};
+
+export const generateRandomArray = (
+  arrLength: number,
+  numOptions: number,
+  inclusion: number,
+): number[] => {
+  const randomArray: number[] = [];
+  // create random array short one item for the inclusion
+  while (randomArray.length < arrLength - 1) {
+    const randomNum: number = Math.floor(Math.random() * numOptions) + 1;
+    if (randomArray.indexOf(randomNum) === -1) randomArray.push(randomNum);
   }
-  return random;
+  // add inclusion and shuffle
+  randomArray.push(inclusion);
+  return suffleArray(randomArray);
 };

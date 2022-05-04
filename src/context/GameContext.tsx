@@ -1,6 +1,9 @@
 import { createContext, useState } from 'react';
 import { IGameData, GameContextType } from '../@types/game';
-import { populateAndShuffleArray } from '../helpers/helperFunctions';
+import {
+  populateAndShuffleArray,
+  generateRandomArray,
+} from '../helpers/helperFunctions';
 import words from '../data/words.json';
 
 type GameContextProviderProps = {
@@ -17,6 +20,7 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
     wordToTranslate: '',
     flashcardOptions: [],
     guessedWords: [],
+    completedWords: [],
     score: 0,
   });
 
@@ -31,14 +35,23 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
     setGameData({ ...gameData, gameSequence: [...randomGameSequence] });
   };
 
-  const setGameRound = (): void => {
+  const setNextRound = (): void => {
     setGameData({ ...gameData, gameRound: gameData.gameRound + 1 });
   };
 
-  const setWordToTranslate = (sequence: number): void => {
+  const setGameRound = (sequence: number, numOptions: number): void => {
     const wordObj = words[sequence.toString() as keyof typeof words];
     const wordToTranslate = wordObj[gameData.language as keyof typeof wordObj];
-    setGameData({ ...gameData, wordToTranslate });
+    const optionsArray = generateRandomArray(
+      numOptions,
+      1000,
+      gameData.gameSequence[gameData.gameRound - 1],
+    );
+    const flashcardOptions = optionsArray.map((option) => {
+      const wordObj = words[option.toString() as keyof typeof words];
+      return wordObj['english' as keyof typeof wordObj];
+    });
+    setGameData({ ...gameData, wordToTranslate, flashcardOptions });
   };
 
   return (
@@ -48,8 +61,8 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
         setGameData,
         handleLanguageSelect,
         setGameSequence,
+        setNextRound,
         setGameRound,
-        setWordToTranslate,
       }}
     >
       {children}
