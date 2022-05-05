@@ -5,9 +5,8 @@ import Button from '../Shared/Button/Button';
 import './Game.css';
 
 const Game: React.FC = () => {
-  const { gameData, setGameRound, handleGuess } = useContext(
-    GameContext,
-  ) as GameContextType;
+  const { gameData, setGameRound, handleFlashcardGuess, setNextRound } =
+    useContext(GameContext) as GameContextType;
   const { wordToTranslate, flashcardOptions, gameRound, score } = gameData;
 
   useEffect(() => {
@@ -20,8 +19,22 @@ const Game: React.FC = () => {
       return (
         <Button
           key={flashcardOption}
-          handleClick={handleGuess}
-          classnames={'button--primary onboard__button'}
+          handleClick={handleFlashcardGuess}
+          classnames={`button--primary onboard__button ${
+            gameData.guessedWords.includes(flashcardOption) &&
+            flashcardOption !==
+              gameData.wordToTranslate[
+                'english' as keyof typeof wordToTranslate
+              ]
+              ? 'button--error'
+              : gameData.guessedWords.includes(flashcardOption) &&
+                flashcardOption ===
+                  gameData.wordToTranslate[
+                    'english' as keyof typeof wordToTranslate
+                  ]
+              ? 'button--success'
+              : ''
+          }`}
           type={'button'}
           value={flashcardOption}
         >
@@ -34,9 +47,16 @@ const Game: React.FC = () => {
   return (
     <div className="game">
       <div className="game__interface">
-        <h1 className="game__word">{wordToTranslate}</h1>
+        <h1 className="game__word">
+          {wordToTranslate[gameData.language as keyof typeof wordToTranslate]}
+        </h1>
         <p className="game__score">{`Score: ${score}`}</p>
         <p className="game__round">{`Round: ${gameRound}`}</p>
+        {gameData.roundWon ? (
+          <p className="game__next" onClick={setNextRound}>
+            Next Round
+          </p>
+        ) : null}
       </div>
       <div className="game__flashcards game__flashcards--easy">
         {flashcardButtons}

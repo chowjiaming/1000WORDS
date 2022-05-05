@@ -39,6 +39,12 @@
   grid-column: 3 / 4;
 }
 
+.game__next {
+  grid-row: 3 / 4;
+  grid-column: 3 / 4;
+  cursor: pointer;
+}
+
 .game__word {
   grid-row: 2 / 3;
   grid-column: 1 / 4;

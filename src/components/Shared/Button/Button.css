@@ -18,3 +18,11 @@
 .button--secondary {
   background-color: var(--secondary);
 }
+
+.button--success {
+  background-color: greenyellow;
+}
+
+.button--error {
+  background-color: var(--error);
+}

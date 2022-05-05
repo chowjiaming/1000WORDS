@@ -17,7 +17,8 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
     language: '',
     gameSequence: [],
     gameRound: 1,
-    wordToTranslate: '',
+    roundWon: false,
+    wordToTranslate: {},
     flashcardOptions: [],
     guessedWords: [],
     completedWords: [],
@@ -36,12 +37,16 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
   };
 
   const setNextRound = (): void => {
-    setGameData({ ...gameData, gameRound: gameData.gameRound + 1 });
+    setGameData({
+      ...gameData,
+      gameRound: gameData.gameRound + 1,
+      guessedWords: [],
+      roundWon: false,
+    });
   };
 
   const setGameRound = (sequence: number, numOptions: number): void => {
-    const wordObj = words[sequence.toString() as keyof typeof words];
-    const wordToTranslate = wordObj[gameData.language as keyof typeof wordObj];
+    const wordToTranslate = words[sequence.toString() as keyof typeof words];
     const optionsArray = generateRandomArray(
       numOptions,
       1000,
@@ -54,18 +59,27 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
     setGameData({ ...gameData, wordToTranslate, flashcardOptions });
   };
 
-  const handleGuess = (e: React.MouseEvent<HTMLButtonElement>): void => {
-    const wordObj =
-      words[
-        gameData.gameSequence[
-          gameData.gameRound - 1
-        ].toString() as keyof typeof words
-      ];
-    const word = wordObj['english' as keyof typeof wordObj];
-    if (word === e.currentTarget.value) {
-      console.log('Correct!');
-    } else {
-      console.log('Incorrect');
+  const handleFlashcardGuess = (
+    e: React.MouseEvent<HTMLButtonElement>,
+  ): void => {
+    if (!gameData.roundWon) {
+      if (!gameData.guessedWords.includes(e.currentTarget.value)) {
+        setGameData({
+          ...gameData,
+          guessedWords: [...gameData.guessedWords, e.currentTarget.value],
+        });
+      }
+      if (
+        gameData.wordToTranslate[
+          'english' as keyof typeof gameData.wordToTranslate
+        ] === e.currentTarget.value
+      ) {
+        setGameData({
+          ...gameData,
+          guessedWords: [...gameData.guessedWords, e.currentTarget.value],
+          roundWon: true,
+        });
+      }
     }
   };
 
@@ -78,7 +92,7 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
         setGameSequence,
         setNextRound,
         setGameRound,
-        handleGuess,
+        handleFlashcardGuess,
       }}
     >
       {children}
