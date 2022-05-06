@@ -1,3 +1,8 @@
 .gamecard {
-  padding: 1em;
+  grid-row: 2 / 3;
+  grid-column: 2 / 3;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-border);
+  box-shadow: 0 0 3px var(--background-border);
+  border-radius: 10px;
 }

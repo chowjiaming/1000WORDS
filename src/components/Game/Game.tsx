@@ -53,9 +53,15 @@ const Game: React.FC = () => {
         <p className="game__score">{`Score: ${score}`}</p>
         <p className="game__round">{`Round: ${gameRound}`}</p>
         {gameData.roundWon ? (
-          <p className="game__next" onClick={setNextRound}>
+          <Button
+            key={'Next Round'}
+            handleClick={setNextRound}
+            classnames={`button--success button__next`}
+            type={'button'}
+            value={'Next Round'}
+          >
             Next Round
-          </p>
+          </Button>
         ) : null}
       </div>
       <div className="game__flashcards game__flashcards--easy">

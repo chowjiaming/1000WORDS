@@ -1,17 +1,64 @@
 .button {
-  width: 8em;
-  padding: 1em 0;
-  border-radius: 5px;
-  border: none;
+  width: 100%;
+  padding: 0.65em 0.8em;
   color: var(--font);
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  cursor: pointer;
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 0.8px;
   text-transform: capitalize;
+  transform: translateZ(0);
+  white-space: nowrap;
+  touch-action: manipulation;
+  transition: filter 0.2s;
+  outline: none;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
+.button:after {
+  content: '';
+  background-clip: padding-box;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button:active::after {
+  bottom: -5px;
+}
 .button:active {
   transform: translateY(1px);
 }
 
+.button:main,
+.button:focus {
+  user-select: auto;
+}
+
+.button:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button:disabled {
+  cursor: auto;
+}
+
 .button--primary {
+  background-color: var(--primary-alt);
+}
+
+.button--primary::after {
   background-color: var(--primary);
 }
 
@@ -20,9 +67,24 @@
 }
 
 .button--success {
-  background-color: greenyellow;
+  background-color: var(--success-alt);
+}
+
+.button--success::after {
+  background-color: var(--success);
 }
 
 .button--error {
+  background-color: var(--error-alt);
+}
+
+.button--error::after {
   background-color: var(--error);
+}
+
+.button__next {
+  grid-row: 3 / 4;
+  grid-column: 3 / 4;
+  width: 10em;
+  text-align: center;
 }

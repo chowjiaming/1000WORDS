@@ -15,4 +15,5 @@ footer > p {
 
 .footer__text--emoji {
   color: var(--error);
+  font-size: 1.1em;
 }

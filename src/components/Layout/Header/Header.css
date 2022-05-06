@@ -11,8 +11,17 @@ header {
 
 .header__heading {
   grid-row: 2 / 3;
+  font-family: 'bebas neue';
+  font-size: 3em;
+  letter-spacing: 0.05em;
   text-align: center;
   align-self: flex-end;
+}
+
+@media (min-width: 48rem) {
+  .header__heading {
+    font-size: 4em;
+  }
 }
 
 .header__container {
