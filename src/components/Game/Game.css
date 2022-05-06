@@ -59,7 +59,7 @@
 
 @media (min-width: 64rem) {
   .game {
-    grid-template-columns: 0.5fr 2fr 0.5fr;
+    grid-template-columns: 0.3fr 2.4fr 0.3fr;
     grid-template-rows: repeat(2, 1fr);
     grid-template-areas:
       '. . .'
@@ -70,6 +70,12 @@
   }
   .game__flashcards {
     grid-column: 2 / 3;
+  }
+}
+
+@media (min-width: 75rem) {
+  .game {
+    grid-template-columns: 0.5fr 2fr 0.5fr;
   }
 }
 
