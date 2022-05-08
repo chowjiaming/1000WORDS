@@ -18,7 +18,14 @@
 .onboard__buttons {
   grid-row: 2 / 3;
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: column;
   align-items: center;
+  justify-content: space-evenly;
   flex-wrap: wrap;
+}
+
+@media (min-width: 48rem) {
+  .onboard__buttons {
+    flex-direction: row;
+  }
 }

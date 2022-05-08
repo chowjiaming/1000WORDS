@@ -16,7 +16,7 @@ const OnBoard: React.FC = () => {
             <Button
               key={supportedLanguage}
               handleClick={handleLanguageSelect}
-              classnames={'button--primary onboard__button'}
+              classnames={'button__onboard button--primary'}
               type={'button'}
               value={supportedLanguage}
             >

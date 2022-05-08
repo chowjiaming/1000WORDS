@@ -82,6 +82,10 @@
   background-color: var(--error);
 }
 
+.button__onboard {
+  width: 35%;
+}
+
 .button__next {
   grid-row: 3 / 4;
   grid-column: 3 / 4;
