@@ -1,1 +1,6 @@
-export const supportedLanguages: string[] = ['french', 'vietnamese'];
+export const supportedLanguages: string[] = [
+  'french',
+  'spanish',
+  'german',
+  'vietnamese',
+];

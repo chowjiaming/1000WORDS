@@ -46,6 +46,7 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
   };
 
   const setGameRound = (sequence: number, numOptions: number): void => {
+    console.log(Object.keys(words));
     const wordToTranslate = words[sequence.toString() as keyof typeof words];
     const optionsArray = generateRandomArray(
       numOptions,
