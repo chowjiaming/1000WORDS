@@ -4,8 +4,8 @@ export interface IGameData {
   gameRound: number;
   roundWon: boolean;
   wordToTranslate: object;
-  flashcardOptions: string[];
-  guessedWords: string[];
+  flashcardOptions: (string | number)[];
+  guessedWords: (string | number)[];
   completedWords: number[];
   score: number;
 }

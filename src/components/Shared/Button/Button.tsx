@@ -5,7 +5,7 @@ interface ButtonProps {
   handleClick: (e: React.MouseEvent<HTMLButtonElement>) => void;
   classnames: string;
   type: 'button' | 'submit' | 'reset' | undefined;
-  value: string;
+  value: string | number;
 }
 
 const Button: React.FC<ButtonProps> = ({

@@ -3,4 +3,5 @@ export const supportedLanguages: string[] = [
   'spanish',
   'german',
   'vietnamese',
+  'japanese',
 ];

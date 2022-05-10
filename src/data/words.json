@@ -4,6999 +4,7999 @@
     "french": "comme",
     "spanish": "como",
     "german": "wie",
-    "vietnamese": "như"
+    "vietnamese": "như",
+    "japanese": "ように"
   },
   "2": {
     "english": "I",
     "french": "je",
     "spanish": "I",
     "german": "ich",
-    "vietnamese": "tôi"
+    "vietnamese": "tôi",
+    "japanese": "私は"
   },
   "3": {
     "english": "his",
     "french": "son",
     "spanish": "su",
     "german": "seine",
-    "vietnamese": "mình"
+    "vietnamese": "mình",
+    "japanese": "彼の"
   },
   "4": {
     "english": "that",
     "french": "que",
     "spanish": "que",
     "german": "dass",
-    "vietnamese": "mà"
+    "vietnamese": "mà",
+    "japanese": "その"
   },
   "5": {
     "english": "he",
     "french": "il",
     "spanish": "él",
     "german": "er",
-    "vietnamese": "ông"
+    "vietnamese": "ông",
+    "japanese": "彼"
   },
   "6": {
     "english": "was",
     "french": "était",
     "spanish": "era",
     "german": "war",
-    "vietnamese": "là"
+    "vietnamese": "là",
+    "japanese": "た"
   },
   "7": {
     "english": "for",
     "french": "pour",
     "spanish": "para",
     "german": "für",
-    "vietnamese": "cho"
+    "vietnamese": "cho",
+    "japanese": "ために"
   },
   "8": {
     "english": "on",
     "french": "sur",
     "spanish": "en",
     "german": "auf",
-    "vietnamese": "trên"
+    "vietnamese": "trên",
+    "japanese": "上の"
   },
   "9": {
     "english": "are",
     "french": "sont",
     "spanish": "son",
     "german": "sind",
-    "vietnamese": "là"
+    "vietnamese": "là",
+    "japanese": "アール"
   },
   "10": {
     "english": "with",
     "french": "avec",
     "spanish": "con",
     "german": "mit",
-    "vietnamese": "với"
+    "vietnamese": "với",
+    "japanese": "とともに"
   },
   "11": {
     "english": "they",
     "french": "ils",
     "spanish": "ellos",
     "german": "sie",
-    "vietnamese": "họ"
+    "vietnamese": "họ",
+    "japanese": "彼ら"
   },
   "12": {
     "english": "be",
     "french": "être",
     "spanish": "ser",
     "german": "sein",
-    "vietnamese": "được"
+    "vietnamese": "được",
+    "japanese": "ある"
   },
   "13": {
     "english": "at",
     "french": "à",
     "spanish": "en",
     "german": "bei",
-    "vietnamese": "tại"
+    "vietnamese": "tại",
+    "japanese": "アット"
   },
   "14": {
     "english": "one",
     "french": "un",
     "spanish": "uno",
     "german": "ein",
-    "vietnamese": "một"
+    "vietnamese": "một",
+    "japanese": "一つ"
   },
   "15": {
     "english": "have",
     "french": "avoir",
     "spanish": "tener",
     "german": "haben",
-    "vietnamese": "có"
+    "vietnamese": "có",
+    "japanese": "持っている"
   },
   "16": {
     "english": "this",
     "french": "ce",
     "spanish": "este",
     "german": "dies",
-    "vietnamese": "này"
+    "vietnamese": "này",
+    "japanese": "この"
   },
   "17": {
     "english": "from",
     "french": "à partir de",
     "spanish": "desde",
     "german": "aus",
-    "vietnamese": "từ"
+    "vietnamese": "từ",
+    "japanese": "から"
   },
   "18": {
     "english": "by",
     "french": "par",
     "spanish": "por",
     "german": "durch",
-    "vietnamese": "bởi"
+    "vietnamese": "bởi",
+    "japanese": "バイ"
   },
   "19": {
     "english": "hot",
     "french": "chaud",
     "spanish": "caliente",
     "german": "heiß",
-    "vietnamese": "nóng"
+    "vietnamese": "nóng",
+    "japanese": "ホット"
   },
   "20": {
     "english": "word",
     "french": "mot",
     "spanish": "palabra",
     "german": "Wort",
-    "vietnamese": "từ"
+    "vietnamese": "từ",
+    "japanese": "言葉"
   },
   "21": {
     "english": "but",
     "french": "mais",
     "spanish": "pero",
     "german": "aber",
-    "vietnamese": "nhưng"
+    "vietnamese": "nhưng",
+    "japanese": "しかし"
   },
   "22": {
     "english": "what",
     "french": "que",
     "spanish": "qué",
     "german": "was",
-    "vietnamese": "những gì"
+    "vietnamese": "những gì",
+    "japanese": "何"
   },
   "23": {
     "english": "some",
     "french": "certains",
     "spanish": "algunos",
     "german": "einige",
-    "vietnamese": "một số"
+    "vietnamese": "một số",
+    "japanese": "いくつかの"
   },
   "24": {
     "english": "is",
     "french": "est",
     "spanish": "es",
     "german": "ist",
-    "vietnamese": "là"
+    "vietnamese": "là",
+    "japanese": "です"
   },
   "25": {
     "english": "it",
     "french": "il",
     "spanish": "lo",
     "german": "es",
-    "vietnamese": "nó"
+    "vietnamese": "nó",
+    "japanese": "それ"
   },
   "26": {
     "english": "you",
     "french": "vous",
     "spanish": "usted",
     "german": "Sie",
-    "vietnamese": "anh"
+    "vietnamese": "anh",
+    "japanese": "あなた"
   },
   "27": {
     "english": "or",
     "french": "ou",
     "spanish": "o",
     "german": "oder",
-    "vietnamese": "hoặc"
+    "vietnamese": "hoặc",
+    "japanese": "または"
   },
   "28": {
     "english": "had",
     "french": "eu",
     "spanish": "tenido",
     "german": "hatte",
-    "vietnamese": "có"
+    "vietnamese": "có",
+    "japanese": "持っていた"
   },
   "29": {
     "english": "the",
     "french": "la",
     "spanish": "la",
     "german": "die",
-    "vietnamese": "các"
+    "vietnamese": "các",
+    "japanese": "インクルード"
   },
   "30": {
     "english": "of",
     "french": "de",
     "spanish": "de",
     "german": "von",
-    "vietnamese": "của"
+    "vietnamese": "của",
+    "japanese": "の"
   },
   "31": {
     "english": "to",
     "french": "à",
     "spanish": "a",
     "german": "zu",
-    "vietnamese": "để"
+    "vietnamese": "để",
+    "japanese": "へ"
   },
   "32": {
     "english": "and",
     "french": "et",
     "spanish": "y",
     "german": "und",
-    "vietnamese": "và"
+    "vietnamese": "và",
+    "japanese": "そして"
   },
   "33": {
     "english": "a",
     "french": "un",
     "spanish": "un",
     "german": "ein",
-    "vietnamese": "một"
+    "vietnamese": "một",
+    "japanese": "は"
   },
   "34": {
     "english": "in",
     "french": "dans",
     "spanish": "en",
     "german": "bei",
-    "vietnamese": "trong"
+    "vietnamese": "trong",
+    "japanese": "で"
   },
   "35": {
     "english": "we",
     "french": "nous",
     "spanish": "nos",
     "german": "wir",
-    "vietnamese": "chúng tôi"
+    "vietnamese": "chúng tôi",
+    "japanese": "我々"
   },
   "36": {
     "english": "can",
     "french": "boîte",
     "spanish": "lata",
     "german": "können",
-    "vietnamese": "có thể"
+    "vietnamese": "có thể",
+    "japanese": "缶"
   },
   "37": {
     "english": "out",
     "french": "dehors",
     "spanish": "fuera",
     "german": "aus",
-    "vietnamese": "ra"
+    "vietnamese": "ra",
+    "japanese": "アウト"
   },
   "38": {
     "english": "other",
     "french": "autre",
     "spanish": "otros",
     "german": "andere",
-    "vietnamese": "khác"
+    "vietnamese": "khác",
+    "japanese": "その他"
   },
   "39": {
     "english": "were",
     "french": "étaient",
     "spanish": "eran",
     "german": "waren",
-    "vietnamese": "là"
+    "vietnamese": "là",
+    "japanese": "だった"
   },
   "40": {
     "english": "which",
     "french": "qui",
     "spanish": "que",
     "german": "die",
-    "vietnamese": "mà"
+    "vietnamese": "mà",
+    "japanese": "これ"
   },
   "41": {
     "english": "do",
     "french": "faire",
     "spanish": "hacer",
     "german": "tun",
-    "vietnamese": "làm"
+    "vietnamese": "làm",
+    "japanese": "やる"
   },
   "42": {
     "english": "their",
     "french": "leur",
     "spanish": "su",
     "german": "ihre",
-    "vietnamese": "của họ"
+    "vietnamese": "của họ",
+    "japanese": "それらの"
   },
   "43": {
     "english": "time",
     "french": "temps",
     "spanish": "tiempo",
     "german": "Zeit",
-    "vietnamese": "thời gian"
+    "vietnamese": "thời gian",
+    "japanese": "時間"
   },
   "44": {
     "english": "if",
     "french": "si",
     "spanish": "si",
     "german": "wenn",
-    "vietnamese": "nếu"
+    "vietnamese": "nếu",
+    "japanese": "もし"
   },
   "45": {
     "english": "will",
     "french": "volonté",
     "spanish": "lo hará",
     "german": "werden",
-    "vietnamese": "sẽ"
+    "vietnamese": "sẽ",
+    "japanese": "意志"
   },
   "46": {
     "english": "how",
     "french": "comment",
     "spanish": "cómo",
     "german": "wie",
-    "vietnamese": "như thế nào"
+    "vietnamese": "như thế nào",
+    "japanese": "方法"
   },
   "47": {
     "english": "said",
     "french": "dit",
     "spanish": "dicho",
     "german": "sagte",
-    "vietnamese": "nói"
+    "vietnamese": "nói",
+    "japanese": "前記"
   },
   "48": {
     "english": "an",
     "french": "un",
     "spanish": "un",
     "german": "ein",
-    "vietnamese": "một"
+    "vietnamese": "một",
+    "japanese": "の"
   },
   "49": {
     "english": "each",
     "french": "chaque",
     "spanish": "cada",
     "german": "jeder",
-    "vietnamese": "môi"
+    "vietnamese": "môi",
+    "japanese": "それぞれ"
   },
   "50": {
     "english": "tell",
     "french": "dire",
     "spanish": "decir",
     "german": "sagen",
-    "vietnamese": "nói"
+    "vietnamese": "nói",
+    "japanese": "言う"
   },
   "51": {
     "english": "does",
     "french": "ne",
     "spanish": "hace",
     "german": "tut",
-    "vietnamese": "không"
+    "vietnamese": "không",
+    "japanese": "し"
   },
   "52": {
     "english": "set",
     "french": "ensemble",
     "spanish": "conjunto",
     "german": "Satz",
-    "vietnamese": "bộ"
+    "vietnamese": "bộ",
+    "japanese": "セット"
   },
   "53": {
     "english": "three",
     "french": "trois",
     "spanish": "tres",
     "german": "drei",
-    "vietnamese": "ba"
+    "vietnamese": "ba",
+    "japanese": "個"
   },
   "54": {
     "english": "want",
     "french": "vouloir",
     "spanish": "querer",
     "german": "wollen",
-    "vietnamese": "muốn"
+    "vietnamese": "muốn",
+    "japanese": "欲しい"
   },
   "55": {
     "english": "air",
     "french": "air",
     "spanish": "aire",
     "german": "Luft",
-    "vietnamese": "không khí"
+    "vietnamese": "không khí",
+    "japanese": "空気"
   },
   "56": {
     "english": "well",
     "french": "bien",
     "spanish": "así",
     "german": "gut",
-    "vietnamese": "cũng"
+    "vietnamese": "cũng",
+    "japanese": "よく"
   },
   "57": {
     "english": "also",
     "french": "aussi",
     "spanish": "también",
     "german": "auch",
-    "vietnamese": "cũng"
+    "vietnamese": "cũng",
+    "japanese": "また"
   },
   "58": {
     "english": "play",
     "french": "jouer",
     "spanish": "jugar",
     "german": "spielen",
-    "vietnamese": "chơi"
+    "vietnamese": "chơi",
+    "japanese": "遊ぶ"
   },
   "59": {
     "english": "small",
     "french": "petit",
     "spanish": "pequeño",
     "german": "klein",
-    "vietnamese": "nhỏ"
+    "vietnamese": "nhỏ",
+    "japanese": "小さい"
   },
   "60": {
     "english": "end",
     "french": "fin",
     "spanish": "fin",
     "german": "Ende",
-    "vietnamese": "cuối"
+    "vietnamese": "cuối",
+    "japanese": "終わり"
   },
   "61": {
     "english": "put",
     "french": "mettre",
     "spanish": "poner",
     "german": "setzen",
-    "vietnamese": "đặt"
+    "vietnamese": "đặt",
+    "japanese": "置く"
   },
   "62": {
     "english": "home",
     "french": "maison",
     "spanish": "casa",
     "german": "Zuhause",
-    "vietnamese": "nhà"
+    "vietnamese": "nhà",
+    "japanese": "ホーム"
   },
   "63": {
     "english": "read",
     "french": "lire",
     "spanish": "leer",
     "german": "lesen",
-    "vietnamese": "đọc"
+    "vietnamese": "đọc",
+    "japanese": "読む"
   },
   "64": {
     "english": "hand",
     "french": "main",
     "spanish": "mano",
     "german": "seits",
-    "vietnamese": "tay"
+    "vietnamese": "tay",
+    "japanese": "手"
   },
   "65": {
     "english": "port",
     "french": "port",
     "spanish": "puerto",
     "german": "Hafen",
-    "vietnamese": "cổng"
+    "vietnamese": "cổng",
+    "japanese": "ポート"
   },
   "66": {
     "english": "large",
     "french": "grand",
     "spanish": "grande",
     "german": "groß",
-    "vietnamese": "lớn"
+    "vietnamese": "lớn",
+    "japanese": "大きい"
   },
   "67": {
     "english": "spell",
     "french": "épeler",
     "spanish": "deletrear",
     "german": "buchstabieren",
-    "vietnamese": "chính tả"
+    "vietnamese": "chính tả",
+    "japanese": "スペル"
   },
   "68": {
     "english": "add",
     "french": "ajouter",
     "spanish": "añadir",
     "german": "hinzufügen",
-    "vietnamese": "thêm"
+    "vietnamese": "thêm",
+    "japanese": "加える"
   },
   "69": {
     "english": "even",
     "french": "même",
     "spanish": "incluso",
     "german": "auch",
-    "vietnamese": "thậm chí"
+    "vietnamese": "thậm chí",
+    "japanese": "さらに"
   },
   "70": {
     "english": "land",
     "french": "terre",
     "spanish": "tierra",
     "german": "Lande",
-    "vietnamese": "đất"
+    "vietnamese": "đất",
+    "japanese": "土地"
   },
   "71": {
     "english": "here",
     "french": "ici",
     "spanish": "aquí",
     "german": "hier",
-    "vietnamese": "ở đây"
+    "vietnamese": "ở đây",
+    "japanese": "ここに"
   },
   "72": {
     "english": "must",
     "french": "il faut",
     "spanish": "debe",
     "german": "muss",
-    "vietnamese": "phải"
+    "vietnamese": "phải",
+    "japanese": "しなければならない"
   },
   "73": {
     "english": "big",
     "french": "grand",
     "spanish": "grande",
     "german": "groß",
-    "vietnamese": "lớn"
+    "vietnamese": "lớn",
+    "japanese": "大きい"
   },
   "74": {
     "english": "high",
     "french": "haut",
     "spanish": "alto",
     "german": "hoch",
-    "vietnamese": "cao"
+    "vietnamese": "cao",
+    "japanese": "高い"
   },
   "75": {
     "english": "such",
     "french": "tel",
     "spanish": "tal",
     "german": "so",
-    "vietnamese": "như vậy"
+    "vietnamese": "như vậy",
+    "japanese": "そのような"
   },
   "76": {
     "english": "follow",
     "french": "suivre",
     "spanish": "siga",
     "german": "folgen",
-    "vietnamese": "theo"
+    "vietnamese": "theo",
+    "japanese": "続く"
   },
   "77": {
     "english": "act",
     "french": "acte",
     "spanish": "acto",
     "german": "Akt",
-    "vietnamese": "hành động"
+    "vietnamese": "hành động",
+    "japanese": "行為"
   },
   "78": {
     "english": "why",
     "french": "pourquoi",
     "spanish": "por qué",
     "german": "warum",
-    "vietnamese": "lý do tại sao"
+    "vietnamese": "lý do tại sao",
+    "japanese": "なぜ"
   },
   "79": {
     "english": "ask",
     "french": "interroger",
     "spanish": "preguntar",
     "german": "fragen",
-    "vietnamese": "xin"
+    "vietnamese": "xin",
+    "japanese": "頼む"
   },
   "80": {
     "english": "men",
     "french": "hommes",
     "spanish": "hombres",
     "german": "Männer",
-    "vietnamese": "người đàn ông"
+    "vietnamese": "người đàn ông",
+    "japanese": "人々"
   },
   "81": {
     "english": "change",
     "french": "changement",
     "spanish": "cambio",
     "german": "Veränderung",
-    "vietnamese": "thay đổi"
+    "vietnamese": "thay đổi",
+    "japanese": "変更"
   },
   "82": {
     "english": "went",
     "french": "est allé",
     "spanish": "se fue",
     "german": "ging",
-    "vietnamese": "đi"
+    "vietnamese": "đi",
+    "japanese": "行ってきました"
   },
   "83": {
     "english": "light",
     "french": "lumière",
     "spanish": "luz",
     "german": "Licht",
-    "vietnamese": "ánh sáng"
+    "vietnamese": "ánh sáng",
+    "japanese": "光"
   },
   "84": {
     "english": "kind",
     "french": "genre",
     "spanish": "tipo",
     "german": "Art",
-    "vietnamese": "loại"
+    "vietnamese": "loại",
+    "japanese": "種類"
   },
   "85": {
     "english": "off",
     "french": "de",
     "spanish": "fuera",
     "german": "aus",
-    "vietnamese": "tắt"
+    "vietnamese": "tắt",
+    "japanese": "オフ"
   },
   "86": {
     "english": "need",
     "french": "besoin",
     "spanish": "necesitará",
     "german": "müssen",
-    "vietnamese": "cần"
+    "vietnamese": "cần",
+    "japanese": "必要"
   },
   "87": {
     "english": "house",
     "french": "maison",
     "spanish": "casa",
     "german": "Haus",
-    "vietnamese": "nhà"
+    "vietnamese": "nhà",
+    "japanese": "家"
   },
   "88": {
     "english": "picture",
     "french": "image",
     "spanish": "imagen",
     "german": "Bild",
-    "vietnamese": "hình ảnh"
+    "vietnamese": "hình ảnh",
+    "japanese": "絵"
   },
   "89": {
     "english": "try",
     "french": "essayer",
     "spanish": "tratar",
     "german": "versuchen",
-    "vietnamese": "thử"
+    "vietnamese": "thử",
+    "japanese": "試す"
   },
   "90": {
     "english": "us",
     "french": "nous",
     "spanish": "nosotros",
     "german": "uns",
-    "vietnamese": "chúng tôi"
+    "vietnamese": "chúng tôi",
+    "japanese": "私たち"
   },
   "91": {
     "english": "again",
     "french": "encore",
     "spanish": "de nuevo",
     "german": "wieder",
-    "vietnamese": "một lần nữa"
+    "vietnamese": "một lần nữa",
+    "japanese": "再び"
   },
   "92": {
     "english": "animal",
     "french": "animal",
     "spanish": "animal",
     "german": "Tier",
-    "vietnamese": "động vật"
+    "vietnamese": "động vật",
+    "japanese": "動物"
   },
   "93": {
     "english": "point",
     "french": "point",
     "spanish": "punto",
     "german": "Punkt",
-    "vietnamese": "điểm"
+    "vietnamese": "điểm",
+    "japanese": "ポイント"
   },
   "94": {
     "english": "mother",
     "french": "mère",
     "spanish": "madre",
     "german": "Mutter",
-    "vietnamese": "mẹ"
+    "vietnamese": "mẹ",
+    "japanese": "母"
   },
   "95": {
     "english": "world",
     "french": "monde",
     "spanish": "mundo",
     "german": "Welt",
-    "vietnamese": "thế giới"
+    "vietnamese": "thế giới",
+    "japanese": "世界"
   },
   "96": {
     "english": "near",
     "french": "près de",
     "spanish": "cerca",
     "german": "in der Nähe von",
-    "vietnamese": "gần"
+    "vietnamese": "gần",
+    "japanese": "近く"
   },
   "97": {
     "english": "build",
     "french": "construire",
     "spanish": "construir",
     "german": "bauen",
-    "vietnamese": "xây dựng"
+    "vietnamese": "xây dựng",
+    "japanese": "ビルド"
   },
   "98": {
     "english": "self",
     "french": "soi",
     "spanish": "auto",
     "german": "selbst",
-    "vietnamese": "tự"
+    "vietnamese": "tự",
+    "japanese": "自己"
   },
   "99": {
     "english": "earth",
     "french": "terre",
     "spanish": "tierra",
     "german": "Erde",
-    "vietnamese": "đất"
+    "vietnamese": "đất",
+    "japanese": "地球"
   },
   "100": {
     "english": "father",
     "french": "père",
     "spanish": "padre",
     "german": "Vater",
-    "vietnamese": "cha"
+    "vietnamese": "cha",
+    "japanese": "父"
   },
   "101": {
     "english": "any",
     "french": "tout",
     "spanish": "cualquier",
     "german": "jeder",
-    "vietnamese": "bất kỳ"
+    "vietnamese": "bất kỳ",
+    "japanese": "任意の"
   },
   "102": {
     "english": "new",
     "french": "nouveau",
     "spanish": "nuevo",
     "german": "neu",
-    "vietnamese": "mới"
+    "vietnamese": "mới",
+    "japanese": "新しい"
   },
   "103": {
     "english": "work",
     "french": "travail",
     "spanish": "trabajo",
     "german": "Arbeit",
-    "vietnamese": "công việc"
+    "vietnamese": "công việc",
+    "japanese": "仕事"
   },
   "104": {
     "english": "part",
     "french": "partie",
     "spanish": "parte",
     "german": "Teil",
-    "vietnamese": "một phần"
+    "vietnamese": "một phần",
+    "japanese": "パート"
   },
   "105": {
     "english": "take",
     "french": "prendre",
     "spanish": "tomar",
     "german": "nehmen",
-    "vietnamese": "có"
+    "vietnamese": "có",
+    "japanese": "取る"
   },
   "106": {
     "english": "get",
     "french": "obtenir",
     "spanish": "conseguir",
     "german": "erhalten",
-    "vietnamese": "được"
+    "vietnamese": "được",
+    "japanese": "ゲット"
   },
   "107": {
     "english": "place",
     "french": "lieu",
     "spanish": "lugar",
     "german": "Ort",
-    "vietnamese": "nơi"
+    "vietnamese": "nơi",
+    "japanese": "場所"
   },
   "108": {
     "english": "made",
     "french": "fabriqué",
     "spanish": "hecho",
     "german": "gemacht",
-    "vietnamese": "thực hiện"
+    "vietnamese": "thực hiện",
+    "japanese": "製"
   },
   "109": {
     "english": "live",
     "french": "vivre",
     "spanish": "vivir",
     "german": "leben",
-    "vietnamese": "sống"
+    "vietnamese": "sống",
+    "japanese": "暮らす"
   },
   "110": {
     "english": "where",
     "french": "où",
     "spanish": "donde",
     "german": "wo",
-    "vietnamese": "nơi"
+    "vietnamese": "nơi",
+    "japanese": "どこ"
   },
   "111": {
     "english": "after",
     "french": "après",
     "spanish": "después",
     "german": "nach",
-    "vietnamese": "sau khi"
+    "vietnamese": "sau khi",
+    "japanese": "後に"
   },
   "112": {
     "english": "back",
     "french": "arrière",
     "spanish": "espalda",
     "german": "zurück",
-    "vietnamese": "trở lại"
+    "vietnamese": "trở lại",
+    "japanese": "バック"
   },
   "113": {
     "english": "little",
     "french": "peu",
     "spanish": "poco",
     "german": "wenig",
-    "vietnamese": "ít"
+    "vietnamese": "ít",
+    "japanese": "少し"
   },
   "114": {
     "english": "only",
     "french": "seulement",
     "spanish": "sólo",
     "german": "nur",
-    "vietnamese": "chỉ"
+    "vietnamese": "chỉ",
+    "japanese": "唯一の"
   },
   "115": {
     "english": "round",
     "french": "tour",
     "spanish": "ronda",
     "german": "Runde",
-    "vietnamese": "chung quanh"
+    "vietnamese": "chung quanh",
+    "japanese": "ラウンド"
   },
   "116": {
     "english": "man",
     "french": "homme",
     "spanish": "hombre",
     "german": "Mann",
-    "vietnamese": "người đàn ông"
+    "vietnamese": "người đàn ông",
+    "japanese": "男"
   },
   "117": {
     "english": "year",
     "french": "année",
     "spanish": "años",
     "german": "Jahr",
-    "vietnamese": "năm"
+    "vietnamese": "năm",
+    "japanese": "年"
   },
   "118": {
     "english": "came",
     "french": "est venu",
     "spanish": "vino",
     "german": "kam",
-    "vietnamese": "đến"
+    "vietnamese": "đến",
+    "japanese": "来た"
   },
   "119": {
     "english": "show",
     "french": "montrer",
     "spanish": "show",
     "german": "zeigen",
-    "vietnamese": "chương trình"
+    "vietnamese": "chương trình",
+    "japanese": "ショー"
   },
   "120": {
     "english": "every",
     "french": "tous",
     "spanish": "cada",
     "german": "jeder",
-    "vietnamese": "mỗi"
+    "vietnamese": "mỗi",
+    "japanese": "すべての"
   },
   "121": {
     "english": "good",
     "french": "bon",
     "spanish": "buena",
     "german": "gut",
-    "vietnamese": "tốt"
+    "vietnamese": "tốt",
+    "japanese": "良い"
   },
   "122": {
     "english": "me",
     "french": "moi",
     "spanish": "me",
     "german": "mir",
-    "vietnamese": "tôi"
+    "vietnamese": "tôi",
+    "japanese": "私に"
   },
   "123": {
     "english": "give",
     "french": "donner",
     "spanish": "dar",
     "german": "geben",
-    "vietnamese": "cung cấp cho"
+    "vietnamese": "cung cấp cho",
+    "japanese": "与える"
   },
   "124": {
     "english": "our",
     "french": "notre",
     "spanish": "nuestro",
     "german": "unsere",
-    "vietnamese": "của chúng tôi"
+    "vietnamese": "của chúng tôi",
+    "japanese": "私たちの"
   },
   "125": {
     "english": "under",
     "french": "sous",
     "spanish": "bajo",
     "german": "unter",
-    "vietnamese": "dưới"
+    "vietnamese": "dưới",
+    "japanese": "下"
   },
   "126": {
     "english": "name",
     "french": "nom",
     "spanish": "nombre",
     "german": "Name",
-    "vietnamese": "tên"
+    "vietnamese": "tên",
+    "japanese": "名前"
   },
   "127": {
     "english": "very",
     "french": "très",
     "spanish": "muy",
     "german": "sehr",
-    "vietnamese": "rất"
+    "vietnamese": "rất",
+    "japanese": "非常に"
   },
   "128": {
     "english": "through",
     "french": "par",
     "spanish": "a través de",
     "german": "durch",
-    "vietnamese": "thông qua"
+    "vietnamese": "thông qua",
+    "japanese": "スルー"
   },
   "129": {
     "english": "just",
     "french": "juste",
     "spanish": "sólo",
     "german": "nur",
-    "vietnamese": "chỉ"
+    "vietnamese": "chỉ",
+    "japanese": "ただ"
   },
   "130": {
     "english": "form",
     "french": "forme",
     "spanish": "forma",
     "german": "Formular",
-    "vietnamese": "hình thức"
+    "vietnamese": "hình thức",
+    "japanese": "フォーム"
   },
   "131": {
     "english": "sentence",
     "french": "phrase",
     "spanish": "frase",
     "german": "Satz",
-    "vietnamese": "câu"
+    "vietnamese": "câu",
+    "japanese": "文"
   },
   "132": {
     "english": "great",
     "french": "grand",
     "spanish": "gran",
     "german": "groß",
-    "vietnamese": "tuyệt vời"
+    "vietnamese": "tuyệt vời",
+    "japanese": "素晴らしい"
   },
   "133": {
     "english": "think",
     "french": "penser",
     "spanish": "pensar",
     "german": "denken",
-    "vietnamese": "nghi"
+    "vietnamese": "nghi",
+    "japanese": "思う"
   },
   "134": {
     "english": "say",
     "french": "dire",
     "spanish": "decir",
     "german": "sagen",
-    "vietnamese": "nói"
+    "vietnamese": "nói",
+    "japanese": "言う"
   },
   "135": {
     "english": "help",
     "french": "aider",
     "spanish": "ayudar",
     "german": "Hilfe",
-    "vietnamese": "giúp"
+    "vietnamese": "giúp",
+    "japanese": "助け"
   },
   "136": {
     "english": "low",
     "french": "faible",
     "spanish": "bajo",
     "german": "niedrig",
-    "vietnamese": "thấp"
+    "vietnamese": "thấp",
+    "japanese": "低い"
   },
   "137": {
     "english": "line",
     "french": "ligne",
     "spanish": "línea",
     "german": "Linie",
-    "vietnamese": "dòng"
+    "vietnamese": "dòng",
+    "japanese": "ライン"
   },
   "138": {
     "english": "differ",
     "french": "différer",
     "spanish": "ser distinto",
     "german": "abweichen",
-    "vietnamese": "khác nhau"
+    "vietnamese": "khác nhau",
+    "japanese": "異なる"
   },
   "139": {
     "english": "turn",
     "french": "tour",
     "spanish": "a su vez,",
     "german": "wiederum",
-    "vietnamese": "lần lượt"
+    "vietnamese": "lần lượt",
+    "japanese": "ターン"
   },
   "140": {
     "english": "cause",
     "french": "la cause",
     "spanish": "causa",
     "german": "Ursache",
-    "vietnamese": "nguyên nhân"
+    "vietnamese": "nguyên nhân",
+    "japanese": "原因"
   },
   "141": {
     "english": "much",
     "french": "beaucoup",
     "spanish": "mucho",
     "german": "viel",
-    "vietnamese": "nhiều"
+    "vietnamese": "nhiều",
+    "japanese": "ずっと"
   },
   "142": {
     "english": "mean",
     "french": "signifier",
     "spanish": "significará",
     "german": "bedeuten",
-    "vietnamese": "có nghĩa là"
+    "vietnamese": "có nghĩa là",
+    "japanese": "意味する"
   },
   "143": {
     "english": "before",
     "french": "avant",
     "spanish": "antes",
     "german": "vor",
-    "vietnamese": "trước"
+    "vietnamese": "trước",
+    "japanese": "前に"
   },
   "144": {
     "english": "move",
     "french": "déménagement",
     "spanish": "movimiento",
     "german": "Umzug",
-    "vietnamese": "di chuyển"
+    "vietnamese": "di chuyển",
+    "japanese": "移動"
   },
   "145": {
     "english": "right",
     "french": "droit",
     "spanish": "derecho",
     "german": "Recht",
-    "vietnamese": "ngay"
+    "vietnamese": "ngay",
+    "japanese": "権利"
   },
   "146": {
     "english": "boy",
     "french": "garçon",
     "spanish": "niño",
     "german": "Junge",
-    "vietnamese": "cậu bé"
+    "vietnamese": "cậu bé",
+    "japanese": "男の子"
   },
   "147": {
     "english": "old",
     "french": "vieux",
     "spanish": "viejo",
     "german": "alt",
-    "vietnamese": "cũ"
+    "vietnamese": "cũ",
+    "japanese": "古い"
   },
   "148": {
     "english": "too",
     "french": "trop",
     "spanish": "demasiado",
     "german": "zu",
-    "vietnamese": "quá"
+    "vietnamese": "quá",
+    "japanese": "あまりに"
   },
   "149": {
     "english": "same",
     "french": "même",
     "spanish": "misma",
     "german": "gleich",
-    "vietnamese": "như nhau"
+    "vietnamese": "như nhau",
+    "japanese": "同じ"
   },
   "150": {
     "english": "she",
     "french": "elle",
     "spanish": "ella",
     "german": "sie",
-    "vietnamese": "cô"
+    "vietnamese": "cô",
+    "japanese": "彼女"
   },
   "151": {
     "english": "all",
     "french": "tous",
     "spanish": "todo",
     "german": "alle",
-    "vietnamese": "tất cả"
+    "vietnamese": "tất cả",
+    "japanese": "すべて"
   },
   "152": {
     "english": "there",
     "french": "là",
     "spanish": "hay",
     "german": "da",
-    "vietnamese": "có"
+    "vietnamese": "có",
+    "japanese": "そこ"
   },
   "153": {
     "english": "when",
     "french": "quand",
     "spanish": "cuando",
     "german": "wenn",
-    "vietnamese": "khi"
+    "vietnamese": "khi",
+    "japanese": "時"
   },
   "154": {
     "english": "up",
     "french": "jusqu’à",
     "spanish": "hasta",
     "german": "nach oben",
-    "vietnamese": "lên"
+    "vietnamese": "lên",
+    "japanese": "アップ"
   },
   "155": {
     "english": "use",
     "french": "utiliser",
     "spanish": "uso",
     "german": "Verwendung",
-    "vietnamese": "sử dụng"
+    "vietnamese": "sử dụng",
+    "japanese": "使用"
   },
   "156": {
     "english": "your",
     "french": "votre",
     "spanish": "su",
     "german": "Ihre",
-    "vietnamese": "của bạn"
+    "vietnamese": "của bạn",
+    "japanese": "あなたの"
   },
   "157": {
     "english": "way",
     "french": "manière",
     "spanish": "camino",
     "german": "Weg",
-    "vietnamese": "cách"
+    "vietnamese": "cách",
+    "japanese": "道"
   },
   "158": {
     "english": "about",
     "french": "sur",
     "spanish": "acerca",
     "german": "über",
-    "vietnamese": "về"
+    "vietnamese": "về",
+    "japanese": "約"
   },
   "159": {
     "english": "many",
     "french": "beaucoup",
     "spanish": "muchos",
     "german": "viele",
-    "vietnamese": "nhiều"
+    "vietnamese": "nhiều",
+    "japanese": "多くの"
   },
   "160": {
     "english": "then",
     "french": "puis",
     "spanish": "entonces",
     "german": "dann",
-    "vietnamese": "sau đó"
+    "vietnamese": "sau đó",
+    "japanese": "その後"
   },
   "161": {
     "english": "them",
     "french": "les",
     "spanish": "ellos",
     "german": "sie",
-    "vietnamese": "họ"
+    "vietnamese": "họ",
+    "japanese": "それら"
   },
   "162": {
     "english": "write",
     "french": "écrire",
     "spanish": "escribir",
     "german": "schreiben",
-    "vietnamese": "viết"
+    "vietnamese": "viết",
+    "japanese": "書く"
   },
   "163": {
     "english": "would",
     "french": "voudrais",
     "spanish": "haría",
     "german": "würde",
-    "vietnamese": "sẽ"
+    "vietnamese": "sẽ",
+    "japanese": "でしょう"
   },
   "164": {
     "english": "like",
     "french": "comme",
     "spanish": "como",
     "german": "wie",
-    "vietnamese": "như"
+    "vietnamese": "như",
+    "japanese": "ような"
   },
   "165": {
     "english": "so",
     "french": "si",
     "spanish": "así",
     "german": "so",
-    "vietnamese": "để"
+    "vietnamese": "để",
+    "japanese": "そう"
   },
   "166": {
     "english": "these",
     "french": "ces",
     "spanish": "éstos",
     "german": "diese",
-    "vietnamese": "các"
+    "vietnamese": "các",
+    "japanese": "これらの"
   },
   "167": {
     "english": "her",
     "french": "son",
     "spanish": "su",
     "german": "sie",
-    "vietnamese": "cô"
+    "vietnamese": "cô",
+    "japanese": "彼女の"
   },
   "168": {
     "english": "long",
     "french": "long",
     "spanish": "largo",
     "german": "lange",
-    "vietnamese": "lâu"
+    "vietnamese": "lâu",
+    "japanese": "長い"
   },
   "169": {
     "english": "make",
     "french": "faire",
     "spanish": "hacer",
     "german": "machen",
-    "vietnamese": "làm"
+    "vietnamese": "làm",
+    "japanese": "作る"
   },
   "170": {
     "english": "thing",
     "french": "chose",
     "spanish": "cosa",
     "german": "Sache",
-    "vietnamese": "điều"
+    "vietnamese": "điều",
+    "japanese": "もの"
   },
   "171": {
     "english": "see",
     "french": "voir",
     "spanish": "ver",
     "german": "sehen",
-    "vietnamese": "thấy"
+    "vietnamese": "thấy",
+    "japanese": "見る"
   },
   "172": {
     "english": "him",
     "french": "lui",
     "spanish": "él",
     "german": "ihm",
-    "vietnamese": "anh"
+    "vietnamese": "anh",
+    "japanese": "彼に"
   },
   "173": {
     "english": "two",
     "french": "deux",
     "spanish": "dos",
     "german": "zwei",
-    "vietnamese": "hai"
+    "vietnamese": "hai",
+    "japanese": "二つ"
   },
   "174": {
     "english": "has",
     "french": "a",
     "spanish": "tiene",
     "german": "hat",
-    "vietnamese": "có"
+    "vietnamese": "có",
+    "japanese": "があります"
   },
   "175": {
     "english": "look",
     "french": "regarder",
     "spanish": "buscar",
     "german": "suchen",
-    "vietnamese": "xem"
+    "vietnamese": "xem",
+    "japanese": "見える"
   },
   "176": {
     "english": "more",
     "french": "plus",
     "spanish": "más",
     "german": "mehr",
-    "vietnamese": "hơn"
+    "vietnamese": "hơn",
+    "japanese": "多くの"
   },
   "177": {
     "english": "day",
     "french": "jour",
     "spanish": "día",
     "german": "Tag",
-    "vietnamese": "ngày"
+    "vietnamese": "ngày",
+    "japanese": "日"
   },
   "178": {
     "english": "could",
     "french": "pourrait",
     "spanish": "podía",
     "german": "könnte",
-    "vietnamese": "có thể"
+    "vietnamese": "có thể",
+    "japanese": "可能性"
   },
   "179": {
     "english": "go",
     "french": "aller",
     "spanish": "ir",
     "german": "gehen",
-    "vietnamese": "đi"
+    "vietnamese": "đi",
+    "japanese": "行く"
   },
   "180": {
     "english": "come",
     "french": "venir",
     "spanish": "venir",
     "german": "kommen",
-    "vietnamese": "đến"
+    "vietnamese": "đến",
+    "japanese": "来る"
   },
   "181": {
     "english": "did",
     "french": "fait",
     "spanish": "hizo",
     "german": "tat",
-    "vietnamese": "đã làm"
+    "vietnamese": "đã làm",
+    "japanese": "やった"
   },
   "182": {
     "english": "number",
     "french": "nombre",
     "spanish": "número",
     "german": "Anzahl",
-    "vietnamese": "số"
+    "vietnamese": "số",
+    "japanese": "番号"
   },
   "183": {
     "english": "sound",
     "french": "son",
     "spanish": "sonar",
     "german": "klingen",
-    "vietnamese": "âm thanh"
+    "vietnamese": "âm thanh",
+    "japanese": "聞こえる"
   },
   "184": {
     "english": "no",
     "french": "aucun",
     "spanish": "no",
     "german": "nicht",
-    "vietnamese": "không có"
+    "vietnamese": "không có",
+    "japanese": "いいえ"
   },
   "185": {
     "english": "most",
     "french": "plus",
     "spanish": "más",
     "german": "am meisten",
-    "vietnamese": "nhất"
+    "vietnamese": "nhất",
+    "japanese": "最も"
   },
   "186": {
     "english": "people",
     "french": "personnes",
     "spanish": "personas",
     "german": "Menschen",
-    "vietnamese": "nhân dân"
+    "vietnamese": "nhân dân",
+    "japanese": "人々"
   },
   "187": {
     "english": "my",
     "french": "ma",
     "spanish": "mi",
     "german": "meine",
-    "vietnamese": "của tôi"
+    "vietnamese": "của tôi",
+    "japanese": "私の"
   },
   "188": {
     "english": "over",
     "french": "sur",
     "spanish": "sobre",
     "german": "über",
-    "vietnamese": "hơn"
+    "vietnamese": "hơn",
+    "japanese": "オーバー"
   },
   "189": {
     "english": "know",
     "french": "savoir",
     "spanish": "saber",
     "german": "wissen",
-    "vietnamese": "biết"
+    "vietnamese": "biết",
+    "japanese": "知っている"
   },
   "190": {
     "english": "water",
     "french": "eau",
     "spanish": "agua",
     "german": "Wasser",
-    "vietnamese": "nước"
+    "vietnamese": "nước",
+    "japanese": "水"
   },
   "191": {
     "english": "than",
     "french": "que",
     "spanish": "que",
     "german": "als",
-    "vietnamese": "hơn"
+    "vietnamese": "hơn",
+    "japanese": "比べて"
   },
   "192": {
     "english": "call",
     "french": "appel",
     "spanish": "llamada",
     "german": "Anruf",
-    "vietnamese": "gọi"
+    "vietnamese": "gọi",
+    "japanese": "コール"
   },
   "193": {
     "english": "first",
     "french": "première",
     "spanish": "primero",
     "german": "erste",
-    "vietnamese": "đầu tiên"
+    "vietnamese": "đầu tiên",
+    "japanese": "最初の"
   },
   "194": {
     "english": "who",
     "french": "qui",
     "spanish": "que",
     "german": "die",
-    "vietnamese": "người"
+    "vietnamese": "người",
+    "japanese": "誰"
   },
   "195": {
     "english": "may",
     "french": "peut",
     "spanish": "puede",
     "german": "können",
-    "vietnamese": "có thể"
+    "vietnamese": "có thể",
+    "japanese": "よい"
   },
   "196": {
     "english": "down",
     "french": "vers le bas",
     "spanish": "abajo",
     "german": "nach unten",
-    "vietnamese": "xuống"
+    "vietnamese": "xuống",
+    "japanese": "ダウン"
   },
   "197": {
     "english": "side",
     "french": "côté",
     "spanish": "lado",
     "german": "Seite",
-    "vietnamese": "bên"
+    "vietnamese": "bên",
+    "japanese": "サイド"
   },
   "198": {
     "english": "been",
     "french": "été",
     "spanish": "estado",
     "german": "gewesen",
-    "vietnamese": "được"
+    "vietnamese": "được",
+    "japanese": "き"
   },
   "199": {
     "english": "now",
     "french": "maintenant",
     "spanish": "ahora",
     "german": "jetzt",
-    "vietnamese": "bây giờ"
+    "vietnamese": "bây giờ",
+    "japanese": "今"
   },
   "200": {
     "english": "find",
     "french": "trouver",
     "spanish": "encontrar",
     "german": "finden",
-    "vietnamese": "tìm"
+    "vietnamese": "tìm",
+    "japanese": "見つける"
   },
   "201": {
     "english": "head",
     "french": "tête",
     "spanish": "cabeza",
     "german": "Kopf",
-    "vietnamese": "đầu"
+    "vietnamese": "đầu",
+    "japanese": "ヘッド"
   },
   "202": {
     "english": "stand",
     "french": "supporter",
     "spanish": "de pie",
     "german": "stehen",
-    "vietnamese": "đứng"
+    "vietnamese": "đứng",
+    "japanese": "スタンド"
   },
   "203": {
     "english": "own",
     "french": "propre",
     "spanish": "propio",
     "german": "besitzen",
-    "vietnamese": "riêng"
+    "vietnamese": "riêng",
+    "japanese": "独自の"
   },
   "204": {
     "english": "page",
     "french": "page",
     "spanish": "página",
     "german": "Seite",
-    "vietnamese": "trang"
+    "vietnamese": "trang",
+    "japanese": "ページ"
   },
   "205": {
     "english": "should",
     "french": "devrait",
     "spanish": "debería",
     "german": "sollte",
-    "vietnamese": "nên"
+    "vietnamese": "nên",
+    "japanese": "べき"
   },
   "206": {
     "english": "country",
     "french": "pays",
     "spanish": "país",
     "german": "Land",
-    "vietnamese": "nước"
+    "vietnamese": "nước",
+    "japanese": "国"
   },
   "207": {
     "english": "found",
     "french": "trouvé",
     "spanish": "encontrado",
     "german": "gefunden",
-    "vietnamese": "tìm thấy"
+    "vietnamese": "tìm thấy",
+    "japanese": "発見"
   },
   "208": {
     "english": "answer",
     "french": "réponse",
     "spanish": "respuesta",
     "german": "Antwort",
-    "vietnamese": "câu trả lời"
+    "vietnamese": "câu trả lời",
+    "japanese": "答え"
   },
   "209": {
     "english": "school",
     "french": "école",
     "spanish": "escuela",
     "german": "Schule",
-    "vietnamese": "trường"
+    "vietnamese": "trường",
+    "japanese": "学校"
   },
   "210": {
     "english": "grow",
     "french": "croître",
     "spanish": "crecer",
     "german": "wachsen",
-    "vietnamese": "phát triển"
+    "vietnamese": "phát triển",
+    "japanese": "成長する"
   },
   "211": {
     "english": "study",
     "french": "étude",
     "spanish": "estudio",
     "german": "Studie",
-    "vietnamese": "nghiên cứu"
+    "vietnamese": "nghiên cứu",
+    "japanese": "研究"
   },
   "212": {
     "english": "still",
     "french": "encore",
     "spanish": "todavía",
     "german": "noch",
-    "vietnamese": "vẫn"
+    "vietnamese": "vẫn",
+    "japanese": "まだ"
   },
   "213": {
     "english": "learn",
     "french": "apprendre",
     "spanish": "aprender",
     "german": "lernen",
-    "vietnamese": "học"
+    "vietnamese": "học",
+    "japanese": "学ぶ"
   },
   "214": {
     "english": "plant",
     "french": "usine",
     "spanish": "planta",
     "german": "Anlage",
-    "vietnamese": "nhà máy"
+    "vietnamese": "nhà máy",
+    "japanese": "植物"
   },
   "215": {
     "english": "cover",
     "french": "couvercle",
     "spanish": "cubierta",
     "german": "Abdeckung",
-    "vietnamese": "bìa"
+    "vietnamese": "bìa",
+    "japanese": "カバー"
   },
   "216": {
     "english": "food",
     "french": "nourriture",
     "spanish": "alimentos",
     "german": "Lebensmittel",
-    "vietnamese": "thực phẩm"
+    "vietnamese": "thực phẩm",
+    "japanese": "食品"
   },
   "217": {
     "english": "sun",
     "french": "soleil",
     "spanish": "sol",
     "german": "Sonne",
-    "vietnamese": "ánh nắng mặt trời"
+    "vietnamese": "ánh nắng mặt trời",
+    "japanese": "太陽"
   },
   "218": {
     "english": "four",
     "french": "quatre",
     "spanish": "cuatro",
     "german": "vier",
-    "vietnamese": "bốn"
+    "vietnamese": "bốn",
+    "japanese": "つの"
   },
   "219": {
     "english": "between",
     "french": "entre",
     "spanish": "entre",
     "german": "zwischen",
-    "vietnamese": "giữa"
+    "vietnamese": "giữa",
+    "japanese": "間に"
   },
   "220": {
     "english": "state",
     "french": "état",
     "spanish": "estado",
     "german": "Zustand",
-    "vietnamese": "nhà nước"
+    "vietnamese": "nhà nước",
+    "japanese": "状態"
   },
   "221": {
     "english": "keep",
     "french": "garder",
     "spanish": "mantener",
     "german": "halten",
-    "vietnamese": "giữ"
+    "vietnamese": "giữ",
+    "japanese": "キープ"
   },
   "222": {
     "english": "eye",
     "french": "œil",
     "spanish": "ojo",
     "german": "Auge",
-    "vietnamese": "mắt"
+    "vietnamese": "mắt",
+    "japanese": "目"
   },
   "223": {
     "english": "never",
     "french": "jamais",
     "spanish": "nunca",
     "german": "nie",
-    "vietnamese": "không bao giờ"
+    "vietnamese": "không bao giờ",
+    "japanese": "ネバー"
   },
   "224": {
     "english": "last",
     "french": "dernier",
     "spanish": "último",
     "german": "letzte",
-    "vietnamese": "cuối cùng"
+    "vietnamese": "cuối cùng",
+    "japanese": "最後の"
   },
   "225": {
     "english": "let",
     "french": "laisser",
     "spanish": "dejar",
     "german": "lassen",
-    "vietnamese": "cho phép"
+    "vietnamese": "cho phép",
+    "japanese": "てみましょう"
   },
   "226": {
     "english": "thought",
     "french": "pensée",
     "spanish": "pensado",
     "german": "Gedanken",
-    "vietnamese": "nghĩ"
+    "vietnamese": "nghĩ",
+    "japanese": "考え"
   },
   "227": {
     "english": "city",
     "french": "ville",
     "spanish": "ciudad",
     "german": "Stadt",
-    "vietnamese": "thành phố"
+    "vietnamese": "thành phố",
+    "japanese": "街"
   },
   "228": {
     "english": "tree",
     "french": "arbre",
     "spanish": "árbol",
     "german": "Baum",
-    "vietnamese": "cây"
+    "vietnamese": "cây",
+    "japanese": "ツリー"
   },
   "229": {
     "english": "cross",
     "french": "traverser",
     "spanish": "cruzar",
     "german": "überqueren",
-    "vietnamese": "qua"
+    "vietnamese": "qua",
+    "japanese": "クロス"
   },
   "230": {
     "english": "farm",
     "french": "ferme",
     "spanish": "granja",
     "german": "Bauernhof",
-    "vietnamese": "trang trại"
+    "vietnamese": "trang trại",
+    "japanese": "農場"
   },
   "231": {
     "english": "hard",
     "french": "dur",
     "spanish": "duro",
     "german": "schwer",
-    "vietnamese": "cứng"
+    "vietnamese": "cứng",
+    "japanese": "ハード"
   },
   "232": {
     "english": "start",
     "french": "début",
     "spanish": "inicio",
     "german": "Beginn",
-    "vietnamese": "bắt đầu"
+    "vietnamese": "bắt đầu",
+    "japanese": "スタート"
   },
   "233": {
     "english": "might",
     "french": "puissance",
     "spanish": "podría",
     "german": "Macht",
-    "vietnamese": "might"
+    "vietnamese": "might",
+    "japanese": "可能性がある"
   },
   "234": {
     "english": "story",
     "french": "histoire",
     "spanish": "historia",
     "german": "Geschichte",
-    "vietnamese": "câu chuyện"
+    "vietnamese": "câu chuyện",
+    "japanese": "物語"
   },
   "235": {
     "english": "saw",
     "french": "scie",
     "spanish": "sierra",
     "german": "Säge",
-    "vietnamese": "cưa"
+    "vietnamese": "cưa",
+    "japanese": "のこぎり"
   },
   "236": {
     "english": "far",
     "french": "loin",
     "spanish": "ahora",
     "german": "weit",
-    "vietnamese": "đến nay"
+    "vietnamese": "đến nay",
+    "japanese": "遠く"
   },
   "237": {
     "english": "sea",
     "french": "mer",
     "spanish": "mar",
     "german": "Meer",
-    "vietnamese": "biển"
+    "vietnamese": "biển",
+    "japanese": "海"
   },
   "238": {
     "english": "draw",
     "french": "tirer",
     "spanish": "dibujar",
     "german": "ziehen",
-    "vietnamese": "vẽ"
+    "vietnamese": "vẽ",
+    "japanese": "描く"
   },
   "239": {
     "english": "left",
     "french": "gauche",
     "spanish": "izquierda",
     "german": "links",
-    "vietnamese": "còn lại"
+    "vietnamese": "còn lại",
+    "japanese": "左"
   },
   "240": {
     "english": "late",
     "french": "tard",
     "spanish": "tarde",
     "german": "spät",
-    "vietnamese": "cuối"
+    "vietnamese": "cuối",
+    "japanese": "遅く"
   },
   "241": {
     "english": "run",
     "french": "courir",
     "spanish": "ejecutar",
     "german": "laufen",
-    "vietnamese": "chạy"
+    "vietnamese": "chạy",
+    "japanese": "ラン"
   },
   "242": {
     "english": "don’t",
     "french": "needs a context",
     "spanish": "no",
     "german": "unterlassen Sie",
-    "vietnamese": "không"
+    "vietnamese": "không",
+    "japanese": "ない"
   },
   "243": {
     "english": "while",
     "french": "tandis que",
     "spanish": "mientras",
     "german": "während",
-    "vietnamese": "trong khi"
+    "vietnamese": "trong khi",
+    "japanese": "一方、"
   },
   "244": {
     "english": "press",
     "french": "presse",
     "spanish": "prensa",
     "german": "Presse",
-    "vietnamese": "báo chí"
+    "vietnamese": "báo chí",
+    "japanese": "プレス"
   },
   "245": {
     "english": "close",
     "french": "proche",
     "spanish": "Cerrar",
     "german": "Schließen",
-    "vietnamese": "gần"
+    "vietnamese": "gần",
+    "japanese": "クローズ"
   },
   "246": {
     "english": "night",
     "french": "nuit",
     "spanish": "noche",
     "german": "Nacht",
-    "vietnamese": "đêm"
+    "vietnamese": "đêm",
+    "japanese": "夜"
   },
   "247": {
     "english": "real",
     "french": "réel",
     "spanish": "reales",
     "german": "realen",
-    "vietnamese": "thực"
+    "vietnamese": "thực",
+    "japanese": "リアル"
   },
   "248": {
     "english": "life",
     "french": "vie",
     "spanish": "vida",
     "german": "Leben",
-    "vietnamese": "cuộc sống"
+    "vietnamese": "cuộc sống",
+    "japanese": "生活"
   },
   "249": {
     "english": "few",
     "french": "peu",
     "spanish": "pocos",
     "german": "wenige",
-    "vietnamese": "số"
+    "vietnamese": "số",
+    "japanese": "少数"
   },
   "250": {
     "english": "north",
     "french": "nord",
     "spanish": "norte",
     "german": "Norden",
-    "vietnamese": "phía bắc"
+    "vietnamese": "phía bắc",
+    "japanese": "北"
   },
   "251": {
     "english": "book",
     "french": "livre",
     "spanish": "libro",
     "german": "Buch",
-    "vietnamese": "cuốn sách"
+    "vietnamese": "cuốn sách",
+    "japanese": "ブック"
   },
   "252": {
     "english": "carry",
     "french": "porter",
     "spanish": "llevar",
     "german": "tragen",
-    "vietnamese": "thực hiện"
+    "vietnamese": "thực hiện",
+    "japanese": "運ぶ"
   },
   "253": {
     "english": "took",
     "french": "a pris",
     "spanish": "tomó",
     "german": "nahm",
-    "vietnamese": "mất"
+    "vietnamese": "mất",
+    "japanese": "かかった"
   },
   "254": {
     "english": "science",
     "french": "science",
     "spanish": "ciencia",
     "german": "Wissenschaft",
-    "vietnamese": "khoa học"
+    "vietnamese": "khoa học",
+    "japanese": "科学"
   },
   "255": {
     "english": "eat",
     "french": "manger",
     "spanish": "comer",
     "german": "essen",
-    "vietnamese": "ăn"
+    "vietnamese": "ăn",
+    "japanese": "食べる"
   },
   "256": {
     "english": "room",
     "french": "chambre",
     "spanish": "habitación",
     "german": "Zimmer",
-    "vietnamese": "phòng"
+    "vietnamese": "phòng",
+    "japanese": "部屋"
   },
   "257": {
     "english": "friend",
     "french": "ami",
     "spanish": "amigo",
     "german": "Freund",
-    "vietnamese": "người bạn"
+    "vietnamese": "người bạn",
+    "japanese": "友人"
   },
   "258": {
     "english": "began",
     "french": "a commencé",
     "spanish": "comenzó",
     "german": "begann",
-    "vietnamese": "bắt đầu"
+    "vietnamese": "bắt đầu",
+    "japanese": "始まった"
   },
   "259": {
     "english": "idea",
     "french": "idée",
     "spanish": "gusta",
     "german": "Idee",
-    "vietnamese": "ý tưởng"
+    "vietnamese": "ý tưởng",
+    "japanese": "アイデア"
   },
   "260": {
     "english": "fish",
     "french": "poisson",
     "spanish": "peces",
     "german": "Fisch",
-    "vietnamese": "cá"
+    "vietnamese": "cá",
+    "japanese": "魚"
   },
   "261": {
     "english": "mountain",
     "french": "montagne",
     "spanish": "montaña",
     "german": "berg",
-    "vietnamese": "núi"
+    "vietnamese": "núi",
+    "japanese": "山"
   },
   "262": {
     "english": "stop",
     "french": "Arrêtez",
     "spanish": "Deténgase",
     "german": "Stopp",
-    "vietnamese": "ngăn chặn"
+    "vietnamese": "ngăn chặn",
+    "japanese": "停止"
   },
   "263": {
     "english": "once",
     "french": "une fois",
     "spanish": "una vez",
     "german": "einmal",
-    "vietnamese": "một lần"
+    "vietnamese": "một lần",
+    "japanese": "一度"
   },
   "264": {
     "english": "base",
     "french": "base",
     "spanish": "base de",
     "german": "Basis",
-    "vietnamese": "cơ sở"
+    "vietnamese": "cơ sở",
+    "japanese": "ベース"
   },
   "265": {
     "english": "hear",
     "french": "entendre",
     "spanish": "escuchar",
     "german": "hören",
-    "vietnamese": "nghe"
+    "vietnamese": "nghe",
+    "japanese": "聞く"
   },
   "266": {
     "english": "horse",
     "french": "cheval",
     "spanish": "caballo",
     "german": "Pferd",
-    "vietnamese": "ngựa"
+    "vietnamese": "ngựa",
+    "japanese": "馬"
   },
   "267": {
     "english": "cut",
     "french": "coupe",
     "spanish": "cortada",
     "german": "Schnitt",
-    "vietnamese": "cắt"
+    "vietnamese": "cắt",
+    "japanese": "カット"
   },
   "268": {
     "english": "sure",
     "french": "sûr",
     "spanish": "seguro",
     "german": "sicher",
-    "vietnamese": "chắc chắn"
+    "vietnamese": "chắc chắn",
+    "japanese": "確か"
   },
   "269": {
     "english": "watch",
     "french": "regarder",
     "spanish": "ver",
     "german": "beobachten",
-    "vietnamese": "xem"
+    "vietnamese": "xem",
+    "japanese": "見る"
   },
   "270": {
     "english": "color",
     "french": "couleur",
     "spanish": "colores",
     "german": "Farbe",
-    "vietnamese": "màu"
+    "vietnamese": "màu",
+    "japanese": "カラー"
   },
   "271": {
     "english": "face",
     "french": "face",
     "spanish": "cara",
     "german": "Gesicht",
-    "vietnamese": "khuôn mặt"
+    "vietnamese": "khuôn mặt",
+    "japanese": "顔"
   },
   "272": {
     "english": "wood",
     "french": "bois",
     "spanish": "madera",
     "german": "Holz",
-    "vietnamese": "gỗ"
+    "vietnamese": "gỗ",
+    "japanese": "木材"
   },
   "273": {
     "english": "main",
     "french": "principal",
     "spanish": "principal",
     "german": "Haupt-",
-    "vietnamese": "chính"
+    "vietnamese": "chính",
+    "japanese": "メイン"
   },
   "274": {
     "english": "open",
     "french": "ouvert",
     "spanish": "abierta",
     "german": "geöffnet",
-    "vietnamese": "mở"
+    "vietnamese": "mở",
+    "japanese": "オープン"
   },
   "275": {
     "english": "seem",
     "french": "paraître",
     "spanish": "parecer",
     "german": "scheinen",
-    "vietnamese": "dường như"
+    "vietnamese": "dường như",
+    "japanese": "見える"
   },
   "276": {
     "english": "together",
     "french": "ensemble",
     "spanish": "juntos",
     "german": "zusammen",
-    "vietnamese": "cùng"
+    "vietnamese": "cùng",
+    "japanese": "一緒に"
   },
   "277": {
     "english": "next",
     "french": "suivant",
     "spanish": "próximo",
     "german": "nächste",
-    "vietnamese": "tiếp theo"
+    "vietnamese": "tiếp theo",
+    "japanese": "次"
   },
   "278": {
     "english": "white",
     "french": "blanc",
     "spanish": "blanco",
     "german": "weiß",
-    "vietnamese": "trắng"
+    "vietnamese": "trắng",
+    "japanese": "白"
   },
   "279": {
     "english": "children",
     "french": "enfants",
     "spanish": "niños",
     "german": "Kinder",
-    "vietnamese": "trẻ em"
+    "vietnamese": "trẻ em",
+    "japanese": "子どもたち"
   },
   "280": {
     "english": "begin",
     "french": "commencer",
     "spanish": "comenzar",
     "german": "Start",
-    "vietnamese": "bắt đầu"
+    "vietnamese": "bắt đầu",
+    "japanese": "始まる"
   },
   "281": {
     "english": "got",
     "french": "eu",
     "spanish": "conseguido",
     "german": "bekam",
-    "vietnamese": "có"
+    "vietnamese": "có",
+    "japanese": "だ"
   },
   "282": {
     "english": "walk",
     "french": "marcher",
     "spanish": "caminar",
     "german": "gehen",
-    "vietnamese": "đi bộ"
+    "vietnamese": "đi bộ",
+    "japanese": "歩く"
   },
   "283": {
     "english": "example",
     "french": "exemple",
     "spanish": "ejemplo",
     "german": "Beispiel",
-    "vietnamese": "Ví dụ"
+    "vietnamese": "Ví dụ",
+    "japanese": "例"
   },
   "284": {
     "english": "ease",
     "french": "facilité",
     "spanish": "aliviar",
     "german": "erleichtern",
-    "vietnamese": "giảm bớt"
+    "vietnamese": "giảm bớt",
+    "japanese": "和らげる"
   },
   "285": {
     "english": "paper",
     "french": "papier",
     "spanish": "papel",
     "german": "Papier",
-    "vietnamese": "giấy"
+    "vietnamese": "giấy",
+    "japanese": "紙"
   },
   "286": {
     "english": "group",
     "french": "groupe",
     "spanish": "grupo",
     "german": "Gruppe",
-    "vietnamese": "nhóm"
+    "vietnamese": "nhóm",
+    "japanese": "グループ"
   },
   "287": {
     "english": "always",
     "french": "toujours",
     "spanish": "siempre",
     "german": "immer",
-    "vietnamese": "luôn luôn"
+    "vietnamese": "luôn luôn",
+    "japanese": "常に"
   },
   "288": {
     "english": "music",
     "french": "musique",
     "spanish": "música",
     "german": "Musik",
-    "vietnamese": "nhạc"
+    "vietnamese": "nhạc",
+    "japanese": "音楽"
   },
   "289": {
     "english": "those",
     "french": "ceux",
     "spanish": "los",
     "german": "diejenigen",
-    "vietnamese": "những"
+    "vietnamese": "những",
+    "japanese": "それらの"
   },
   "290": {
     "english": "both",
     "french": "tous les deux",
     "spanish": "ambos",
     "german": "beide",
-    "vietnamese": "cả hai"
+    "vietnamese": "cả hai",
+    "japanese": "両方"
   },
   "291": {
     "english": "mark",
     "french": "marque",
     "spanish": "marca",
     "german": "Marke",
-    "vietnamese": "đánh dấu"
+    "vietnamese": "đánh dấu",
+    "japanese": "マーク"
   },
   "292": {
     "english": "often",
     "french": "souvent",
     "spanish": "menudo",
     "german": "oft",
-    "vietnamese": "thường"
+    "vietnamese": "thường",
+    "japanese": "しばしば"
   },
   "293": {
     "english": "letter",
     "french": "lettre",
     "spanish": "carta",
     "german": "Schreiben",
-    "vietnamese": "thư"
+    "vietnamese": "thư",
+    "japanese": "手紙"
   },
   "294": {
     "english": "until",
     "french": "jusqu’à ce que",
     "spanish": "hasta",
     "german": "bis",
-    "vietnamese": "cho đến khi"
+    "vietnamese": "cho đến khi",
+    "japanese": "まで、"
   },
   "295": {
     "english": "mile",
     "french": "mile",
     "spanish": "milla",
     "german": "Meile",
-    "vietnamese": "dặm"
+    "vietnamese": "dặm",
+    "japanese": "マイル"
   },
   "296": {
     "english": "river",
     "french": "rivière",
     "spanish": "río",
     "german": "Fluss",
-    "vietnamese": "sông"
+    "vietnamese": "sông",
+    "japanese": "川"
   },
   "297": {
     "english": "car",
     "french": "voiture",
     "spanish": "coche",
     "german": "Auto",
-    "vietnamese": "xe"
+    "vietnamese": "xe",
+    "japanese": "カー"
   },
   "298": {
     "english": "feet",
     "french": "pieds",
     "spanish": "pies",
     "german": "Füße",
-    "vietnamese": "chân"
+    "vietnamese": "chân",
+    "japanese": "フィート"
   },
   "299": {
     "english": "care",
     "french": "soins",
     "spanish": "cuidado",
     "german": "Pflege",
-    "vietnamese": "chăm sóc"
+    "vietnamese": "chăm sóc",
+    "japanese": "介護"
   },
   "300": {
     "english": "second",
     "french": "deuxième",
     "spanish": "segundo",
     "german": "zweite",
-    "vietnamese": "thứ hai"
+    "vietnamese": "thứ hai",
+    "japanese": "第2"
   },
   "301": {
     "english": "enough",
     "french": "assez",
     "spanish": "suficiente",
     "german": "genug",
-    "vietnamese": "đủ"
+    "vietnamese": "đủ",
+    "japanese": "十分な"
   },
   "302": {
     "english": "plain",
     "french": "plaine",
     "spanish": "llano",
     "german": "Ebene",
-    "vietnamese": "đồng bằng"
+    "vietnamese": "đồng bằng",
+    "japanese": "平野"
   },
   "303": {
     "english": "girl",
     "french": "fille",
     "spanish": "chica",
     "german": "Mädchen",
-    "vietnamese": "cô gái"
+    "vietnamese": "cô gái",
+    "japanese": "女の子"
   },
   "304": {
     "english": "usual",
     "french": "habituel",
     "spanish": "habitual",
     "german": "üblich",
-    "vietnamese": "thông thường"
+    "vietnamese": "thông thường",
+    "japanese": "いつもの"
   },
   "305": {
     "english": "young",
     "french": "jeune",
     "spanish": "joven",
     "german": "jung",
-    "vietnamese": "trẻ"
+    "vietnamese": "trẻ",
+    "japanese": "若い"
   },
   "306": {
     "english": "ready",
     "french": "prêt",
     "spanish": "listo",
     "german": "bereit",
-    "vietnamese": "sẵn sàng"
+    "vietnamese": "sẵn sàng",
+    "japanese": "レディー"
   },
   "307": {
     "english": "above",
     "french": "au-dessus",
     "spanish": "por encima de",
     "german": "oben",
-    "vietnamese": "trên đây"
+    "vietnamese": "trên đây",
+    "japanese": "上記"
   },
   "308": {
     "english": "ever",
     "french": "jamais",
     "spanish": "nunca",
     "german": "je",
-    "vietnamese": "bao giờ"
+    "vietnamese": "bao giờ",
+    "japanese": "今までに"
   },
   "309": {
     "english": "red",
     "french": "rouge",
     "spanish": "rojo",
     "german": "rot",
-    "vietnamese": "màu đỏ"
+    "vietnamese": "màu đỏ",
+    "japanese": "赤"
   },
   "310": {
     "english": "list",
     "french": "liste",
     "spanish": "lista",
     "german": "Liste",
-    "vietnamese": "danh sách"
+    "vietnamese": "danh sách",
+    "japanese": "リスト"
   },
   "311": {
     "english": "though",
     "french": "bien que",
     "spanish": "aunque",
     "german": "obwohl",
-    "vietnamese": "mặc dù"
+    "vietnamese": "mặc dù",
+    "japanese": "しかし"
   },
   "312": {
     "english": "feel",
     "french": "sentir",
     "spanish": "sentir",
     "german": "fühlen",
-    "vietnamese": "cảm thấy"
+    "vietnamese": "cảm thấy",
+    "japanese": "感じる"
   },
   "313": {
     "english": "talk",
     "french": "parler",
     "spanish": "charla",
     "german": "Vortrag",
-    "vietnamese": "nói chuyện"
+    "vietnamese": "nói chuyện",
+    "japanese": "トーク"
   },
   "314": {
     "english": "bird",
     "french": "oiseau",
     "spanish": "pájaro",
     "german": "Vogel",
-    "vietnamese": "chim"
+    "vietnamese": "chim",
+    "japanese": "鳥"
   },
   "315": {
     "english": "soon",
     "french": "bientôt",
     "spanish": "pronto",
     "german": "bald",
-    "vietnamese": "sớm"
+    "vietnamese": "sớm",
+    "japanese": "すぐに"
   },
   "316": {
     "english": "body",
     "french": "corps",
     "spanish": "cuerpo",
     "german": "Körper",
-    "vietnamese": "cơ thể"
+    "vietnamese": "cơ thể",
+    "japanese": "ボディ"
   },
   "317": {
     "english": "dog",
     "french": "chien",
     "spanish": "perro",
     "german": "Hund",
-    "vietnamese": "con chó"
+    "vietnamese": "con chó",
+    "japanese": "犬"
   },
   "318": {
     "english": "family",
     "french": "famille",
     "spanish": "familia",
     "german": "Familie",
-    "vietnamese": "gia đình"
+    "vietnamese": "gia đình",
+    "japanese": "家族"
   },
   "319": {
     "english": "direct",
     "french": "direct",
     "spanish": "directa",
     "german": "direkt",
-    "vietnamese": "trực tiếp"
+    "vietnamese": "trực tiếp",
+    "japanese": "ダイレクト"
   },
   "320": {
     "english": "pose",
     "french": "pose",
     "spanish": "plantear",
     "german": "Pose",
-    "vietnamese": "đặt ra"
+    "vietnamese": "đặt ra",
+    "japanese": "ポーズ"
   },
   "321": {
     "english": "leave",
     "french": "laisser",
     "spanish": "dejar",
     "german": "verlassen",
-    "vietnamese": "lại"
+    "vietnamese": "lại",
+    "japanese": "去る"
   },
   "322": {
     "english": "song",
     "french": "chanson",
     "spanish": "canción",
     "german": "Lied",
-    "vietnamese": "bài hát"
+    "vietnamese": "bài hát",
+    "japanese": "歌"
   },
   "323": {
     "english": "measure",
     "french": "mesurer",
     "spanish": "medir",
     "german": "messen",
-    "vietnamese": "đo lường"
+    "vietnamese": "đo lường",
+    "japanese": "測定"
   },
   "324": {
     "english": "door",
     "french": "porte",
     "spanish": "puerta",
     "german": "Tür",
-    "vietnamese": "cửa"
+    "vietnamese": "cửa",
+    "japanese": "ドア"
   },
   "325": {
     "english": "product",
     "french": "produit",
     "spanish": "producto",
     "german": "Produkt",
-    "vietnamese": "sản phẩm"
+    "vietnamese": "sản phẩm",
+    "japanese": "製品"
   },
   "326": {
     "english": "black",
     "french": "noir",
     "spanish": "negro",
     "german": "schwarz",
-    "vietnamese": "đen"
+    "vietnamese": "đen",
+    "japanese": "黒"
   },
   "327": {
     "english": "short",
     "french": "court",
     "spanish": "corto",
     "german": "kurz",
-    "vietnamese": "ngắn"
+    "vietnamese": "ngắn",
+    "japanese": "短い"
   },
   "328": {
     "english": "numeral",
     "french": "chiffre",
     "spanish": "numeral",
     "german": "Zahl",
-    "vietnamese": "chữ số"
+    "vietnamese": "chữ số",
+    "japanese": "数字"
   },
   "329": {
     "english": "class",
     "french": "classe",
     "spanish": "clase",
     "german": "Klasse",
-    "vietnamese": "lớp"
+    "vietnamese": "lớp",
+    "japanese": "クラス"
   },
   "330": {
     "english": "wind",
     "french": "vent",
     "spanish": "viento",
     "german": "Wind",
-    "vietnamese": "gió"
+    "vietnamese": "gió",
+    "japanese": "風"
   },
   "331": {
     "english": "question",
     "french": "question",
     "spanish": "pregunta",
     "german": "Frage",
-    "vietnamese": "câu hỏi"
+    "vietnamese": "câu hỏi",
+    "japanese": "質問"
   },
   "332": {
     "english": "happen",
     "french": "arriver",
     "spanish": "suceder",
     "german": "passieren",
-    "vietnamese": "xảy ra"
+    "vietnamese": "xảy ra",
+    "japanese": "起こる"
   },
   "333": {
     "english": "complete",
     "french": "complète",
     "spanish": "completo",
     "german": "vollständig",
-    "vietnamese": "hoàn thành"
+    "vietnamese": "hoàn thành",
+    "japanese": "完全な"
   },
   "334": {
     "english": "ship",
     "french": "navire",
     "spanish": "buque",
     "german": "Schiff",
-    "vietnamese": "tàu"
+    "vietnamese": "tàu",
+    "japanese": "船"
   },
   "335": {
     "english": "area",
     "french": "zone",
     "spanish": "zona",
     "german": "Bereich",
-    "vietnamese": "khu vực"
+    "vietnamese": "khu vực",
+    "japanese": "エリア"
   },
   "336": {
     "english": "half",
     "french": "moitié",
     "spanish": "medio",
     "german": "Hälfte",
-    "vietnamese": "một nửa"
+    "vietnamese": "một nửa",
+    "japanese": "半分"
   },
   "337": {
     "english": "rock",
     "french": "rock",
     "spanish": "roca",
     "german": "Stein",
-    "vietnamese": "đá"
+    "vietnamese": "đá",
+    "japanese": "岩"
   },
   "338": {
     "english": "order",
     "french": "ordre",
     "spanish": "orden",
     "german": "bestellen",
-    "vietnamese": "để"
+    "vietnamese": "để",
+    "japanese": "オーダー"
   },
   "339": {
     "english": "fire",
     "french": "feu",
     "spanish": "fuego",
     "german": "Feuer",
-    "vietnamese": "lửa"
+    "vietnamese": "lửa",
+    "japanese": "火災"
   },
   "340": {
     "english": "south",
     "french": "sud",
     "spanish": "sur",
     "german": "Süden",
-    "vietnamese": "nam"
+    "vietnamese": "nam",
+    "japanese": "南"
   },
   "341": {
     "english": "problem",
     "french": "problème",
     "spanish": "problema",
     "german": "Problem",
-    "vietnamese": "vấn đề"
+    "vietnamese": "vấn đề",
+    "japanese": "問題"
   },
   "342": {
     "english": "piece",
     "french": "pièce",
     "spanish": "pieza",
     "german": "Stück",
-    "vietnamese": "mảnh"
+    "vietnamese": "mảnh",
+    "japanese": "作品"
   },
   "343": {
     "english": "told",
     "french": "dit",
     "spanish": "dicho",
     "german": "sagte",
-    "vietnamese": "nói"
+    "vietnamese": "nói",
+    "japanese": "言われ"
   },
   "344": {
     "english": "knew",
     "french": "savait",
     "spanish": "sabía",
     "german": "wusste",
-    "vietnamese": "biết"
+    "vietnamese": "biết",
+    "japanese": "知っていた"
   },
   "345": {
     "english": "pass",
     "french": "passer",
     "spanish": "pasar",
     "german": "passieren",
-    "vietnamese": "vượt qua"
+    "vietnamese": "vượt qua",
+    "japanese": "合格"
   },
   "346": {
     "english": "since",
     "french": "depuis",
     "spanish": "desde",
     "german": "seit",
-    "vietnamese": "từ"
+    "vietnamese": "từ",
+    "japanese": "以来"
   },
   "347": {
     "english": "top",
     "french": "haut",
     "spanish": "cima",
     "german": "obere",
-    "vietnamese": "đầu"
+    "vietnamese": "đầu",
+    "japanese": "トップ"
   },
   "348": {
     "english": "whole",
     "french": "ensemble",
     "spanish": "todo",
     "german": "ganze",
-    "vietnamese": "toàn bộ"
+    "vietnamese": "toàn bộ",
+    "japanese": "全体"
   },
   "349": {
     "english": "king",
     "french": "roi",
     "spanish": "rey",
     "german": "König",
-    "vietnamese": "vua"
+    "vietnamese": "vua",
+    "japanese": "王"
   },
   "350": {
     "english": "street",
     "french": "rue",
     "spanish": "calle",
     "german": "Straße",
-    "vietnamese": "đường phố"
+    "vietnamese": "đường phố",
+    "japanese": "ストリート"
   },
   "351": {
     "english": "inch",
     "french": "pouce",
     "spanish": "pulgadas",
     "german": "Zoll",
-    "vietnamese": "inch"
+    "vietnamese": "inch",
+    "japanese": "インチ"
   },
   "352": {
     "english": "multiply",
     "french": "multiplier",
     "spanish": "multiplicar",
     "german": "multiplizieren",
-    "vietnamese": "nhân"
+    "vietnamese": "nhân",
+    "japanese": "掛ける"
   },
   "353": {
     "english": "nothing",
     "french": "rien",
     "spanish": "nada",
     "german": "nichts",
-    "vietnamese": "không có gì"
+    "vietnamese": "không có gì",
+    "japanese": "何も"
   },
   "354": {
     "english": "course",
     "french": "cours",
     "spanish": "curso",
     "german": "Kurs",
-    "vietnamese": "Tất nhiên"
+    "vietnamese": "Tất nhiên",
+    "japanese": "もちろん"
   },
   "355": {
     "english": "stay",
     "french": "rester",
     "spanish": "quedarse",
     "german": "bleiben",
-    "vietnamese": "ở lại"
+    "vietnamese": "ở lại",
+    "japanese": "滞在"
   },
   "356": {
     "english": "wheel",
     "french": "roue",
     "spanish": "rueda",
     "german": "Rad",
-    "vietnamese": "bánh xe"
+    "vietnamese": "bánh xe",
+    "japanese": "ホイール"
   },
   "357": {
     "english": "full",
     "french": "plein",
     "spanish": "completo",
     "german": "voll",
-    "vietnamese": "đầy đủ"
+    "vietnamese": "đầy đủ",
+    "japanese": "フル"
   },
   "358": {
     "english": "force",
     "french": "force",
     "spanish": "fuerza",
     "german": "Kraft",
-    "vietnamese": "lực"
+    "vietnamese": "lực",
+    "japanese": "力"
   },
   "359": {
     "english": "blue",
     "french": "bleu",
     "spanish": "azul",
     "german": "blau",
-    "vietnamese": "màu xanh"
+    "vietnamese": "màu xanh",
+    "japanese": "ブルー"
   },
   "360": {
     "english": "object",
     "french": "objet",
     "spanish": "objeto",
     "german": "Objekt",
-    "vietnamese": "đối tượng"
+    "vietnamese": "đối tượng",
+    "japanese": "オブジェクト"
   },
   "361": {
     "english": "decide",
     "french": "décider",
     "spanish": "decidir",
     "german": "entscheiden",
-    "vietnamese": "quyết định"
+    "vietnamese": "quyết định",
+    "japanese": "決定する"
   },
   "362": {
     "english": "surface",
     "french": "surface",
     "spanish": "superficie",
     "german": "Oberfläche",
-    "vietnamese": "bề mặt"
+    "vietnamese": "bề mặt",
+    "japanese": "表面"
   },
   "363": {
     "english": "deep",
     "french": "profond",
     "spanish": "profunda",
     "german": "tief",
-    "vietnamese": "sâu"
+    "vietnamese": "sâu",
+    "japanese": "深い"
   },
   "364": {
     "english": "moon",
     "french": "lune",
     "spanish": "luna",
     "german": "Mond",
-    "vietnamese": "mặt trăng"
+    "vietnamese": "mặt trăng",
+    "japanese": "ムーン"
   },
   "365": {
     "english": "island",
     "french": "île",
     "spanish": "isla",
     "german": "Insel",
-    "vietnamese": "đảo"
+    "vietnamese": "đảo",
+    "japanese": "島"
   },
   "366": {
     "english": "foot",
     "french": "pied",
     "spanish": "pie",
     "german": "Fuß",
-    "vietnamese": "chân"
+    "vietnamese": "chân",
+    "japanese": "足"
   },
   "367": {
     "english": "system",
     "french": "système",
     "spanish": "sistema",
     "german": "System",
-    "vietnamese": "hệ thống"
+    "vietnamese": "hệ thống",
+    "japanese": "システム"
   },
   "368": {
     "english": "busy",
     "french": "occupé",
     "spanish": "ocupado",
     "german": "beschäftigt",
-    "vietnamese": "bận rộn"
+    "vietnamese": "bận rộn",
+    "japanese": "忙しい"
   },
   "369": {
     "english": "test",
     "french": "test",
     "spanish": "prueba",
     "german": "Prüfung",
-    "vietnamese": "kiểm tra"
+    "vietnamese": "kiểm tra",
+    "japanese": "テスト"
   },
   "370": {
     "english": "record",
     "french": "record",
     "spanish": "registro",
     "german": "Rekord",
-    "vietnamese": "ghi"
+    "vietnamese": "ghi",
+    "japanese": "記録"
   },
   "371": {
     "english": "boat",
     "french": "bateau",
     "spanish": "barco",
     "german": "Boot",
-    "vietnamese": "thuyền"
+    "vietnamese": "thuyền",
+    "japanese": "ボート"
   },
   "372": {
     "english": "common",
     "french": "commun",
     "spanish": "común",
     "german": "gemeinsam",
-    "vietnamese": "phổ biến"
+    "vietnamese": "phổ biến",
+    "japanese": "一般的な"
   },
   "373": {
     "english": "gold",
     "french": "or",
     "spanish": "oro",
     "german": "goldenen",
-    "vietnamese": "vàng"
+    "vietnamese": "vàng",
+    "japanese": "ゴールド"
   },
   "374": {
     "english": "possible",
     "french": "possible",
     "spanish": "posible",
     "german": "möglich",
-    "vietnamese": "có thể"
+    "vietnamese": "có thể",
+    "japanese": "可能"
   },
   "375": {
     "english": "plane",
     "french": "plan",
     "spanish": "plano",
     "german": "Flugzeug",
-    "vietnamese": "máy bay"
+    "vietnamese": "máy bay",
+    "japanese": "飛行機"
   },
   "376": {
     "english": "stead",
     "french": "place",
     "spanish": "lugar",
     "german": "statt",
-    "vietnamese": "thay"
+    "vietnamese": "thay",
+    "japanese": "代わり"
   },
   "377": {
     "english": "dry",
     "french": "sec",
     "spanish": "seco",
     "german": "trocken",
-    "vietnamese": "khô"
+    "vietnamese": "khô",
+    "japanese": "ドライ"
   },
   "378": {
     "english": "wonder",
     "french": "se demander",
     "spanish": "maravilla",
     "german": "Wunder",
-    "vietnamese": "tự hỏi"
+    "vietnamese": "tự hỏi",
+    "japanese": "不思議"
   },
   "379": {
     "english": "laugh",
     "french": "rire",
     "spanish": "risa",
     "german": "Lachen",
-    "vietnamese": "cười"
+    "vietnamese": "cười",
+    "japanese": "笑い"
   },
   "380": {
     "english": "thousand",
     "french": "mille",
     "spanish": "mil",
     "german": "tausend",
-    "vietnamese": "ngàn"
+    "vietnamese": "ngàn",
+    "japanese": "千の"
   },
   "381": {
     "english": "ago",
     "french": "il ya",
     "spanish": "hace",
     "german": "vor",
-    "vietnamese": "trước"
+    "vietnamese": "trước",
+    "japanese": "前"
   },
   "382": {
     "english": "ran",
     "french": "ran",
     "spanish": "corrió",
     "german": "lief",
-    "vietnamese": "ran"
+    "vietnamese": "ran",
+    "japanese": "走った"
   },
   "383": {
     "english": "check",
     "french": "vérifier",
     "spanish": "comprobar",
     "german": "überprüfen",
-    "vietnamese": "kiểm tra"
+    "vietnamese": "kiểm tra",
+    "japanese": "チェック"
   },
   "384": {
     "english": "game",
     "french": "jeu",
     "spanish": "juego",
     "german": "Spiel",
-    "vietnamese": "trò chơi"
+    "vietnamese": "trò chơi",
+    "japanese": "ゲーム"
   },
   "385": {
     "english": "shape",
     "french": "forme",
     "spanish": "forma",
     "german": "Form",
-    "vietnamese": "hình dạng"
+    "vietnamese": "hình dạng",
+    "japanese": "形状"
   },
   "386": {
     "english": "equate",
     "french": "assimiler",
     "spanish": "equiparar",
     "german": "gleichsetzen",
-    "vietnamese": "đánh đồng"
+    "vietnamese": "đánh đồng",
+    "japanese": "一致する"
   },
   "387": {
     "english": "hot",
     "french": "chaud",
     "spanish": "caliente",
     "german": "heiß",
-    "vietnamese": "nóng"
+    "vietnamese": "nóng",
+    "japanese": "ホット"
   },
   "388": {
     "english": "miss",
     "french": "manquer",
     "spanish": "señorita",
     "german": "Fehl",
-    "vietnamese": "bỏ lỡ"
+    "vietnamese": "bỏ lỡ",
+    "japanese": "ミス"
   },
   "389": {
     "english": "brought",
     "french": "apporté",
     "spanish": "traído",
     "german": "gebracht",
-    "vietnamese": "mang"
+    "vietnamese": "mang",
+    "japanese": "た"
   },
   "390": {
     "english": "heat",
     "french": "chaleur",
     "spanish": "calor",
     "german": "Wärme",
-    "vietnamese": "nhiệt"
+    "vietnamese": "nhiệt",
+    "japanese": "熱"
   },
   "391": {
     "english": "snow",
     "french": "neige",
     "spanish": "nieve",
     "german": "Schnee",
-    "vietnamese": "tuyết"
+    "vietnamese": "tuyết",
+    "japanese": "雪"
   },
   "392": {
     "english": "tire",
     "french": "pneu",
     "spanish": "neumáticos",
     "german": "Reifen",
-    "vietnamese": "lốp xe"
+    "vietnamese": "lốp xe",
+    "japanese": "タイヤ"
   },
   "393": {
     "english": "bring",
     "french": "apporter",
     "spanish": "traer",
     "german": "bringen",
-    "vietnamese": "mang lại"
+    "vietnamese": "mang lại",
+    "japanese": "持って来る"
   },
   "394": {
     "english": "yes",
     "french": "oui",
     "spanish": "sí",
     "german": "ja",
-    "vietnamese": "vâng"
+    "vietnamese": "vâng",
+    "japanese": "はい"
   },
   "395": {
     "english": "distant",
     "french": "lointain",
     "spanish": "distante",
     "german": "entfernt",
-    "vietnamese": "xa"
+    "vietnamese": "xa",
+    "japanese": "遠い"
   },
   "396": {
     "english": "fill",
     "french": "remplir",
     "spanish": "llenar",
     "german": "füllen",
-    "vietnamese": "điền"
+    "vietnamese": "điền",
+    "japanese": "埋める"
   },
   "397": {
     "english": "east",
     "french": "est",
     "spanish": "al este",
     "german": "Osten",
-    "vietnamese": "đông"
+    "vietnamese": "đông",
+    "japanese": "東"
   },
   "398": {
     "english": "paint",
     "french": "peindre",
     "spanish": "pintar",
     "german": "malen",
-    "vietnamese": "sơn"
+    "vietnamese": "sơn",
+    "japanese": "ペイント"
   },
   "399": {
     "english": "language",
     "french": "langue",
     "spanish": "idioma",
     "german": "Sprache",
-    "vietnamese": "ngôn ngữ"
+    "vietnamese": "ngôn ngữ",
+    "japanese": "言語"
   },
   "400": {
     "english": "among",
     "french": "entre",
     "spanish": "entre",
     "german": "unter",
-    "vietnamese": "trong"
+    "vietnamese": "trong",
+    "japanese": "の間で"
   },
   "401": {
     "english": "unit",
     "french": "unité",
     "spanish": "unidad",
     "german": "Einheit",
-    "vietnamese": "đơn vị"
+    "vietnamese": "đơn vị",
+    "japanese": "ユニット"
   },
   "402": {
     "english": "power",
     "french": "puissance",
     "spanish": "potencia",
     "german": "Macht",
-    "vietnamese": "điện"
+    "vietnamese": "điện",
+    "japanese": "パワー"
   },
   "403": {
     "english": "town",
     "french": "ville",
     "spanish": "ciudad",
     "german": "Stadt",
-    "vietnamese": "thị trấn"
+    "vietnamese": "thị trấn",
+    "japanese": "町"
   },
   "404": {
     "english": "fine",
     "french": "fin",
     "spanish": "fina",
     "german": "fein",
-    "vietnamese": "tốt"
+    "vietnamese": "tốt",
+    "japanese": "罰金"
   },
   "405": {
     "english": "certain",
     "french": "certain",
     "spanish": "cierto",
     "german": "sicher",
-    "vietnamese": "nhất định"
+    "vietnamese": "nhất định",
+    "japanese": "特定の"
   },
   "406": {
     "english": "fly",
     "french": "voler",
     "spanish": "volar",
     "german": "fliegen",
-    "vietnamese": "bay"
+    "vietnamese": "bay",
+    "japanese": "飛ぶ"
   },
   "407": {
     "english": "fall",
     "french": "tomber",
     "spanish": "caer",
     "german": "fallen",
-    "vietnamese": "giảm"
+    "vietnamese": "giảm",
+    "japanese": "落ちる"
   },
   "408": {
     "english": "lead",
     "french": "conduire",
     "spanish": "conducir",
     "german": "führen",
-    "vietnamese": "dẫn"
+    "vietnamese": "dẫn",
+    "japanese": "鉛"
   },
   "409": {
     "english": "cry",
     "french": "cri",
     "spanish": "grito",
     "german": "Schrei",
-    "vietnamese": "kêu"
+    "vietnamese": "kêu",
+    "japanese": "泣く"
   },
   "410": {
     "english": "dark",
     "french": "sombre",
     "spanish": "oscuro",
     "german": "dunkel",
-    "vietnamese": "tối"
+    "vietnamese": "tối",
+    "japanese": "暗い"
   },
   "411": {
     "english": "machine",
     "french": "machine",
     "spanish": "máquina",
     "german": "Maschine",
-    "vietnamese": "máy"
+    "vietnamese": "máy",
+    "japanese": "マシン"
   },
   "412": {
     "english": "note",
     "french": "Note",
     "spanish": "nota",
     "german": "note",
-    "vietnamese": "ghi"
+    "vietnamese": "ghi",
+    "japanese": "ノート"
   },
   "413": {
     "english": "wait",
     "french": "patienter",
     "spanish": "espere",
     "german": "warten",
-    "vietnamese": "đợi"
+    "vietnamese": "đợi",
+    "japanese": "待つ"
   },
   "414": {
     "english": "plan",
     "french": "plan",
     "spanish": "plan de",
     "german": "Plan",
-    "vietnamese": "kế hoạch"
+    "vietnamese": "kế hoạch",
+    "japanese": "計画"
   },
   "415": {
     "english": "figure",
     "french": "figure",
     "spanish": "figura",
     "german": "Abbildung",
-    "vietnamese": "con số"
+    "vietnamese": "con số",
+    "japanese": "図"
   },
   "416": {
     "english": "star",
     "french": "étoile",
     "spanish": "estrella",
     "german": "Stern",
-    "vietnamese": "sao"
+    "vietnamese": "sao",
+    "japanese": "スター"
   },
   "417": {
     "english": "box",
     "french": "boîte",
     "spanish": "caja",
     "german": "Kasten",
-    "vietnamese": "hộp"
+    "vietnamese": "hộp",
+    "japanese": "ボックス"
   },
   "418": {
     "english": "noun",
     "french": "nom",
     "spanish": "sustantivo",
     "german": "Nomen",
-    "vietnamese": "danh từ"
+    "vietnamese": "danh từ",
+    "japanese": "名詞"
   },
   "419": {
     "english": "field",
     "french": "domaine",
     "spanish": "campo",
     "german": "Feld",
-    "vietnamese": "lĩnh vực"
+    "vietnamese": "lĩnh vực",
+    "japanese": "フィールド"
   },
   "420": {
     "english": "rest",
     "french": "reste",
     "spanish": "resto",
     "german": "Rest",
-    "vietnamese": "phần còn lại"
+    "vietnamese": "phần còn lại",
+    "japanese": "残り"
   },
   "421": {
     "english": "correct",
     "french": "correct",
     "spanish": "correcta",
     "german": "richtig",
-    "vietnamese": "chính xác"
+    "vietnamese": "chính xác",
+    "japanese": "正しい"
   },
   "422": {
     "english": "able",
     "french": "capable",
     "spanish": "capaz",
     "german": "fähig",
-    "vietnamese": "thể"
+    "vietnamese": "thể",
+    "japanese": "できる"
   },
   "423": {
     "english": "pound",
     "french": "livre",
     "spanish": "libra",
     "german": "Pfund",
-    "vietnamese": "bảng"
+    "vietnamese": "bảng",
+    "japanese": "ポンド"
   },
   "424": {
     "english": "done",
     "french": "Terminé",
     "spanish": "hecho",
     "german": "getan",
-    "vietnamese": "Xong"
+    "vietnamese": "Xong",
+    "japanese": "終わった"
   },
   "425": {
     "english": "beauty",
     "french": "beauté",
     "spanish": "belleza",
     "german": "Schönheit",
-    "vietnamese": "vẻ đẹp"
+    "vietnamese": "vẻ đẹp",
+    "japanese": "美しさ"
   },
   "426": {
     "english": "drive",
     "french": "entraînement",
     "spanish": "unidad",
     "german": "Antriebs",
-    "vietnamese": "ổ đĩa"
+    "vietnamese": "ổ đĩa",
+    "japanese": "ドライブ"
   },
   "427": {
     "english": "stood",
     "french": "résisté",
     "spanish": "destacado",
     "german": "stand",
-    "vietnamese": "đứng"
+    "vietnamese": "đứng",
+    "japanese": "立っていた"
   },
   "428": {
     "english": "contain",
     "french": "contenir",
     "spanish": "contener",
     "german": "enthalten",
-    "vietnamese": "chứa"
+    "vietnamese": "chứa",
+    "japanese": "含む"
   },
   "429": {
     "english": "front",
     "french": "avant",
     "spanish": "delante",
     "german": "Front",
-    "vietnamese": "trước"
+    "vietnamese": "trước",
+    "japanese": "フロント"
   },
   "430": {
     "english": "teach",
     "french": "enseigner",
     "spanish": "enseñar",
     "german": "lehren",
-    "vietnamese": "dạy"
+    "vietnamese": "dạy",
+    "japanese": "教える"
   },
   "431": {
     "english": "week",
     "french": "semaine",
     "spanish": "semana",
     "german": "Woche",
-    "vietnamese": "tuần"
+    "vietnamese": "tuần",
+    "japanese": "週"
   },
   "432": {
     "english": "final",
     "french": "finale",
     "spanish": "último",
     "german": "Finale",
-    "vietnamese": "thức"
+    "vietnamese": "thức",
+    "japanese": "ファイナル"
   },
   "433": {
     "english": "gave",
     "french": "donné",
     "spanish": "dio",
     "german": "gab",
-    "vietnamese": "đã"
+    "vietnamese": "đã",
+    "japanese": "与えた"
   },
   "434": {
     "english": "green",
     "french": "vert",
     "spanish": "verde",
     "german": "grün",
-    "vietnamese": "màu xanh lá cây"
+    "vietnamese": "màu xanh lá cây",
+    "japanese": "緑"
   },
   "435": {
     "english": "oh",
     "french": "oh",
     "spanish": "oh",
     "german": "oh",
-    "vietnamese": "oh"
+    "vietnamese": "oh",
+    "japanese": "ああ"
   },
   "436": {
     "english": "quick",
     "french": "rapide",
     "spanish": "rápido",
     "german": "schnell",
-    "vietnamese": "nhanh chóng"
+    "vietnamese": "nhanh chóng",
+    "japanese": "クイック"
   },
   "437": {
     "english": "develop",
     "french": "développer",
     "spanish": "desarrollar",
     "german": "entwickeln",
-    "vietnamese": "phát triển"
+    "vietnamese": "phát triển",
+    "japanese": "開発する"
   },
   "438": {
     "english": "ocean",
     "french": "océan",
     "spanish": "océano",
     "german": "Ozean",
-    "vietnamese": "đại dương"
+    "vietnamese": "đại dương",
+    "japanese": "海"
   },
   "439": {
     "english": "warm",
     "french": "chaud",
     "spanish": "caliente",
     "german": "warme",
-    "vietnamese": "ấm áp"
+    "vietnamese": "ấm áp",
+    "japanese": "暖かい"
   },
   "440": {
     "english": "free",
     "french": "gratuit",
     "spanish": "libre",
     "german": "kostenlos",
-    "vietnamese": "miễn phí"
+    "vietnamese": "miễn phí",
+    "japanese": "無料で"
   },
   "441": {
     "english": "minute",
     "french": "minute",
     "spanish": "minuto",
     "german": "Minute",
-    "vietnamese": "phút"
+    "vietnamese": "phút",
+    "japanese": "分"
   },
   "442": {
     "english": "strong",
     "french": "fort",
     "spanish": "fuerte",
     "german": "stark",
-    "vietnamese": "mạnh mẽ"
+    "vietnamese": "mạnh mẽ",
+    "japanese": "強い"
   },
   "443": {
     "english": "special",
     "french": "spécial",
     "spanish": "especial",
     "german": "besondere",
-    "vietnamese": "đặc biệt"
+    "vietnamese": "đặc biệt",
+    "japanese": "特別"
   },
   "444": {
     "english": "mind",
     "french": "esprit",
     "spanish": "mente",
     "german": "Geist",
-    "vietnamese": "tâm"
+    "vietnamese": "tâm",
+    "japanese": "心"
   },
   "445": {
     "english": "behind",
     "french": "derrière",
     "spanish": "detrás",
     "german": "hinter",
-    "vietnamese": "sau"
+    "vietnamese": "sau",
+    "japanese": "背後に"
   },
   "446": {
     "english": "clear",
     "french": "clair",
     "spanish": "claro",
     "german": "klar",
-    "vietnamese": "trong"
+    "vietnamese": "trong",
+    "japanese": "明確な"
   },
   "447": {
     "english": "tail",
     "french": "queue",
     "spanish": "cola",
     "german": "Schwanz",
-    "vietnamese": "đuôi"
+    "vietnamese": "đuôi",
+    "japanese": "テール"
   },
   "448": {
     "english": "produce",
     "french": "produire",
     "spanish": "Produce",
     "german": "produzieren",
-    "vietnamese": "sản xuất"
+    "vietnamese": "sản xuất",
+    "japanese": "作る"
   },
   "449": {
     "english": "fact",
     "french": "fait",
     "spanish": "hecho",
     "german": "Tatsache",
-    "vietnamese": "thực tế"
+    "vietnamese": "thực tế",
+    "japanese": "事実"
   },
   "450": {
     "english": "space",
     "french": "espace",
     "spanish": "espacio",
     "german": "Raum",
-    "vietnamese": "không gian"
+    "vietnamese": "không gian",
+    "japanese": "スペース"
   },
   "451": {
     "english": "heard",
     "french": "entendu",
     "spanish": "oído",
     "german": "gehört",
-    "vietnamese": "nghe"
+    "vietnamese": "nghe",
+    "japanese": "聞いた"
   },
   "452": {
     "english": "best",
     "french": "meilleur",
     "spanish": "mejor",
     "german": "beste",
-    "vietnamese": "tốt nhất"
+    "vietnamese": "tốt nhất",
+    "japanese": "ベスト"
   },
   "453": {
     "english": "hour",
     "french": "heure",
     "spanish": "horas",
     "german": "Stunde",
-    "vietnamese": "giờ"
+    "vietnamese": "giờ",
+    "japanese": "時間"
   },
   "454": {
     "english": "better",
     "french": "mieux",
     "spanish": "mejor",
     "german": "besser",
-    "vietnamese": "tốt hơn"
+    "vietnamese": "tốt hơn",
+    "japanese": "良い"
   },
   "455": {
     "english": "TRUE",
     "french": "vrai",
     "spanish": "verdadero",
     "german": "wahr",
-    "vietnamese": "đúng"
+    "vietnamese": "đúng",
+    "japanese": "真の"
   },
   "456": {
     "english": "during",
     "french": "pendant",
     "spanish": "durante",
     "german": "während",
-    "vietnamese": "trong khi"
+    "vietnamese": "trong khi",
+    "japanese": "間に"
   },
   "457": {
     "english": "hundred",
     "french": "cent",
     "spanish": "cien",
     "german": "hundert",
-    "vietnamese": "trăm"
+    "vietnamese": "trăm",
+    "japanese": "百"
   },
   "458": {
     "english": "five",
     "french": "cinq",
     "spanish": "cinco",
     "german": "fünf",
-    "vietnamese": "năm"
+    "vietnamese": "năm",
+    "japanese": "五"
   },
   "459": {
     "english": "remember",
     "french": "rappeler",
     "spanish": "recordar",
     "german": "merken",
-    "vietnamese": "nhớ"
+    "vietnamese": "nhớ",
+    "japanese": "覚えている"
   },
   "460": {
     "english": "step",
     "french": "étape",
     "spanish": "paso",
     "german": "Schritt",
-    "vietnamese": "bước"
+    "vietnamese": "bước",
+    "japanese": "ステップ"
   },
   "461": {
     "english": "early",
     "french": "tôt",
     "spanish": "temprana",
     "german": "früh",
-    "vietnamese": "đầu"
+    "vietnamese": "đầu",
+    "japanese": "早い"
   },
   "462": {
     "english": "hold",
     "french": "tenir",
     "spanish": "mantenga",
     "german": "halten",
-    "vietnamese": "giư"
+    "vietnamese": "giư",
+    "japanese": "ホールド"
   },
   "463": {
     "english": "west",
     "french": "ouest",
     "spanish": "oeste",
     "german": "Westen",
-    "vietnamese": "tây"
+    "vietnamese": "tây",
+    "japanese": "西"
   },
   "464": {
     "english": "ground",
     "french": "sol",
     "spanish": "suelo",
     "german": "Boden",
-    "vietnamese": "mặt đất"
+    "vietnamese": "mặt đất",
+    "japanese": "地面"
   },
   "465": {
     "english": "interest",
     "french": "intérêt",
     "spanish": "interés",
     "german": "Interesse",
-    "vietnamese": "quan tâm"
+    "vietnamese": "quan tâm",
+    "japanese": "関心"
   },
   "466": {
     "english": "reach",
     "french": "atteindre",
     "spanish": "llegar",
     "german": "erreichen",
-    "vietnamese": "đạt"
+    "vietnamese": "đạt",
+    "japanese": "リーチ"
   },
   "467": {
     "english": "fast",
     "french": "rapide",
     "spanish": "rápido",
     "german": "schnell",
-    "vietnamese": "nhanh chóng"
+    "vietnamese": "nhanh chóng",
+    "japanese": "速い"
   },
   "468": {
     "english": "verb",
     "french": "verbe",
     "spanish": "verbo",
     "german": "Verbum",
-    "vietnamese": "động từ"
+    "vietnamese": "động từ",
+    "japanese": "動詞"
   },
   "469": {
     "english": "sing",
     "french": "chanter",
     "spanish": "cantar",
     "german": "singen",
-    "vietnamese": "hát"
+    "vietnamese": "hát",
+    "japanese": "歌う"
   },
   "470": {
     "english": "listen",
     "french": "écouter",
     "spanish": "escuchar",
     "german": "hören",
-    "vietnamese": "lắng nghe"
+    "vietnamese": "lắng nghe",
+    "japanese": "聞く"
   },
   "471": {
     "english": "six",
     "french": "six",
     "spanish": "seis",
     "german": "sechs",
-    "vietnamese": "sáu"
+    "vietnamese": "sáu",
+    "japanese": "六"
   },
   "472": {
     "english": "table",
     "french": "table",
     "spanish": "mesa",
     "german": "Tabelle",
-    "vietnamese": "bảng"
+    "vietnamese": "bảng",
+    "japanese": "テーブル"
   },
   "473": {
     "english": "travel",
     "french": "Voyage",
     "spanish": "viajes",
     "german": "Reise",
-    "vietnamese": "du lịch"
+    "vietnamese": "du lịch",
+    "japanese": "旅行"
   },
   "474": {
     "english": "less",
     "french": "moins",
     "spanish": "menos",
     "german": "weniger",
-    "vietnamese": "ít"
+    "vietnamese": "ít",
+    "japanese": "レス"
   },
   "475": {
     "english": "morning",
     "french": "matin",
     "spanish": "mañana",
     "german": "Morgen",
-    "vietnamese": "buổi sáng"
+    "vietnamese": "buổi sáng",
+    "japanese": "朝"
   },
   "476": {
     "english": "ten",
     "french": "dix",
     "spanish": "diez",
     "german": "zehn",
-    "vietnamese": "mười"
+    "vietnamese": "mười",
+    "japanese": "十"
   },
   "477": {
     "english": "simple",
     "french": "simple",
     "spanish": "sencilla",
     "german": "einfach",
-    "vietnamese": "đơn giản"
+    "vietnamese": "đơn giản",
+    "japanese": "シンプル"
   },
   "478": {
     "english": "several",
     "french": "plusieurs",
     "spanish": "varios",
     "german": "mehrere",
-    "vietnamese": "nhiều"
+    "vietnamese": "nhiều",
+    "japanese": "いくつかの"
   },
   "479": {
     "english": "vowel",
     "french": "voyelle",
     "spanish": "vocal",
     "german": "Vokal",
-    "vietnamese": "nguyên âm"
+    "vietnamese": "nguyên âm",
+    "japanese": "母音"
   },
   "480": {
     "english": "toward",
     "french": "vers",
     "spanish": "hacia",
     "german": "auf",
-    "vietnamese": "hướng"
+    "vietnamese": "hướng",
+    "japanese": "の方へ"
   },
   "481": {
     "english": "war",
     "french": "guerre",
     "spanish": "guerra",
     "german": "Krieg",
-    "vietnamese": "chiến tranh"
+    "vietnamese": "chiến tranh",
+    "japanese": "戦争"
   },
   "482": {
     "english": "lay",
     "french": "poser",
     "spanish": "sentar",
     "german": "legen",
-    "vietnamese": "đặt"
+    "vietnamese": "đặt",
+    "japanese": "産む"
   },
   "483": {
     "english": "against",
     "french": "contre",
     "spanish": "contra",
     "german": "gegen",
-    "vietnamese": "chống lại"
+    "vietnamese": "chống lại",
+    "japanese": "に対する"
   },
   "484": {
     "english": "pattern",
     "french": "modèle",
     "spanish": "patrón",
     "german": "Muster",
-    "vietnamese": "mô hình"
+    "vietnamese": "mô hình",
+    "japanese": "パターン"
   },
   "485": {
     "english": "slow",
     "french": "lent",
     "spanish": "lenta",
     "german": "schleppend",
-    "vietnamese": "chậm"
+    "vietnamese": "chậm",
+    "japanese": "遅い"
   },
   "486": {
     "english": "center",
     "french": "centre",
     "spanish": "centro",
     "german": "Zentrum",
-    "vietnamese": "trung tâm"
+    "vietnamese": "trung tâm",
+    "japanese": "センター"
   },
   "487": {
     "english": "love",
     "french": "amour",
     "spanish": "amar",
     "german": "Liebe",
-    "vietnamese": "tình yêu"
+    "vietnamese": "tình yêu",
+    "japanese": "愛"
   },
   "488": {
     "english": "person",
     "french": "personne",
     "spanish": "persona",
     "german": "Person",
-    "vietnamese": "người"
+    "vietnamese": "người",
+    "japanese": "人"
   },
   "489": {
     "english": "money",
     "french": "argent",
     "spanish": "dinero",
     "german": "Geld",
-    "vietnamese": "tiền"
+    "vietnamese": "tiền",
+    "japanese": "マネー"
   },
   "490": {
     "english": "serve",
     "french": "servir",
     "spanish": "servir",
     "german": "dienen",
-    "vietnamese": "phục vụ"
+    "vietnamese": "phục vụ",
+    "japanese": "サーブ"
   },
   "491": {
     "english": "appear",
     "french": "apparaître",
     "spanish": "aparecerá",
     "german": "erscheinen",
-    "vietnamese": "xuất hiện"
+    "vietnamese": "xuất hiện",
+    "japanese": "見える"
   },
   "492": {
     "english": "road",
     "french": "route",
     "spanish": "carretera",
     "german": "Straße",
-    "vietnamese": "đường"
+    "vietnamese": "đường",
+    "japanese": "道路"
   },
   "493": {
     "english": "map",
     "french": "carte",
     "spanish": "mapa",
     "german": "Karte",
-    "vietnamese": "Bản đồ"
+    "vietnamese": "Bản đồ",
+    "japanese": "マップ"
   },
   "494": {
     "english": "rain",
     "french": "pluie",
     "spanish": "lluvia",
     "german": "regen",
-    "vietnamese": "mưa"
+    "vietnamese": "mưa",
+    "japanese": "雨"
   },
   "495": {
     "english": "rule",
     "french": "règle",
     "spanish": "regla",
     "german": "Regel",
-    "vietnamese": "quy tắc"
+    "vietnamese": "quy tắc",
+    "japanese": "ルール"
   },
   "496": {
     "english": "govern",
     "french": "gouverner",
     "spanish": "gobernar",
     "german": "regieren",
-    "vietnamese": "phối"
+    "vietnamese": "phối",
+    "japanese": "支配する"
   },
   "497": {
     "english": "pull",
     "french": "tirer",
     "spanish": "Halar",
     "german": "ziehen",
-    "vietnamese": "kéo"
+    "vietnamese": "kéo",
+    "japanese": "引っ張る"
   },
   "498": {
     "english": "cold",
     "french": "froid",
     "spanish": "frío",
     "german": "Kälte",
-    "vietnamese": "lạnh"
+    "vietnamese": "lạnh",
+    "japanese": "寒い"
   },
   "499": {
     "english": "notice",
     "french": "avis",
     "spanish": "aviso",
     "german": "Hinweis",
-    "vietnamese": "thông báo"
+    "vietnamese": "thông báo",
+    "japanese": "予告"
   },
   "500": {
     "english": "voice",
     "french": "voix",
     "spanish": "voz",
     "german": "Stimme",
-    "vietnamese": "giọng nói"
+    "vietnamese": "giọng nói",
+    "japanese": "声"
   },
   "501": {
     "english": "energy",
     "french": "énergie",
     "spanish": "energía",
     "german": "Energie",
-    "vietnamese": "năng lượng"
+    "vietnamese": "năng lượng",
+    "japanese": "エネルギー"
   },
   "502": {
     "english": "hunt",
     "french": "chasse",
     "spanish": "caza",
     "german": "Jagd",
-    "vietnamese": "săn"
+    "vietnamese": "săn",
+    "japanese": "狩り"
   },
   "503": {
     "english": "probable",
     "french": "probable",
     "spanish": "probable",
     "german": "wahrscheinlich",
-    "vietnamese": "có thể xảy ra"
+    "vietnamese": "có thể xảy ra",
+    "japanese": "ありそうな"
   },
   "504": {
     "english": "bed",
     "french": "lit",
     "spanish": "cama",
     "german": "Bett",
-    "vietnamese": "giường"
+    "vietnamese": "giường",
+    "japanese": "ベッド"
   },
   "505": {
     "english": "brother",
     "french": "frère",
     "spanish": "hermano",
     "german": "Bruder",
-    "vietnamese": "anh trai"
+    "vietnamese": "anh trai",
+    "japanese": "兄"
   },
   "506": {
     "english": "egg",
     "french": "œuf",
     "spanish": "huevo",
     "german": "Ei",
-    "vietnamese": "trứng"
+    "vietnamese": "trứng",
+    "japanese": "卵"
   },
   "507": {
     "english": "ride",
     "french": "tour",
     "spanish": "paseo",
     "german": "Fahrt",
-    "vietnamese": "đi xe"
+    "vietnamese": "đi xe",
+    "japanese": "乗る"
   },
   "508": {
     "english": "cell",
     "french": "cellule",
     "spanish": "celular",
     "german": "Zelle",
-    "vietnamese": "pin"
+    "vietnamese": "pin",
+    "japanese": "セル"
   },
   "509": {
     "english": "believe",
     "french": "croire",
     "spanish": "creer",
     "german": "glauben",
-    "vietnamese": "tin"
+    "vietnamese": "tin",
+    "japanese": "信じる"
   },
   "510": {
     "english": "perhaps",
     "french": "peut-être",
     "spanish": "quizás",
     "german": "vielleicht",
-    "vietnamese": "có lẽ"
+    "vietnamese": "có lẽ",
+    "japanese": "たぶん"
   },
   "511": {
     "english": "pick",
     "french": "choisir",
     "spanish": "recoger",
     "german": "pflücken",
-    "vietnamese": "chọn"
+    "vietnamese": "chọn",
+    "japanese": "選ぶ"
   },
   "512": {
     "english": "sudden",
     "french": "soudain",
     "spanish": "repentina",
     "german": "plötzlich",
-    "vietnamese": "đột ngột"
+    "vietnamese": "đột ngột",
+    "japanese": "突然の"
   },
   "513": {
     "english": "count",
     "french": "compter",
     "spanish": "contar",
     "german": "zählen",
-    "vietnamese": "tính"
+    "vietnamese": "tính",
+    "japanese": "カウント"
   },
   "514": {
     "english": "square",
     "french": "carré",
     "spanish": "plaza",
     "german": "Platz",
-    "vietnamese": "vuông"
+    "vietnamese": "vuông",
+    "japanese": "広場"
   },
   "515": {
     "english": "reason",
     "french": "raison",
     "spanish": "razón",
     "german": "Grund",
-    "vietnamese": "lý do"
+    "vietnamese": "lý do",
+    "japanese": "理由"
   },
   "516": {
     "english": "length",
     "french": "longueur",
     "spanish": "longitud",
     "german": "Dauer",
-    "vietnamese": "chiều dài"
+    "vietnamese": "chiều dài",
+    "japanese": "長さ"
   },
   "517": {
     "english": "represent",
     "french": "représenter",
     "spanish": "representar",
     "german": "vertreten",
-    "vietnamese": "đại diện"
+    "vietnamese": "đại diện",
+    "japanese": "表す"
   },
   "518": {
     "english": "art",
     "french": "art",
     "spanish": "arte",
     "german": "Kunst",
-    "vietnamese": "nghệ thuật"
+    "vietnamese": "nghệ thuật",
+    "japanese": "アート"
   },
   "519": {
     "english": "subject",
     "french": "sujet",
     "spanish": "sujeto",
     "german": "Thema",
-    "vietnamese": "Tiêu đề"
+    "vietnamese": "Tiêu đề",
+    "japanese": "テーマ"
   },
   "520": {
     "english": "region",
     "french": "région",
     "spanish": "región",
     "german": "Region",
-    "vietnamese": "khu"
+    "vietnamese": "khu",
+    "japanese": "地域"
   },
   "521": {
     "english": "size",
     "french": "taille",
     "spanish": "tamaño",
     "german": "Größe",
-    "vietnamese": "kích thước"
+    "vietnamese": "kích thước",
+    "japanese": "サイズ"
   },
   "522": {
     "english": "vary",
     "french": "varier",
     "spanish": "variar",
     "german": "variieren",
-    "vietnamese": "khác nhau"
+    "vietnamese": "khác nhau",
+    "japanese": "変える"
   },
   "523": {
     "english": "settle",
     "french": "régler",
     "spanish": "resolver",
     "german": "regeln",
-    "vietnamese": "giải quyết"
+    "vietnamese": "giải quyết",
+    "japanese": "落ち着く"
   },
   "524": {
     "english": "speak",
     "french": "parler",
     "spanish": "hablar",
     "german": "sprechen",
-    "vietnamese": "nói"
+    "vietnamese": "nói",
+    "japanese": "話す"
   },
   "525": {
     "english": "weight",
     "french": "poids",
     "spanish": "peso",
     "german": "Gewicht",
-    "vietnamese": "trọng lượng"
+    "vietnamese": "trọng lượng",
+    "japanese": "重さ"
   },
   "526": {
     "english": "general",
     "french": "général",
     "spanish": "general",
     "german": "allgemein",
-    "vietnamese": "chung"
+    "vietnamese": "chung",
+    "japanese": "一般"
   },
   "527": {
     "english": "ice",
     "french": "glace",
     "spanish": "hielo",
     "german": "Eis",
-    "vietnamese": "băng"
+    "vietnamese": "băng",
+    "japanese": "アイス"
   },
   "528": {
     "english": "matter",
     "french": "question",
     "spanish": "materia",
     "german": "Materie",
-    "vietnamese": "vấn đề"
+    "vietnamese": "vấn đề",
+    "japanese": "問題"
   },
   "529": {
     "english": "circle",
     "french": "cercle",
     "spanish": "círculo",
     "german": "Kreis",
-    "vietnamese": "vòng tròn"
+    "vietnamese": "vòng tròn",
+    "japanese": "サークル"
   },
   "530": {
     "english": "pair",
     "french": "paire",
     "spanish": "par",
     "german": "Paar",
-    "vietnamese": "đôi"
+    "vietnamese": "đôi",
+    "japanese": "ペア"
   },
   "531": {
     "english": "include",
     "french": "inclure",
     "spanish": "incluir",
     "german": "umfassen",
-    "vietnamese": "bao gồm"
+    "vietnamese": "bao gồm",
+    "japanese": "含める"
   },
   "532": {
     "english": "divide",
     "french": "fracture",
     "spanish": "brecha",
     "german": "Kluft",
-    "vietnamese": "chia"
+    "vietnamese": "chia",
+    "japanese": "分割"
   },
   "533": {
     "english": "syllable",
     "french": "syllabe",
     "spanish": "sílaba",
     "german": "Silbe",
-    "vietnamese": "âm tiết"
+    "vietnamese": "âm tiết",
+    "japanese": "音節"
   },
   "534": {
     "english": "felt",
     "french": "feutre",
     "spanish": "sentido",
     "german": "Filz",
-    "vietnamese": "cảm thấy"
+    "vietnamese": "cảm thấy",
+    "japanese": "フェルト"
   },
   "535": {
     "english": "grand",
     "french": "grandiose",
     "spanish": "gran",
     "german": "groß",
-    "vietnamese": "lớn"
+    "vietnamese": "lớn",
+    "japanese": "壮大な"
   },
   "536": {
     "english": "ball",
     "french": "balle",
     "spanish": "bola",
     "german": "Kugel",
-    "vietnamese": "bóng"
+    "vietnamese": "bóng",
+    "japanese": "ボール"
   },
   "537": {
     "english": "yet",
     "french": "encore",
     "spanish": "aún",
     "german": "noch",
-    "vietnamese": "nhưng"
+    "vietnamese": "nhưng",
+    "japanese": "まだ"
   },
   "538": {
     "english": "wave",
     "french": "vague",
     "spanish": "ola",
     "german": "Welle",
-    "vietnamese": "sóng"
+    "vietnamese": "sóng",
+    "japanese": "波"
   },
   "539": {
     "english": "drop",
     "french": "tomber",
     "spanish": "caer",
     "german": "fallen",
-    "vietnamese": "rơi"
+    "vietnamese": "rơi",
+    "japanese": "ドロップ"
   },
   "540": {
     "english": "heart",
     "french": "cœur",
     "spanish": "corazón",
     "german": "Herz",
-    "vietnamese": "tim"
+    "vietnamese": "tim",
+    "japanese": "心"
   },
   "541": {
     "english": "am",
     "french": "h",
     "spanish": "am",
     "german": "Uhr",
-    "vietnamese": "là"
+    "vietnamese": "là",
+    "japanese": "AM"
   },
   "542": {
     "english": "present",
     "french": "présent",
     "spanish": "presente",
     "german": "vorhanden",
-    "vietnamese": "hiện nay"
+    "vietnamese": "hiện nay",
+    "japanese": "現在"
   },
   "543": {
     "english": "heavy",
     "french": "lourd",
     "spanish": "pesada",
     "german": "schwer",
-    "vietnamese": "nặng"
+    "vietnamese": "nặng",
+    "japanese": "重い"
   },
   "544": {
     "english": "dance",
     "french": "danse",
     "spanish": "danza",
     "german": "Tanz",
-    "vietnamese": "khiêu vũ"
+    "vietnamese": "khiêu vũ",
+    "japanese": "ダンス"
   },
   "545": {
     "english": "engine",
     "french": "moteur",
     "spanish": "motor",
     "german": "Motor",
-    "vietnamese": "động cơ"
+    "vietnamese": "động cơ",
+    "japanese": "エンジン"
   },
   "546": {
     "english": "position",
     "french": "position",
     "spanish": "posición",
     "german": "Position",
-    "vietnamese": "vị trí"
+    "vietnamese": "vị trí",
+    "japanese": "ポジション"
   },
   "547": {
     "english": "arm",
     "french": "bras",
     "spanish": "brazo",
     "german": "Arm",
-    "vietnamese": "cánh tay"
+    "vietnamese": "cánh tay",
+    "japanese": "アーム"
   },
   "548": {
     "english": "wide",
     "french": "large",
     "spanish": "amplio",
     "german": "breit",
-    "vietnamese": "rộng"
+    "vietnamese": "rộng",
+    "japanese": "広い"
   },
   "549": {
     "english": "sail",
     "french": "voile",
     "spanish": "vela",
     "german": "Segel",
-    "vietnamese": "buồm"
+    "vietnamese": "buồm",
+    "japanese": "帆"
   },
   "550": {
     "english": "material",
     "french": "matériel",
     "spanish": "materiales",
     "german": "Material",
-    "vietnamese": "tài liệu"
+    "vietnamese": "tài liệu",
+    "japanese": "材料"
   },
   "551": {
     "english": "fraction",
     "french": "fraction",
     "spanish": "fracción",
     "german": "Fraktion",
-    "vietnamese": "phần"
+    "vietnamese": "phần",
+    "japanese": "分数"
   },
   "552": {
     "english": "forest",
     "french": "forêt",
     "spanish": "bosque",
     "german": "Wald",
-    "vietnamese": "rừng"
+    "vietnamese": "rừng",
+    "japanese": "森"
   },
   "553": {
     "english": "sit",
     "french": "s’asseoir",
     "spanish": "sentarse",
     "german": "sitzen",
-    "vietnamese": "ngồi"
+    "vietnamese": "ngồi",
+    "japanese": "座る"
   },
   "554": {
     "english": "race",
     "french": "course",
     "spanish": "carrera",
     "german": "Rennen",
-    "vietnamese": "cuộc đua"
+    "vietnamese": "cuộc đua",
+    "japanese": "レース"
   },
   "555": {
     "english": "window",
     "french": "fenêtre",
     "spanish": "ventana",
     "german": "Fenster",
-    "vietnamese": "cửa sổ"
+    "vietnamese": "cửa sổ",
+    "japanese": "窓"
   },
   "556": {
     "english": "store",
     "french": "magasin",
     "spanish": "tienda",
     "german": "Speicher",
-    "vietnamese": "cửa hàng"
+    "vietnamese": "cửa hàng",
+    "japanese": "店"
   },
   "557": {
     "english": "summer",
     "french": "été",
     "spanish": "verano",
     "german": "Sommer",
-    "vietnamese": "mùa hè"
+    "vietnamese": "mùa hè",
+    "japanese": "夏"
   },
   "558": {
     "english": "train",
     "french": "train",
     "spanish": "tren",
     "german": "Zug",
-    "vietnamese": "đào tạo"
+    "vietnamese": "đào tạo",
+    "japanese": "列車"
   },
   "559": {
     "english": "sleep",
     "french": "sommeil",
     "spanish": "sueño",
     "german": "Schlaf",
-    "vietnamese": "ngủ"
+    "vietnamese": "ngủ",
+    "japanese": "スリープ"
   },
   "560": {
     "english": "prove",
     "french": "prouver",
     "spanish": "demostrar",
     "german": "beweisen",
-    "vietnamese": "chứng minh"
+    "vietnamese": "chứng minh",
+    "japanese": "証明する"
   },
   "561": {
     "english": "lone",
     "french": "seul",
     "spanish": "solitario",
     "german": "einsam",
-    "vietnamese": "đơn độc"
+    "vietnamese": "đơn độc",
+    "japanese": "ローン"
   },
   "562": {
     "english": "leg",
     "french": "jambe",
     "spanish": "pierna",
     "german": "Bein",
-    "vietnamese": "chân"
+    "vietnamese": "chân",
+    "japanese": "レッグ"
   },
   "563": {
     "english": "exercise",
     "french": "exercice",
     "spanish": "ejercicio",
     "german": "Übung",
-    "vietnamese": "tập thể dục"
+    "vietnamese": "tập thể dục",
+    "japanese": "エクササイズ"
   },
   "564": {
     "english": "wall",
     "french": "mur",
     "spanish": "pared",
     "german": "Wand",
-    "vietnamese": "tường"
+    "vietnamese": "tường",
+    "japanese": "壁"
   },
   "565": {
     "english": "catch",
     "french": "capture",
     "spanish": "capturas",
     "german": "Fang",
-    "vietnamese": "bắt"
+    "vietnamese": "bắt",
+    "japanese": "キャッチ"
   },
   "566": {
     "english": "mount",
     "french": "monture",
     "spanish": "monte",
     "german": "Berg",
-    "vietnamese": "mount"
+    "vietnamese": "mount",
+    "japanese": "マウント"
   },
   "567": {
     "english": "wish",
     "french": "souhaiter",
     "spanish": "desear",
     "german": "wünschen",
-    "vietnamese": "muốn"
+    "vietnamese": "muốn",
+    "japanese": "希望"
   },
   "568": {
     "english": "sky",
     "french": "ciel",
     "spanish": "cielo",
     "german": "Himmel",
-    "vietnamese": "bầu trời"
+    "vietnamese": "bầu trời",
+    "japanese": "空"
   },
   "569": {
     "english": "board",
     "french": "conseil",
     "spanish": "bordo",
     "german": "Board",
-    "vietnamese": "hội đồng quản trị"
+    "vietnamese": "hội đồng quản trị",
+    "japanese": "ボード"
   },
   "570": {
     "english": "joy",
     "french": "joie",
     "spanish": "alegría",
     "german": "Freude",
-    "vietnamese": "niềm vui"
+    "vietnamese": "niềm vui",
+    "japanese": "喜び"
   },
   "571": {
     "english": "winter",
     "french": "hiver",
     "spanish": "invierno",
     "german": "Winter",
-    "vietnamese": "mùa đông"
+    "vietnamese": "mùa đông",
+    "japanese": "冬"
   },
   "572": {
     "english": "sat",
     "french": "sat",
     "spanish": "satélite",
     "german": "sa",
-    "vietnamese": "ngồi"
+    "vietnamese": "ngồi",
+    "japanese": "土"
   },
   "573": {
     "english": "written",
     "french": "écrit",
     "spanish": "escrito",
     "german": "geschrieben",
-    "vietnamese": "bằng văn bản"
+    "vietnamese": "bằng văn bản",
+    "japanese": "書かれた"
   },
   "574": {
     "english": "wild",
     "french": "sauvage",
     "spanish": "salvaje",
     "german": "wilden",
-    "vietnamese": "hoang dã"
+    "vietnamese": "hoang dã",
+    "japanese": "ワイルド"
   },
   "575": {
     "english": "instrument",
     "french": "instrument",
     "spanish": "instrumento",
     "german": "Instrument",
-    "vietnamese": "cụ"
+    "vietnamese": "cụ",
+    "japanese": "楽器"
   },
   "576": {
     "english": "kept",
     "french": "conservé",
     "spanish": "guardado",
     "german": "gehalten",
-    "vietnamese": "giữ"
+    "vietnamese": "giữ",
+    "japanese": "保管"
   },
   "577": {
     "english": "glass",
     "french": "verre",
     "spanish": "vidrio",
     "german": "Glas",
-    "vietnamese": "kính"
+    "vietnamese": "kính",
+    "japanese": "ガラス"
   },
   "578": {
     "english": "grass",
     "french": "herbe",
     "spanish": "hierba",
     "german": "Gras",
-    "vietnamese": "cỏ"
+    "vietnamese": "cỏ",
+    "japanese": "草"
   },
   "579": {
     "english": "cow",
     "french": "vache",
     "spanish": "vaca",
     "german": "Kuh",
-    "vietnamese": "bò"
+    "vietnamese": "bò",
+    "japanese": "乳牛"
   },
   "580": {
     "english": "job",
     "french": "emploi",
     "spanish": "trabajo",
     "german": "Arbeit",
-    "vietnamese": "công việc"
+    "vietnamese": "công việc",
+    "japanese": "仕事"
   },
   "581": {
     "english": "edge",
     "french": "bord",
     "spanish": "borde",
     "german": "Rand",
-    "vietnamese": "cạnh"
+    "vietnamese": "cạnh",
+    "japanese": "エッジ"
   },
   "582": {
     "english": "sign",
     "french": "signe",
     "spanish": "signo",
     "german": "Zeichen",
-    "vietnamese": "dấu hiệu"
+    "vietnamese": "dấu hiệu",
+    "japanese": "看板"
   },
   "583": {
     "english": "visit",
     "french": "visite",
     "spanish": "visita",
     "german": "Besuch",
-    "vietnamese": "lần"
+    "vietnamese": "lần",
+    "japanese": "訪問"
   },
   "584": {
     "english": "past",
     "french": "passé",
     "spanish": "pasado",
     "german": "Vergangenheit",
-    "vietnamese": "qua"
+    "vietnamese": "qua",
+    "japanese": "過去"
   },
   "585": {
     "english": "soft",
     "french": "doux",
     "spanish": "suave",
     "german": "weich",
-    "vietnamese": "mềm"
+    "vietnamese": "mềm",
+    "japanese": "ソフト"
   },
   "586": {
     "english": "fun",
     "french": "amusement",
     "spanish": "diversión",
     "german": "Spaß",
-    "vietnamese": "vui vẻ"
+    "vietnamese": "vui vẻ",
+    "japanese": "楽しい"
   },
   "587": {
     "english": "bright",
     "french": "clair",
     "spanish": "brillante",
     "german": "hell",
-    "vietnamese": "sáng"
+    "vietnamese": "sáng",
+    "japanese": "明るい"
   },
   "588": {
     "english": "gas",
     "french": "gaz",
     "spanish": "gas",
     "german": "Gases",
-    "vietnamese": "khí"
+    "vietnamese": "khí",
+    "japanese": "ガス"
   },
   "589": {
     "english": "weather",
     "french": "temps",
     "spanish": "tiempo",
     "german": "Wetter",
-    "vietnamese": "thời tiết"
+    "vietnamese": "thời tiết",
+    "japanese": "天候"
   },
   "590": {
     "english": "month",
     "french": "mois",
     "spanish": "mes",
     "german": "Monat",
-    "vietnamese": "tháng"
+    "vietnamese": "tháng",
+    "japanese": "月"
   },
   "591": {
     "english": "million",
     "french": "million",
     "spanish": "millones",
     "german": "Million",
-    "vietnamese": "triệu"
+    "vietnamese": "triệu",
+    "japanese": "万"
   },
   "592": {
     "english": "bear",
     "french": "porter",
     "spanish": "soportar",
     "german": "tragen",
-    "vietnamese": "chịu"
+    "vietnamese": "chịu",
+    "japanese": "クマ"
   },
   "593": {
     "english": "finish",
     "french": "finition",
     "spanish": "acabado",
     "german": "Finish",
-    "vietnamese": "kết thúc"
+    "vietnamese": "kết thúc",
+    "japanese": "仕上げ"
   },
   "594": {
     "english": "happy",
     "french": "heureux",
     "spanish": "feliz",
     "german": "glücklich",
-    "vietnamese": "hạnh phúc"
+    "vietnamese": "hạnh phúc",
+    "japanese": "幸せな"
   },
   "595": {
     "english": "hope",
     "french": "espoir",
     "spanish": "esperanza",
     "german": "hoffen",
-    "vietnamese": "hy vọng"
+    "vietnamese": "hy vọng",
+    "japanese": "希望"
   },
   "596": {
     "english": "flower",
     "french": "fleur",
     "spanish": "flor",
     "german": "blume",
-    "vietnamese": "hoa"
+    "vietnamese": "hoa",
+    "japanese": "花"
   },
   "597": {
     "english": "clothe",
     "french": "vêtir",
     "spanish": "vestir",
     "german": "kleiden",
-    "vietnamese": "mặc"
+    "vietnamese": "mặc",
+    "japanese": "衣服を着せる"
   },
   "598": {
     "english": "strange",
     "french": "étrange",
     "spanish": "extraño",
     "german": "seltsam",
-    "vietnamese": "lạ"
+    "vietnamese": "lạ",
+    "japanese": "奇妙な"
   },
   "599": {
     "english": "gone",
     "french": "disparu",
     "spanish": "se ha ido",
     "german": "Vorbei",
-    "vietnamese": "ra đi"
+    "vietnamese": "ra đi",
+    "japanese": "いなくなった"
   },
   "600": {
     "english": "trade",
     "french": "commerce",
     "spanish": "comercio",
     "german": "Handel",
-    "vietnamese": "thương mại"
+    "vietnamese": "thương mại",
+    "japanese": "トレード"
   },
   "601": {
     "english": "melody",
     "french": "mélodie",
     "spanish": "melodía",
     "german": "Melodie",
-    "vietnamese": "giai điệu"
+    "vietnamese": "giai điệu",
+    "japanese": "メロディー"
   },
   "602": {
     "english": "trip",
     "french": "voyage",
     "spanish": "viaje",
     "german": "Reise",
-    "vietnamese": "chuyến đi"
+    "vietnamese": "chuyến đi",
+    "japanese": "旅"
   },
   "603": {
     "english": "office",
     "french": "bureau",
     "spanish": "oficina",
     "german": "Büro",
-    "vietnamese": "văn phòng"
+    "vietnamese": "văn phòng",
+    "japanese": "オフィス"
   },
   "604": {
     "english": "receive",
     "french": "recevoir",
     "spanish": "recibir",
     "german": "empfangen",
-    "vietnamese": "nhận"
+    "vietnamese": "nhận",
+    "japanese": "受け取る"
   },
   "605": {
     "english": "row",
     "french": "rangée",
     "spanish": "fila",
     "german": "Reihe",
-    "vietnamese": "hàng"
+    "vietnamese": "hàng",
+    "japanese": "行"
   },
   "606": {
     "english": "mouth",
     "french": "bouche",
     "spanish": "boca",
     "german": "Mund",
-    "vietnamese": "miệng"
+    "vietnamese": "miệng",
+    "japanese": "口"
   },
   "607": {
     "english": "exact",
     "french": "exact",
     "spanish": "exacta",
     "german": "genau",
-    "vietnamese": "chính xác"
+    "vietnamese": "chính xác",
+    "japanese": "正確な"
   },
   "608": {
     "english": "symbol",
     "french": "symbole",
     "spanish": "símbolo",
     "german": "Zeichen",
-    "vietnamese": "biểu tượng"
+    "vietnamese": "biểu tượng",
+    "japanese": "シンボル"
   },
   "609": {
     "english": "die",
     "french": "mourir",
     "spanish": "morir",
     "german": "sterben",
-    "vietnamese": "chết"
+    "vietnamese": "chết",
+    "japanese": "死ぬ"
   },
   "610": {
     "english": "least",
     "french": "moins",
     "spanish": "menos",
     "german": "am wenigsten",
-    "vietnamese": "nhất"
+    "vietnamese": "nhất",
+    "japanese": "最低"
   },
   "611": {
     "english": "trouble",
     "french": "difficulté",
     "spanish": "problema",
     "german": "Ärger",
-    "vietnamese": "rắc rối"
+    "vietnamese": "rắc rối",
+    "japanese": "トラブル"
   },
   "612": {
     "english": "shout",
     "french": "cri",
     "spanish": "grito",
     "german": "Schrei",
-    "vietnamese": "hét lên"
+    "vietnamese": "hét lên",
+    "japanese": "シャウト"
   },
   "613": {
     "english": "except",
     "french": "sauf",
     "spanish": "excepto",
     "german": "außer",
-    "vietnamese": "trừ"
+    "vietnamese": "trừ",
+    "japanese": "ただし"
   },
   "614": {
     "english": "wrote",
     "french": "écrit",
     "spanish": "escribió",
     "german": "schrieb",
-    "vietnamese": "đã viết"
+    "vietnamese": "đã viết",
+    "japanese": "書いた"
   },
   "615": {
     "english": "seed",
     "french": "semence",
     "spanish": "semilla",
     "german": "Samen",
-    "vietnamese": "hạt giống"
+    "vietnamese": "hạt giống",
+    "japanese": "シード"
   },
   "616": {
     "english": "tone",
     "french": "ton",
     "spanish": "tono",
     "german": "Ton",
-    "vietnamese": "giai điệu"
+    "vietnamese": "giai điệu",
+    "japanese": "トーン"
   },
   "617": {
     "english": "join",
     "french": "joindre",
     "spanish": "unirse",
     "german": "beitreten",
-    "vietnamese": "tham gia"
+    "vietnamese": "tham gia",
+    "japanese": "参加する"
   },
   "618": {
     "english": "suggest",
     "french": "suggérer",
     "spanish": "sugerir",
     "german": "vorschlagen",
-    "vietnamese": "đề nghị"
+    "vietnamese": "đề nghị",
+    "japanese": "提案する"
   },
   "619": {
     "english": "clean",
     "french": "propre",
     "spanish": "limpia",
     "german": "sauber",
-    "vietnamese": "sạch"
+    "vietnamese": "sạch",
+    "japanese": "クリーン"
   },
   "620": {
     "english": "break",
     "french": "pause",
     "spanish": "rotura",
     "german": "Pause",
-    "vietnamese": "nghỉ"
+    "vietnamese": "nghỉ",
+    "japanese": "ブレーク"
   },
   "621": {
     "english": "lady",
     "french": "dame",
     "spanish": "dama",
     "german": "Dame",
-    "vietnamese": "phụ nữ"
+    "vietnamese": "phụ nữ",
+    "japanese": "女性"
   },
   "622": {
     "english": "yard",
     "french": "cour",
     "spanish": "patio",
     "german": "Hof",
-    "vietnamese": "sân"
+    "vietnamese": "sân",
+    "japanese": "庭"
   },
   "623": {
     "english": "rise",
     "french": "augmenter",
     "spanish": "aumentando",
     "german": "steigen",
-    "vietnamese": "tăng"
+    "vietnamese": "tăng",
+    "japanese": "上昇"
   },
   "624": {
     "english": "bad",
     "french": "mauvais",
     "spanish": "mal",
     "german": "schlecht",
-    "vietnamese": "xấu"
+    "vietnamese": "xấu",
+    "japanese": "悪い"
   },
   "625": {
     "english": "blow",
     "french": "coup",
     "spanish": "golpe",
     "german": "Schlag",
-    "vietnamese": "đòn"
+    "vietnamese": "đòn",
+    "japanese": "打撃"
   },
   "626": {
     "english": "oil",
     "french": "huile",
     "spanish": "aceite",
     "german": "Öl",
-    "vietnamese": "dầu"
+    "vietnamese": "dầu",
+    "japanese": "オイル"
   },
   "627": {
     "english": "blood",
     "french": "sang",
     "spanish": "sangre",
     "german": "Blut",
-    "vietnamese": "máu"
+    "vietnamese": "máu",
+    "japanese": "血"
   },
   "628": {
     "english": "touch",
     "french": "toucher",
     "spanish": "tocar",
     "german": "berühren",
-    "vietnamese": "chạm"
+    "vietnamese": "chạm",
+    "japanese": "触れる"
   },
   "629": {
     "english": "grew",
     "french": "a augmenté",
     "spanish": "creció",
     "german": "wuchs",
-    "vietnamese": "tăng"
+    "vietnamese": "tăng",
+    "japanese": "成長した"
   },
   "630": {
     "english": "cent",
     "french": "cent",
     "spanish": "ciento",
     "german": "Cent",
-    "vietnamese": "phần trăm"
+    "vietnamese": "phần trăm",
+    "japanese": "セント"
   },
   "631": {
     "english": "mix",
     "french": "mélanger",
     "spanish": "mezclar",
     "german": "mischen",
-    "vietnamese": "trộn"
+    "vietnamese": "trộn",
+    "japanese": "ミックス"
   },
   "632": {
     "english": "team",
     "french": "équipe",
     "spanish": "equipo",
     "german": "Mannschaft",
-    "vietnamese": "đội"
+    "vietnamese": "đội",
+    "japanese": "チーム"
   },
   "633": {
     "english": "wire",
     "french": "fil",
     "spanish": "alambre",
     "german": "Draht",
-    "vietnamese": "dây"
+    "vietnamese": "dây",
+    "japanese": "ワイヤー"
   },
   "634": {
     "english": "cost",
     "french": "coût",
     "spanish": "costo",
     "german": "Kosten",
-    "vietnamese": "chi phí"
+    "vietnamese": "chi phí",
+    "japanese": "コスト"
   },
   "635": {
     "english": "lost",
     "french": "perdu",
     "spanish": "perdido",
     "german": "verloren",
-    "vietnamese": "thua"
+    "vietnamese": "thua",
+    "japanese": "失われた"
   },
   "636": {
     "english": "brown",
     "french": "brun",
     "spanish": "marrón",
     "german": "braun",
-    "vietnamese": "nâu"
+    "vietnamese": "nâu",
+    "japanese": "ブラウン"
   },
   "637": {
     "english": "wear",
     "french": "porter",
     "spanish": "desgaste",
     "german": "tragen",
-    "vietnamese": "mặc"
+    "vietnamese": "mặc",
+    "japanese": "着用"
   },
   "638": {
     "english": "garden",
     "french": "jardin",
     "spanish": "jardín",
     "german": "Garten",
-    "vietnamese": "vườn"
+    "vietnamese": "vườn",
+    "japanese": "庭"
   },
   "639": {
     "english": "equal",
     "french": "égal",
     "spanish": "igual",
     "german": "gleich",
-    "vietnamese": "như nhau"
+    "vietnamese": "như nhau",
+    "japanese": "等しい"
   },
   "640": {
     "english": "sent",
     "french": "expédié",
     "spanish": "enviado",
     "german": "gesendet",
-    "vietnamese": "gửi"
+    "vietnamese": "gửi",
+    "japanese": "送信された"
   },
   "641": {
     "english": "choose",
     "french": "choisir",
     "spanish": "elegir",
     "german": "wählen",
-    "vietnamese": "chọn"
+    "vietnamese": "chọn",
+    "japanese": "選ぶ"
   },
   "642": {
     "english": "fell",
     "french": "est tombé",
     "spanish": "cayó",
     "german": "fiel",
-    "vietnamese": "giảm"
+    "vietnamese": "giảm",
+    "japanese": "落ちた"
   },
   "643": {
     "english": "fit",
     "french": "s’adapter",
     "spanish": "encajar",
     "german": "passen",
-    "vietnamese": "phù hợp với"
+    "vietnamese": "phù hợp với",
+    "japanese": "フィット"
   },
   "644": {
     "english": "flow",
     "french": "débit",
     "spanish": "fluir",
     "german": "fließen",
-    "vietnamese": "chảy"
+    "vietnamese": "chảy",
+    "japanese": "流れ"
   },
   "645": {
     "english": "fair",
     "french": "juste",
     "spanish": "justo",
     "german": "Messe",
-    "vietnamese": "công bằng"
+    "vietnamese": "công bằng",
+    "japanese": "フェア"
   },
   "646": {
     "english": "bank",
     "french": "banque",
     "spanish": "banco",
     "german": "Bank",
-    "vietnamese": "ngân hàng"
+    "vietnamese": "ngân hàng",
+    "japanese": "銀行"
   },
   "647": {
     "english": "collect",
     "french": "recueillir",
     "spanish": "recoger",
     "german": "sammeln",
-    "vietnamese": "thu thập"
+    "vietnamese": "thu thập",
+    "japanese": "集める"
   },
   "648": {
     "english": "save",
     "french": "sauver",
     "spanish": "guardar",
     "german": "sparen",
-    "vietnamese": "lưu"
+    "vietnamese": "lưu",
+    "japanese": "保存"
   },
   "649": {
     "english": "control",
     "french": "contrôle",
     "spanish": "el control",
     "german": "Kontrolle",
-    "vietnamese": "kiểm soát"
+    "vietnamese": "kiểm soát",
+    "japanese": "コントロール"
   },
   "650": {
     "english": "decimal",
     "french": "décimal",
     "spanish": "decimal",
     "german": "dezimal",
-    "vietnamese": "số thập phân"
+    "vietnamese": "số thập phân",
+    "japanese": "進"
   },
   "651": {
     "english": "ear",
     "french": "oreille",
     "spanish": "oído",
     "german": "Ohr",
-    "vietnamese": "tai"
+    "vietnamese": "tai",
+    "japanese": "耳"
   },
   "652": {
     "english": "else",
     "french": "autre",
     "spanish": "demás",
     "german": "sonst",
-    "vietnamese": "khác"
+    "vietnamese": "khác",
+    "japanese": "ほかに"
   },
   "653": {
     "english": "quite",
     "french": "tout à fait",
     "spanish": "bastante",
     "german": "ganz",
-    "vietnamese": "khá"
+    "vietnamese": "khá",
+    "japanese": "かなり"
   },
   "654": {
     "english": "broke",
     "french": "cassé",
     "spanish": "rompió",
     "german": "pleite",
-    "vietnamese": "đã phá vỡ"
+    "vietnamese": "đã phá vỡ",
+    "japanese": "壊した"
   },
   "655": {
     "english": "case",
     "french": "cas",
     "spanish": "caso",
     "german": "Fall",
-    "vietnamese": "khi"
+    "vietnamese": "khi",
+    "japanese": "ケース"
   },
   "656": {
     "english": "middle",
     "french": "milieu",
     "spanish": "medio",
     "german": "Mitte",
-    "vietnamese": "trung"
+    "vietnamese": "trung",
+    "japanese": "ミドル"
   },
   "657": {
     "english": "kill",
     "french": "tuer",
     "spanish": "matar",
     "german": "töten",
-    "vietnamese": "giết"
+    "vietnamese": "giết",
+    "japanese": "殺す"
   },
   "658": {
     "english": "son",
     "french": "fils",
     "spanish": "hijo",
     "german": "Sohn",
-    "vietnamese": "con trai"
+    "vietnamese": "con trai",
+    "japanese": "息子"
   },
   "659": {
     "english": "lake",
     "french": "lac",
     "spanish": "lago",
     "german": "See",
-    "vietnamese": "hồ"
+    "vietnamese": "hồ",
+    "japanese": "湖"
   },
   "660": {
     "english": "moment",
     "french": "moment",
     "spanish": "momento",
     "german": "Moment",
-    "vietnamese": "thời điểm"
+    "vietnamese": "thời điểm",
+    "japanese": "瞬間"
   },
   "661": {
     "english": "scale",
     "french": "échelle",
     "spanish": "escala",
     "german": "Maßstab",
-    "vietnamese": "quy mô"
+    "vietnamese": "quy mô",
+    "japanese": "スケール"
   },
   "662": {
     "english": "loud",
     "french": "fort",
     "spanish": "fuerte",
     "german": "laut",
-    "vietnamese": "lớn"
+    "vietnamese": "lớn",
+    "japanese": "騒々しい"
   },
   "663": {
     "english": "spring",
     "french": "printemps",
     "spanish": "primavera",
     "german": "Frühling",
-    "vietnamese": "mùa xuân"
+    "vietnamese": "mùa xuân",
+    "japanese": "春"
   },
   "664": {
     "english": "observe",
     "french": "observer",
     "spanish": "observar",
     "german": "beobachten",
-    "vietnamese": "quan sát"
+    "vietnamese": "quan sát",
+    "japanese": "観察する"
   },
   "665": {
     "english": "child",
     "french": "enfant",
     "spanish": "niño",
     "german": "Kind",
-    "vietnamese": "con"
+    "vietnamese": "con",
+    "japanese": "子ども"
   },
   "666": {
     "english": "straight",
     "french": "droit",
     "spanish": "recta",
     "german": "gerade",
-    "vietnamese": "thẳng"
+    "vietnamese": "thẳng",
+    "japanese": "ストレート"
   },
   "667": {
     "english": "consonant",
     "french": "consonne",
     "spanish": "consonante",
     "german": "Konsonant",
-    "vietnamese": "phụ âm"
+    "vietnamese": "phụ âm",
+    "japanese": "子音"
   },
   "668": {
     "english": "nation",
     "french": "nation",
     "spanish": "nación",
     "german": "Nation",
-    "vietnamese": "quốc gia"
+    "vietnamese": "quốc gia",
+    "japanese": "国家"
   },
   "669": {
     "english": "dictionary",
     "french": "dictionnaire",
     "spanish": "diccionario",
     "german": "Wörterbuch",
-    "vietnamese": "từ điển"
+    "vietnamese": "từ điển",
+    "japanese": "辞書"
   },
   "670": {
     "english": "milk",
     "french": "lait",
     "spanish": "leche",
     "german": "milch",
-    "vietnamese": "sưa"
+    "vietnamese": "sưa",
+    "japanese": "ミルク"
   },
   "671": {
     "english": "speed",
     "french": "vitesse",
     "spanish": "velocidad",
     "german": "Geschwindigkeit",
-    "vietnamese": "tốc độ"
+    "vietnamese": "tốc độ",
+    "japanese": "スピード"
   },
   "672": {
     "english": "method",
     "french": "méthode",
     "spanish": "método",
     "german": "Verfahren",
-    "vietnamese": "phương pháp"
+    "vietnamese": "phương pháp",
+    "japanese": "方法"
   },
   "673": {
     "english": "organ",
     "french": "organe",
     "spanish": "órgano",
     "german": "Orgel",
-    "vietnamese": "cơ quan"
+    "vietnamese": "cơ quan",
+    "japanese": "オルガン"
   },
   "674": {
     "english": "pay",
     "french": "payer",
     "spanish": "pagar",
     "german": "zahlen",
-    "vietnamese": "trả"
+    "vietnamese": "trả",
+    "japanese": "支払い"
   },
   "675": {
     "english": "age",
     "french": "âge",
     "spanish": "edad",
     "german": "Alter",
-    "vietnamese": "tuổi"
+    "vietnamese": "tuổi",
+    "japanese": "年齢"
   },
   "676": {
     "english": "section",
     "french": "section",
     "spanish": "sección",
     "german": "Abschnitt",
-    "vietnamese": "phần"
+    "vietnamese": "phần",
+    "japanese": "セクション"
   },
   "677": {
     "english": "dress",
     "french": "robe",
     "spanish": "vestido",
     "german": "Kleid",
-    "vietnamese": "váy"
+    "vietnamese": "váy",
+    "japanese": "ドレス"
   },
   "678": {
     "english": "cloud",
     "french": "nuage",
     "spanish": "nube",
     "german": "Wolke",
-    "vietnamese": "điện toán đám mây"
+    "vietnamese": "điện toán đám mây",
+    "japanese": "クラウド"
   },
   "679": {
     "english": "surprise",
     "french": "surprise",
     "spanish": "sorpresa",
     "german": "Überraschung",
-    "vietnamese": "bất ngờ"
+    "vietnamese": "bất ngờ",
+    "japanese": "驚き"
   },
   "680": {
     "english": "quiet",
     "french": "calme",
     "spanish": "tranquila",
     "german": "ruhig",
-    "vietnamese": "yên tĩnh"
+    "vietnamese": "yên tĩnh",
+    "japanese": "静かな"
   },
   "681": {
     "english": "stone",
     "french": "pierre",
     "spanish": "piedra",
     "german": "Stein",
-    "vietnamese": "đá"
+    "vietnamese": "đá",
+    "japanese": "石"
   },
   "682": {
     "english": "tiny",
     "french": "minuscule",
     "spanish": "pequeño",
     "german": "winzig",
-    "vietnamese": "nhỏ"
+    "vietnamese": "nhỏ",
+    "japanese": "小さな"
   },
   "683": {
     "english": "climb",
     "french": "montée",
     "spanish": "ascenso",
     "german": "Aufstieg",
-    "vietnamese": "lên cao"
+    "vietnamese": "lên cao",
+    "japanese": "登る"
   },
   "684": {
     "english": "cool",
     "french": "frais",
     "spanish": "fresco",
     "german": "kühlen",
-    "vietnamese": "mát mẻ"
+    "vietnamese": "mát mẻ",
+    "japanese": "涼しい"
   },
   "685": {
     "english": "design",
     "french": "conception",
     "spanish": "diseño",
     "german": "Entwurf",
-    "vietnamese": "thiết kế"
+    "vietnamese": "thiết kế",
+    "japanese": "デザイン"
   },
   "686": {
     "english": "poor",
     "french": "pauvres",
     "spanish": "pobre",
     "german": "arm",
-    "vietnamese": "người nghèo"
+    "vietnamese": "người nghèo",
+    "japanese": "貧しい"
   },
   "687": {
     "english": "lot",
     "french": "lot",
     "spanish": "mucho",
     "german": "Menge",
-    "vietnamese": "rất nhiều"
+    "vietnamese": "rất nhiều",
+    "japanese": "たくさん"
   },
   "688": {
     "english": "experiment",
     "french": "expérience",
     "spanish": "experimento",
     "german": "Versuch",
-    "vietnamese": "thí nghiệm"
+    "vietnamese": "thí nghiệm",
+    "japanese": "実験"
   },
   "689": {
     "english": "bottom",
     "french": "bas",
     "spanish": "inferior",
     "german": "Boden",
-    "vietnamese": "dưới"
+    "vietnamese": "dưới",
+    "japanese": "ボトム"
   },
   "690": {
     "english": "key",
     "french": "clé",
     "spanish": "clave",
     "german": "Schlüssel",
-    "vietnamese": "chính"
+    "vietnamese": "chính",
+    "japanese": "キー"
   },
   "691": {
     "english": "iron",
     "french": "fer",
     "spanish": "hierro",
     "german": "Eisen",
-    "vietnamese": "sắt"
+    "vietnamese": "sắt",
+    "japanese": "鉄"
   },
   "692": {
     "english": "single",
     "french": "unique",
     "spanish": "sola",
     "german": "Einzel",
-    "vietnamese": "đơn"
+    "vietnamese": "đơn",
+    "japanese": "シングル"
   },
   "693": {
     "english": "stick",
     "french": "bâton",
     "spanish": "palillo",
     "german": "Stick",
-    "vietnamese": "thanh"
+    "vietnamese": "thanh",
+    "japanese": "スティック"
   },
   "694": {
     "english": "flat",
     "french": "plat",
     "spanish": "plana",
     "german": "Wohnung",
-    "vietnamese": "phẳng"
+    "vietnamese": "phẳng",
+    "japanese": "フラット"
   },
   "695": {
     "english": "twenty",
     "french": "vingt",
     "spanish": "veinte",
     "german": "zwanzig",
-    "vietnamese": "hai mươi"
+    "vietnamese": "hai mươi",
+    "japanese": "個の"
   },
   "696": {
     "english": "skin",
     "french": "peau",
     "spanish": "piel",
     "german": "Haut",
-    "vietnamese": "da"
+    "vietnamese": "da",
+    "japanese": "スキン"
   },
   "697": {
     "english": "smile",
     "french": "sourire",
     "spanish": "sonrisa",
     "german": "Lächeln",
-    "vietnamese": "nụ cười"
+    "vietnamese": "nụ cười",
+    "japanese": "笑顔"
   },
   "698": {
     "english": "crease",
     "french": "pli",
     "spanish": "pliegue",
     "german": "Falte",
-    "vietnamese": "nếp"
+    "vietnamese": "nếp",
+    "japanese": "しわ"
   },
   "699": {
     "english": "hole",
     "french": "trou",
     "spanish": "agujero",
     "german": "Loch",
-    "vietnamese": "lỗ"
+    "vietnamese": "lỗ",
+    "japanese": "穴"
   },
   "700": {
     "english": "jump",
     "french": "sauter",
     "spanish": "saltar",
     "german": "springen",
-    "vietnamese": "nhảy"
+    "vietnamese": "nhảy",
+    "japanese": "ジャンプ"
   },
   "701": {
     "english": "baby",
     "french": "bébé",
     "spanish": "bebé",
     "german": "Kind",
-    "vietnamese": "bé"
+    "vietnamese": "bé",
+    "japanese": "赤ちゃん"
   },
   "702": {
     "english": "eight",
     "french": "huit",
     "spanish": "ocho",
     "german": "acht",
-    "vietnamese": "tám"
+    "vietnamese": "tám",
+    "japanese": "人"
   },
   "703": {
     "english": "village",
     "french": "village",
     "spanish": "pueblo",
     "german": "Dorf",
-    "vietnamese": "làng"
+    "vietnamese": "làng",
+    "japanese": "村"
   },
   "704": {
     "english": "meet",
     "french": "se rencontrent",
     "spanish": "se reúnen",
     "german": "treffen",
-    "vietnamese": "đáp ứng"
+    "vietnamese": "đáp ứng",
+    "japanese": "大会"
   },
   "705": {
     "english": "root",
     "french": "racine",
     "spanish": "raíz",
     "german": "Wurzel",
-    "vietnamese": "gốc"
+    "vietnamese": "gốc",
+    "japanese": "ルート"
   },
   "706": {
     "english": "buy",
     "french": "acheter",
     "spanish": "comprar",
     "german": "kaufen",
-    "vietnamese": "mua"
+    "vietnamese": "mua",
+    "japanese": "買う"
   },
   "707": {
     "english": "raise",
     "french": "augmenter",
     "spanish": "aumentar",
     "german": "erhöhen",
-    "vietnamese": "nâng cao"
+    "vietnamese": "nâng cao",
+    "japanese": "上げる"
   },
   "708": {
     "english": "solve",
     "french": "résoudre",
     "spanish": "resolver",
     "german": "lösen",
-    "vietnamese": "giải quyết"
+    "vietnamese": "giải quyết",
+    "japanese": "解く"
   },
   "709": {
     "english": "metal",
     "french": "métal",
     "spanish": "de metal",
     "german": "Metall",
-    "vietnamese": "kim loại"
+    "vietnamese": "kim loại",
+    "japanese": "金属"
   },
   "710": {
     "english": "whether",
     "french": "si",
     "spanish": "si",
     "german": "ob",
-    "vietnamese": "liệu"
+    "vietnamese": "liệu",
+    "japanese": "かどうか"
   },
   "711": {
     "english": "push",
     "french": "pousser",
     "spanish": "empujar",
     "german": "drücken",
-    "vietnamese": "đẩy"
+    "vietnamese": "đẩy",
+    "japanese": "プッシュ"
   },
   "712": {
     "english": "seven",
     "french": "sept",
     "spanish": "siete",
     "german": "sieben",
-    "vietnamese": "bảy"
+    "vietnamese": "bảy",
+    "japanese": 7
   },
   "713": {
     "english": "paragraph",
     "french": "paragraphe",
     "spanish": "párrafo",
     "german": "Absatz",
-    "vietnamese": "đoạn"
+    "vietnamese": "đoạn",
+    "japanese": "パラグラフ"
   },
   "714": {
     "english": "third",
     "french": "troisième",
     "spanish": "tercero",
     "german": "dritte",
-    "vietnamese": "thứ ba"
+    "vietnamese": "thứ ba",
+    "japanese": "第3"
   },
   "715": {
     "english": "shall",
     "french": "doit",
     "spanish": "deberá",
     "german": "wird",
-    "vietnamese": "có trách nhiệm"
+    "vietnamese": "có trách nhiệm",
+    "japanese": "しなければならない"
   },
   "716": {
     "english": "held",
     "french": "en attente",
     "spanish": "en espera",
     "german": "Hand",
-    "vietnamese": "được tổ chức"
+    "vietnamese": "được tổ chức",
+    "japanese": "ハンドヘルド"
   },
   "717": {
     "english": "hair",
     "french": "cheveux",
     "spanish": "pelo",
     "german": "Haar",
-    "vietnamese": "lông"
+    "vietnamese": "lông",
+    "japanese": "髪"
   },
   "718": {
     "english": "describe",
     "french": "décrire",
     "spanish": "describir",
     "german": "beschreiben",
-    "vietnamese": "mô tả"
+    "vietnamese": "mô tả",
+    "japanese": "説明する"
   },
   "719": {
     "english": "cook",
     "french": "cuisinier",
     "spanish": "cocinero",
     "german": "Koch",
-    "vietnamese": "nấu ăn"
+    "vietnamese": "nấu ăn",
+    "japanese": "料理人"
   },
   "720": {
     "english": "floor",
     "french": "étage",
     "spanish": "piso",
     "german": "Boden",
-    "vietnamese": "sàn"
+    "vietnamese": "sàn",
+    "japanese": "床"
   },
   "721": {
     "english": "either",
     "french": "chaque",
     "spanish": "ya sea",
     "german": "entweder",
-    "vietnamese": "hoặc"
+    "vietnamese": "hoặc",
+    "japanese": "どちら"
   },
   "722": {
     "english": "result",
     "french": "résultat",
     "spanish": "resultado",
     "german": "Ergebnis",
-    "vietnamese": "kết quả"
+    "vietnamese": "kết quả",
+    "japanese": "結果"
   },
   "723": {
     "english": "burn",
     "french": "brûler",
     "spanish": "quemar",
     "german": "brennen",
-    "vietnamese": "ghi"
+    "vietnamese": "ghi",
+    "japanese": "燃やす"
   },
   "724": {
     "english": "hill",
     "french": "colline",
     "spanish": "colina",
     "german": "Hügel",
-    "vietnamese": "đồi"
+    "vietnamese": "đồi",
+    "japanese": "丘"
   },
   "725": {
     "english": "safe",
     "french": "coffre-fort",
     "spanish": "seguro",
     "german": "sicher",
-    "vietnamese": "an toàn"
+    "vietnamese": "an toàn",
+    "japanese": "金庫"
   },
   "726": {
     "english": "cat",
     "french": "chat",
     "spanish": "gato",
     "german": "Katze",
-    "vietnamese": "mèo"
+    "vietnamese": "mèo",
+    "japanese": "猫"
   },
   "727": {
     "english": "century",
     "french": "siècle",
     "spanish": "siglo",
     "german": "Jahrhundert",
-    "vietnamese": "thế kỷ"
+    "vietnamese": "thế kỷ",
+    "japanese": "世紀"
   },
   "728": {
     "english": "consider",
     "french": "envisager",
     "spanish": "considerar",
     "german": "betrachten",
-    "vietnamese": "xem xét"
+    "vietnamese": "xem xét",
+    "japanese": "考える"
   },
   "729": {
     "english": "type",
     "french": "type",
     "spanish": "tipo",
     "german": "Typ",
-    "vietnamese": "loại"
+    "vietnamese": "loại",
+    "japanese": "タイプ"
   },
   "730": {
     "english": "law",
     "french": "droit",
     "spanish": "ley",
     "german": "Gesetz",
-    "vietnamese": "pháp luật"
+    "vietnamese": "pháp luật",
+    "japanese": "法則"
   },
   "731": {
     "english": "bit",
     "french": "peu",
     "spanish": "bit",
     "german": "Bit",
-    "vietnamese": "bit"
+    "vietnamese": "bit",
+    "japanese": "ビット"
   },
   "732": {
     "english": "coast",
     "french": "côte",
     "spanish": "costa",
     "german": "Küste",
-    "vietnamese": "bờ biển"
+    "vietnamese": "bờ biển",
+    "japanese": "海岸"
   },
   "733": {
     "english": "copy",
     "french": "copie",
     "spanish": "copia",
     "german": "Kopie",
-    "vietnamese": "bản sao"
+    "vietnamese": "bản sao",
+    "japanese": "コピー"
   },
   "734": {
     "english": "phrase",
     "french": "phrase",
     "spanish": "frase",
     "german": "Ausdruck",
-    "vietnamese": "cụm từ"
+    "vietnamese": "cụm từ",
+    "japanese": "フレーズ"
   },
   "735": {
     "english": "silent",
     "french": "silencieux",
     "spanish": "silencio",
     "german": "still",
-    "vietnamese": "im lặng"
+    "vietnamese": "im lặng",
+    "japanese": "サイレント"
   },
   "736": {
     "english": "tall",
     "french": "haut",
     "spanish": "de altura",
     "german": "hoch",
-    "vietnamese": "cao"
+    "vietnamese": "cao",
+    "japanese": "背の高い"
   },
   "737": {
     "english": "sand",
     "french": "sable",
     "spanish": "arena",
     "german": "Sand",
-    "vietnamese": "cát"
+    "vietnamese": "cát",
+    "japanese": "砂"
   },
   "738": {
     "english": "soil",
     "french": "sol",
     "spanish": "suelo",
     "german": "Boden",
-    "vietnamese": "đất"
+    "vietnamese": "đất",
+    "japanese": "土壌"
   },
   "739": {
     "english": "roll",
     "french": "rouleau",
     "spanish": "rollo",
     "german": "Rolle",
-    "vietnamese": "cuộn"
+    "vietnamese": "cuộn",
+    "japanese": "ロール"
   },
   "740": {
     "english": "temperature",
     "french": "température",
     "spanish": "temperatura",
     "german": "Temperatur",
-    "vietnamese": "nhiệt độ"
+    "vietnamese": "nhiệt độ",
+    "japanese": "温度"
   },
   "741": {
     "english": "finger",
     "french": "doigt",
     "spanish": "dedo",
     "german": "Finger",
-    "vietnamese": "ngón tay"
+    "vietnamese": "ngón tay",
+    "japanese": "指"
   },
   "742": {
     "english": "industry",
     "french": "industrie",
     "spanish": "industria",
     "german": "Industrie",
-    "vietnamese": "ngành công nghiệp"
+    "vietnamese": "ngành công nghiệp",
+    "japanese": "業界"
   },
   "743": {
     "english": "value",
     "french": "valeur",
     "spanish": "valor",
     "german": "Wert",
-    "vietnamese": "giá trị"
+    "vietnamese": "giá trị",
+    "japanese": "値"
   },
   "744": {
     "english": "fight",
     "french": "lutte",
     "spanish": "lucha",
     "german": "Kampf",
-    "vietnamese": "cuộc chiến"
+    "vietnamese": "cuộc chiến",
+    "japanese": "戦い"
   },
   "745": {
     "english": "lie",
     "french": "mensonge",
     "spanish": "mentira",
     "german": "Lüge",
-    "vietnamese": "lời nói dối"
+    "vietnamese": "lời nói dối",
+    "japanese": "うそ"
   },
   "746": {
     "english": "beat",
     "french": "battre",
     "spanish": "batir",
     "german": "schlagen",
-    "vietnamese": "đánh bại"
+    "vietnamese": "đánh bại",
+    "japanese": "ビート"
   },
   "747": {
     "english": "excite",
     "french": "exciter",
     "spanish": "excitar",
     "german": "begeistern",
-    "vietnamese": "kích thích"
+    "vietnamese": "kích thích",
+    "japanese": "エキサイト"
   },
   "748": {
     "english": "natural",
     "french": "naturel",
     "spanish": "naturales",
     "german": "natürlich",
-    "vietnamese": "tự nhiên"
+    "vietnamese": "tự nhiên",
+    "japanese": "ナチュラル"
   },
   "749": {
     "english": "view",
     "french": "vue",
     "spanish": "vista",
     "german": "Blick",
-    "vietnamese": "xem"
+    "vietnamese": "xem",
+    "japanese": "ビュー"
   },
   "750": {
     "english": "sense",
     "french": "sens",
     "spanish": "sentido",
     "german": "Sinn",
-    "vietnamese": "ý nghĩa"
+    "vietnamese": "ý nghĩa",
+    "japanese": "感覚"
   },
   "751": {
     "english": "capital",
     "french": "capital",
     "spanish": "de capital",
     "german": "Hauptstadt",
-    "vietnamese": "vốn"
+    "vietnamese": "vốn",
+    "japanese": "首都"
   },
   "752": {
     "english": "won’t",
     "french": "ne sera pas",
     "spanish": "no lo hará",
     "german": "wird nicht",
-    "vietnamese": "sẽ không"
+    "vietnamese": "sẽ không",
+    "japanese": "ないでしょう"
   },
   "753": {
     "english": "chair",
     "french": "chaise",
     "spanish": "silla",
     "german": "Stuhl",
-    "vietnamese": "ghế"
+    "vietnamese": "ghế",
+    "japanese": "椅子"
   },
   "754": {
     "english": "danger",
     "french": "danger",
     "spanish": "peligro",
     "german": "Achtung",
-    "vietnamese": "nguy hiểm"
+    "vietnamese": "nguy hiểm",
+    "japanese": "危険"
   },
   "755": {
     "english": "fruit",
     "french": "fruit",
     "spanish": "fruta",
     "german": "Obst",
-    "vietnamese": "trái cây"
+    "vietnamese": "trái cây",
+    "japanese": "フルーツ"
   },
   "756": {
     "english": "rich",
     "french": "riche",
     "spanish": "rica",
     "german": "reich",
-    "vietnamese": "giàu"
+    "vietnamese": "giàu",
+    "japanese": "金持ち"
   },
   "757": {
     "english": "thick",
     "french": "épais",
     "spanish": "de espesor",
     "german": "dick",
-    "vietnamese": "dày"
+    "vietnamese": "dày",
+    "japanese": "厚い"
   },
   "758": {
     "english": "soldier",
     "french": "soldat",
     "spanish": "soldado",
     "german": "Soldat",
-    "vietnamese": "người lính"
+    "vietnamese": "người lính",
+    "japanese": "兵士"
   },
   "759": {
     "english": "process",
     "french": "processus",
     "spanish": "proceso",
     "german": "Prozess",
-    "vietnamese": "quá trình"
+    "vietnamese": "quá trình",
+    "japanese": "プロセス"
   },
   "760": {
     "english": "operate",
     "french": "fonctionner",
     "spanish": "operar",
     "german": "betreiben",
-    "vietnamese": "hoạt động"
+    "vietnamese": "hoạt động",
+    "japanese": "操作する"
   },
   "761": {
     "english": "practice",
     "french": "pratique",
     "spanish": "práctica",
     "german": "Praxis",
-    "vietnamese": "thực hành"
+    "vietnamese": "thực hành",
+    "japanese": "練習"
   },
   "762": {
     "english": "separate",
     "french": "séparé",
     "spanish": "separada",
     "german": "trennen",
-    "vietnamese": "riêng biệt"
+    "vietnamese": "riêng biệt",
+    "japanese": "別"
   },
   "763": {
     "english": "difficult",
     "french": "difficile",
     "spanish": "difícil",
     "german": "schwierig",
-    "vietnamese": "khó khăn"
+    "vietnamese": "khó khăn",
+    "japanese": "難しい"
   },
   "764": {
     "english": "doctor",
     "french": "médecin",
     "spanish": "médico",
     "german": "Arzt",
-    "vietnamese": "bác sĩ"
+    "vietnamese": "bác sĩ",
+    "japanese": "医師"
   },
   "765": {
     "english": "please",
     "french": "s’il vous plaît",
     "spanish": "por favor",
     "german": "Bitte",
-    "vietnamese": "xin vui lòng"
+    "vietnamese": "xin vui lòng",
+    "japanese": "どうぞ"
   },
   "766": {
     "english": "protect",
     "french": "protéger",
     "spanish": "proteger",
     "german": "schützen",
-    "vietnamese": "bảo vệ"
+    "vietnamese": "bảo vệ",
+    "japanese": "守る"
   },
   "767": {
     "english": "noon",
     "french": "midi",
     "spanish": "mediodía",
     "german": "Mittag",
-    "vietnamese": "trưa"
+    "vietnamese": "trưa",
+    "japanese": "正午"
   },
   "768": {
     "english": "crop",
     "french": "récolte",
     "spanish": "de cultivos",
     "german": "Ernte",
-    "vietnamese": "cây trồng"
+    "vietnamese": "cây trồng",
+    "japanese": "作物"
   },
   "769": {
     "english": "modern",
     "french": "moderne",
     "spanish": "moderno",
     "german": "modernen",
-    "vietnamese": "hiện đại"
+    "vietnamese": "hiện đại",
+    "japanese": "モダン"
   },
   "770": {
     "english": "element",
     "french": "élément",
     "spanish": "elemento",
     "german": "Elementes",
-    "vietnamese": "yếu tố"
+    "vietnamese": "yếu tố",
+    "japanese": "要素"
   },
   "771": {
     "english": "hit",
     "french": "frapper",
     "spanish": "golpear",
     "german": "treffen",
-    "vietnamese": "nhấn"
+    "vietnamese": "nhấn",
+    "japanese": "ヒット"
   },
   "772": {
     "english": "student",
     "french": "étudiant",
     "spanish": "estudiante",
     "german": "Schüler",
-    "vietnamese": "sinh viên"
+    "vietnamese": "sinh viên",
+    "japanese": "学生"
   },
   "773": {
     "english": "corner",
     "french": "coin",
     "spanish": "esquina",
     "german": "Ecke",
-    "vietnamese": "góc"
+    "vietnamese": "góc",
+    "japanese": "コーナー"
   },
   "774": {
     "english": "party",
     "french": "partie",
     "spanish": "partido",
     "german": "Partei",
-    "vietnamese": "bên"
+    "vietnamese": "bên",
+    "japanese": "パーティー"
   },
   "775": {
     "english": "supply",
     "french": "alimentation",
     "spanish": "suministro",
     "german": "Versorgung",
-    "vietnamese": "cung cấp"
+    "vietnamese": "cung cấp",
+    "japanese": "サプライ"
   },
   "776": {
     "english": "whose",
     "french": "dont",
     "spanish": "cuya",
     "german": "deren",
-    "vietnamese": "có"
+    "vietnamese": "có",
+    "japanese": "その"
   },
   "777": {
     "english": "locate",
     "french": "localiser",
     "spanish": "localizar",
     "german": "lokalisieren",
-    "vietnamese": "xác định vị trí"
+    "vietnamese": "xác định vị trí",
+    "japanese": "検索する"
   },
   "778": {
     "english": "ring",
     "french": "anneau",
     "spanish": "anillo",
     "german": "Rings",
-    "vietnamese": "vòng"
+    "vietnamese": "vòng",
+    "japanese": "リング"
   },
   "779": {
     "english": "character",
     "french": "caractère",
     "spanish": "carácter",
     "german": "Charakter",
-    "vietnamese": "nhân vật"
+    "vietnamese": "nhân vật",
+    "japanese": "キャラクター"
   },
   "780": {
     "english": "insect",
     "french": "insecte",
     "spanish": "insecto",
     "german": "insekt",
-    "vietnamese": "côn trùng"
+    "vietnamese": "côn trùng",
+    "japanese": "昆虫"
   },
   "781": {
     "english": "caught",
     "french": "pris",
     "spanish": "capturado",
     "german": "gefangen",
-    "vietnamese": "bắt"
+    "vietnamese": "bắt",
+    "japanese": "キャッチ"
   },
   "782": {
     "english": "period",
     "french": "période",
     "spanish": "período",
     "german": "Zeit",
-    "vietnamese": "thời gian"
+    "vietnamese": "thời gian",
+    "japanese": "期間"
   },
   "783": {
     "english": "indicate",
     "french": "indiquer",
     "spanish": "indicar",
     "german": "zeigen",
-    "vietnamese": "chỉ ra"
+    "vietnamese": "chỉ ra",
+    "japanese": "示す"
   },
   "784": {
     "english": "radio",
     "french": "radio",
     "spanish": "Radio",
     "german": "Funk",
-    "vietnamese": "radio"
+    "vietnamese": "radio",
+    "japanese": "ラジオ"
   },
   "785": {
     "english": "spoke",
     "french": "rayon",
     "spanish": "habló",
     "german": "Speiche",
-    "vietnamese": "nói"
+    "vietnamese": "nói",
+    "japanese": "スポーク"
   },
   "786": {
     "english": "atom",
     "french": "atome",
     "spanish": "átomo",
     "german": "Atom",
-    "vietnamese": "nguyên tử"
+    "vietnamese": "nguyên tử",
+    "japanese": "アトム"
   },
   "787": {
     "english": "human",
     "french": "humain",
     "spanish": "humana",
     "german": "Mensch",
-    "vietnamese": "con người"
+    "vietnamese": "con người",
+    "japanese": "人間"
   },
   "788": {
     "english": "history",
     "french": "histoire",
     "spanish": "historia",
     "german": "Geschichte",
-    "vietnamese": "lịch sử"
+    "vietnamese": "lịch sử",
+    "japanese": "歴史"
   },
   "789": {
     "english": "effect",
     "french": "effet",
     "spanish": "efecto",
     "german": "Wirkung",
-    "vietnamese": "hiệu lực"
+    "vietnamese": "hiệu lực",
+    "japanese": "効果"
   },
   "790": {
     "english": "electric",
     "french": "électrique",
     "spanish": "eléctrica",
     "german": "elektrisch",
-    "vietnamese": "điện"
+    "vietnamese": "điện",
+    "japanese": "エレクトリック"
   },
   "791": {
     "english": "expect",
     "french": "attendre",
     "spanish": "esperar",
     "german": "erwarten",
-    "vietnamese": "mong đợi"
+    "vietnamese": "mong đợi",
+    "japanese": "期待する"
   },
   "792": {
     "english": "bone",
     "french": "os",
     "spanish": "hueso",
     "german": "Knochen",
-    "vietnamese": "xương"
+    "vietnamese": "xương",
+    "japanese": "骨"
   },
   "793": {
     "english": "rail",
     "french": "rail",
     "spanish": "ferrocarril",
     "german": "Schiene",
-    "vietnamese": "đường sắt"
+    "vietnamese": "đường sắt",
+    "japanese": "レール"
   },
   "794": {
     "english": "imagine",
     "french": "imaginer",
     "spanish": "imaginar",
     "german": "vorstellen",
-    "vietnamese": "tưởng tượng"
+    "vietnamese": "tưởng tượng",
+    "japanese": "想像する"
   },
   "795": {
     "english": "provide",
     "french": "fournir",
     "spanish": "proporcionar",
     "german": "bieten",
-    "vietnamese": "cho"
+    "vietnamese": "cho",
+    "japanese": "提供する"
   },
   "796": {
     "english": "agree",
     "french": "se mettre d’accord",
     "spanish": "acuerdo",
     "german": "zustimmen",
-    "vietnamese": "đồng ý"
+    "vietnamese": "đồng ý",
+    "japanese": "同意する"
   },
   "797": {
     "english": "thus",
     "french": "ainsi",
     "spanish": "por tanto,",
     "german": "so",
-    "vietnamese": "do đó"
+    "vietnamese": "do đó",
+    "japanese": "このようにして"
   },
   "798": {
     "english": "gentle",
     "french": "doux",
     "spanish": "suave",
     "german": "sanft",
-    "vietnamese": "nhẹ nhàng"
+    "vietnamese": "nhẹ nhàng",
+    "japanese": "優しい"
   },
   "799": {
     "english": "woman",
     "french": "femme",
     "spanish": "mujer",
     "german": "Frau",
-    "vietnamese": "người phụ nữ"
+    "vietnamese": "người phụ nữ",
+    "japanese": "女"
   },
   "800": {
     "english": "captain",
     "french": "capitaine",
     "spanish": "capitán",
     "german": "Kapitän",
-    "vietnamese": "đội trưởng"
+    "vietnamese": "đội trưởng",
+    "japanese": "キャプテン"
   },
   "801": {
     "english": "guess",
     "french": "deviner",
     "spanish": "adivinar",
     "german": "erraten",
-    "vietnamese": "đoán"
+    "vietnamese": "đoán",
+    "japanese": "推測"
   },
   "802": {
     "english": "necessary",
     "french": "nécessaire",
     "spanish": "necesario",
     "german": "erforderlich",
-    "vietnamese": "cần thiết"
+    "vietnamese": "cần thiết",
+    "japanese": "必要"
   },
   "803": {
     "english": "sharp",
     "french": "net",
     "spanish": "agudo",
     "german": "scharf",
-    "vietnamese": "sắc nét"
+    "vietnamese": "sắc nét",
+    "japanese": "シャープ"
   },
   "804": {
     "english": "wing",
     "french": "aile",
     "spanish": "ala",
     "german": "Flügel",
-    "vietnamese": "cánh"
+    "vietnamese": "cánh",
+    "japanese": "ウイング"
   },
   "805": {
     "english": "create",
     "french": "créer",
     "spanish": "crear",
     "german": "schaffen",
-    "vietnamese": "tạo"
+    "vietnamese": "tạo",
+    "japanese": "作る"
   },
   "806": {
     "english": "neighbor",
     "french": "voisin",
     "spanish": "vecino",
     "german": "Nachbar",
-    "vietnamese": "hàng xóm"
+    "vietnamese": "hàng xóm",
+    "japanese": "隣人"
   },
   "807": {
     "english": "wash",
     "french": "lavage",
     "spanish": "lavado",
     "german": "Wasch",
-    "vietnamese": "rửa"
+    "vietnamese": "rửa",
+    "japanese": "ウォッシュ"
   },
   "808": {
     "english": "bat",
     "french": "chauve-souris",
     "spanish": "bate",
     "german": "Fledermaus",
-    "vietnamese": "bat"
+    "vietnamese": "bat",
+    "japanese": "バット"
   },
   "809": {
     "english": "rather",
     "french": "plutôt",
     "spanish": "más bien",
     "german": "eher",
-    "vietnamese": "thay"
+    "vietnamese": "thay",
+    "japanese": "むしろ"
   },
   "810": {
     "english": "crowd",
     "french": "foule",
     "spanish": "multitud",
     "german": "Menge",
-    "vietnamese": "đám đông"
+    "vietnamese": "đám đông",
+    "japanese": "群衆"
   },
   "811": {
     "english": "corn",
     "french": "blé",
     "spanish": "maíz",
     "german": "mais",
-    "vietnamese": "ngô"
+    "vietnamese": "ngô",
+    "japanese": "トウモロコシ"
   },
   "812": {
     "english": "compare",
     "french": "comparer",
     "spanish": "comparar",
     "german": "vergleichen",
-    "vietnamese": "so sánh"
+    "vietnamese": "so sánh",
+    "japanese": "比較する"
   },
   "813": {
     "english": "poem",
     "french": "poème",
     "spanish": "poema",
     "german": "Gedicht",
-    "vietnamese": "bài thơ"
+    "vietnamese": "bài thơ",
+    "japanese": "詩"
   },
   "814": {
     "english": "string",
     "french": "chaîne",
     "spanish": "cadena",
     "german": "Schnur",
-    "vietnamese": "chuỗi"
+    "vietnamese": "chuỗi",
+    "japanese": "文字列"
   },
   "815": {
     "english": "bell",
     "french": "cloche",
     "spanish": "campana",
     "german": "Glocke",
-    "vietnamese": "chuông"
+    "vietnamese": "chuông",
+    "japanese": "鐘"
   },
   "816": {
     "english": "depend",
     "french": "dépendre",
     "spanish": "dependerá",
     "german": "abhängen",
-    "vietnamese": "phụ thuộc"
+    "vietnamese": "phụ thuộc",
+    "japanese": "決まる"
   },
   "817": {
     "english": "meat",
     "french": "viande",
     "spanish": "carne",
     "german": "Fleisch",
-    "vietnamese": "thịt"
+    "vietnamese": "thịt",
+    "japanese": "肉"
   },
   "818": {
     "english": "rub",
     "french": "rub",
     "spanish": "frotar",
     "german": "einreiben",
-    "vietnamese": "chà"
+    "vietnamese": "chà",
+    "japanese": "こする"
   },
   "819": {
     "english": "tube",
     "french": "tube",
     "spanish": "tubo",
     "german": "Rohr",
-    "vietnamese": "ống"
+    "vietnamese": "ống",
+    "japanese": "チューブ"
   },
   "820": {
     "english": "famous",
     "french": "célèbre",
     "spanish": "famoso",
     "german": "berühmt",
-    "vietnamese": "nổi tiếng"
+    "vietnamese": "nổi tiếng",
+    "japanese": "有名な"
   },
   "821": {
     "english": "dollar",
     "french": "dollar",
     "spanish": "dólar",
     "german": "Dollar",
-    "vietnamese": "đồng đô la"
+    "vietnamese": "đồng đô la",
+    "japanese": "ドル"
   },
   "822": {
     "english": "stream",
     "french": "courant",
     "spanish": "corriente",
     "german": "Strom",
-    "vietnamese": "sông"
+    "vietnamese": "sông",
+    "japanese": "ストリーム"
   },
   "823": {
     "english": "fear",
     "french": "peur",
     "spanish": "miedo",
     "german": "Angst",
-    "vietnamese": "sợ hãi"
+    "vietnamese": "sợ hãi",
+    "japanese": "恐怖"
   },
   "824": {
     "english": "sight",
     "french": "vue",
     "spanish": "vista",
     "german": "Blick",
-    "vietnamese": "cảnh"
+    "vietnamese": "cảnh",
+    "japanese": "視力"
   },
   "825": {
     "english": "thin",
     "french": "mince",
     "spanish": "delgado",
     "german": "dünn",
-    "vietnamese": "mỏng"
+    "vietnamese": "mỏng",
+    "japanese": "薄い"
   },
   "826": {
     "english": "triangle",
     "french": "triangle",
     "spanish": "triángulo",
     "german": "Dreieck",
-    "vietnamese": "tam giác"
+    "vietnamese": "tam giác",
+    "japanese": "三角形"
   },
   "827": {
     "english": "planet",
     "french": "planète",
     "spanish": "planeta",
     "german": "Erde",
-    "vietnamese": "hành tinh"
+    "vietnamese": "hành tinh",
+    "japanese": "惑星"
   },
   "828": {
     "english": "hurry",
     "french": "se dépêcher",
     "spanish": "prisa",
     "german": "Eile",
-    "vietnamese": "nhanh"
+    "vietnamese": "nhanh",
+    "japanese": "急ぐ"
   },
   "829": {
     "english": "chief",
     "french": "chef",
     "spanish": "jefe",
     "german": "Chef",
-    "vietnamese": "trưởng"
+    "vietnamese": "trưởng",
+    "japanese": "チーフ"
   },
   "830": {
     "english": "colony",
     "french": "colonie",
     "spanish": "colonia",
     "german": "Kolonie",
-    "vietnamese": "thuộc địa"
+    "vietnamese": "thuộc địa",
+    "japanese": "コロニー"
   },
   "831": {
     "english": "clock",
     "french": "horloge",
     "spanish": "reloj",
     "german": "Uhr",
-    "vietnamese": "đồng hồ"
+    "vietnamese": "đồng hồ",
+    "japanese": "クロック"
   },
   "832": {
     "english": "mine",
     "french": "mine",
     "spanish": "mina",
     "german": "Mine",
-    "vietnamese": "tôi"
+    "vietnamese": "tôi",
+    "japanese": "地雷"
   },
   "833": {
     "english": "tie",
     "french": "lien",
     "spanish": "empate",
     "german": "Krawatte",
-    "vietnamese": "cà vạt"
+    "vietnamese": "cà vạt",
+    "japanese": "ネクタイ"
   },
   "834": {
     "english": "enter",
     "french": "entrer",
     "spanish": "entrar",
     "german": "eingeben",
-    "vietnamese": "nhập"
+    "vietnamese": "nhập",
+    "japanese": "入力する"
   },
   "835": {
     "english": "major",
     "french": "majeur",
     "spanish": "importante",
     "german": "Dur",
-    "vietnamese": "chính"
+    "vietnamese": "chính",
+    "japanese": "主要な"
   },
   "836": {
     "english": "fresh",
     "french": "frais",
     "spanish": "fresco",
     "german": "frisch",
-    "vietnamese": "tươi"
+    "vietnamese": "tươi",
+    "japanese": "新鮮な"
   },
   "837": {
     "english": "search",
     "french": "recherche",
     "spanish": "búsqueda",
     "german": "Suche",
-    "vietnamese": "tìm kiếm"
+    "vietnamese": "tìm kiếm",
+    "japanese": "検索"
   },
   "838": {
     "english": "send",
     "french": "envoyer",
     "spanish": "enviar",
     "german": "senden",
-    "vietnamese": "gửi"
+    "vietnamese": "gửi",
+    "japanese": "送信"
   },
   "839": {
     "english": "yellow",
     "french": "jaune",
     "spanish": "amarillo",
     "german": "gelb",
-    "vietnamese": "vàng"
+    "vietnamese": "vàng",
+    "japanese": "黄色"
   },
   "840": {
     "english": "gun",
     "french": "pistolet",
     "spanish": "pistola",
     "german": "Pistole",
-    "vietnamese": "súng"
+    "vietnamese": "súng",
+    "japanese": "銃"
   },
   "841": {
     "english": "allow",
     "french": "permettre",
     "spanish": "permitir",
     "german": "erlauben",
-    "vietnamese": "cho phép"
+    "vietnamese": "cho phép",
+    "japanese": "許可する"
   },
   "842": {
     "english": "print",
     "french": "impression",
     "spanish": "print",
     "german": "Druck",
-    "vietnamese": "in"
+    "vietnamese": "in",
+    "japanese": "印刷"
   },
   "843": {
     "english": "dead",
     "french": "mort",
     "spanish": "muerto",
     "german": "tot",
-    "vietnamese": "chết"
+    "vietnamese": "chết",
+    "japanese": "死んだ"
   },
   "844": {
     "english": "spot",
     "french": "place",
     "spanish": "lugar",
     "german": "Stelle",
-    "vietnamese": "tại chỗ"
+    "vietnamese": "tại chỗ",
+    "japanese": "スポット"
   },
   "845": {
     "english": "desert",
     "french": "désert",
     "spanish": "desierto",
     "german": "Wüste",
-    "vietnamese": "sa mạc"
+    "vietnamese": "sa mạc",
+    "japanese": "砂漠"
   },
   "846": {
     "english": "suit",
     "french": "costume",
     "spanish": "traje",
     "german": "Anzug",
-    "vietnamese": "phù hợp với"
+    "vietnamese": "phù hợp với",
+    "japanese": "スーツ"
   },
   "847": {
     "english": "current",
     "french": "courant",
     "spanish": "actual",
     "german": "Strom",
-    "vietnamese": "hiện tại"
+    "vietnamese": "hiện tại",
+    "japanese": "現在の"
   },
   "848": {
     "english": "lift",
     "french": "ascenseur",
     "spanish": "ascensor",
     "german": "Aufzug",
-    "vietnamese": "thang máy"
+    "vietnamese": "thang máy",
+    "japanese": "リフト"
   },
   "849": {
     "english": "rose",
     "french": "rose",
     "spanish": "rosa",
     "german": "stiegen",
-    "vietnamese": "tăng"
+    "vietnamese": "tăng",
+    "japanese": "ローズ"
   },
   "850": {
     "english": "arrive",
     "french": "arriver",
     "spanish": "llegar",
     "german": "ankommen",
-    "vietnamese": "đến"
+    "vietnamese": "đến",
+    "japanese": "届く"
   },
   "851": {
     "english": "master",
     "french": "maître",
     "spanish": "master",
     "german": "Stamm",
-    "vietnamese": "chủ"
+    "vietnamese": "chủ",
+    "japanese": "マスター"
   },
   "852": {
     "english": "track",
     "french": "piste",
     "spanish": "pista",
     "german": "Spur",
-    "vietnamese": "theo dõi"
+    "vietnamese": "theo dõi",
+    "japanese": "トラック"
   },
   "853": {
     "english": "parent",
     "french": "mère",
     "spanish": "padre",
     "german": "Elternteil",
-    "vietnamese": "mẹ"
+    "vietnamese": "mẹ",
+    "japanese": "親"
   },
   "854": {
     "english": "shore",
     "french": "rivage",
     "spanish": "orilla",
     "german": "Ufer",
-    "vietnamese": "bờ"
+    "vietnamese": "bờ",
+    "japanese": "海岸"
   },
   "855": {
     "english": "division",
     "french": "division",
     "spanish": "división",
     "german": "Teilung",
-    "vietnamese": "phân chia"
+    "vietnamese": "phân chia",
+    "japanese": "分裂"
   },
   "856": {
     "english": "sheet",
     "french": "feuille",
     "spanish": "hoja",
     "german": "Blatt",
-    "vietnamese": "tờ"
+    "vietnamese": "tờ",
+    "japanese": "シート"
   },
   "857": {
     "english": "substance",
     "french": "substance",
     "spanish": "sustancia",
     "german": "Substanz",
-    "vietnamese": "chất"
+    "vietnamese": "chất",
+    "japanese": "物質"
   },
   "858": {
     "english": "favor",
     "french": "favoriser",
     "spanish": "favorecer",
     "german": "begünstigen",
-    "vietnamese": "ủng hộ"
+    "vietnamese": "ủng hộ",
+    "japanese": "好む"
   },
   "859": {
     "english": "connect",
     "french": "relier",
     "spanish": "conectar",
     "german": "verbinden",
-    "vietnamese": "kết nối"
+    "vietnamese": "kết nối",
+    "japanese": "接続する"
   },
   "860": {
     "english": "post",
     "french": "poste",
     "spanish": "mensaje",
     "german": "nach",
-    "vietnamese": "bài"
+    "vietnamese": "bài",
+    "japanese": "ポスト"
   },
   "861": {
     "english": "spend",
     "french": "passer",
     "spanish": "pasar",
     "german": "verbringen",
-    "vietnamese": "chi tiêu"
+    "vietnamese": "chi tiêu",
+    "japanese": "過ごす"
   },
   "862": {
     "english": "chord",
     "french": "corde",
     "spanish": "acorde",
     "german": "Akkord",
-    "vietnamese": "hợp âm"
+    "vietnamese": "hợp âm",
+    "japanese": "和音"
   },
   "863": {
     "english": "fat",
     "french": "graisse",
     "spanish": "grasa",
     "german": "Fett",
-    "vietnamese": "chất béo"
+    "vietnamese": "chất béo",
+    "japanese": "脂肪"
   },
   "864": {
     "english": "glad",
     "french": "heureux",
     "spanish": "contento",
     "german": "froh",
-    "vietnamese": "vui"
+    "vietnamese": "vui",
+    "japanese": "うれしい"
   },
   "865": {
     "english": "original",
     "french": "original",
     "spanish": "originales",
     "german": "Original",
-    "vietnamese": "ban đầu"
+    "vietnamese": "ban đầu",
+    "japanese": "オリジナル"
   },
   "866": {
     "english": "share",
     "french": "part",
     "spanish": "cuota",
     "german": "Aktie",
-    "vietnamese": "chia sẻ"
+    "vietnamese": "chia sẻ",
+    "japanese": "シェア"
   },
   "867": {
     "english": "station",
     "french": "station",
     "spanish": "estación",
     "german": "Station",
-    "vietnamese": "trạm"
+    "vietnamese": "trạm",
+    "japanese": "駅"
   },
   "868": {
     "english": "dad",
     "french": "papa",
     "spanish": "papá",
     "german": "Papa",
-    "vietnamese": "cha"
+    "vietnamese": "cha",
+    "japanese": "お父さん"
   },
   "869": {
     "english": "bread",
     "french": "pain",
     "spanish": "pan",
     "german": "Brot",
-    "vietnamese": "bánh mì"
+    "vietnamese": "bánh mì",
+    "japanese": "パン"
   },
   "870": {
     "english": "charge",
     "french": "charger",
     "spanish": "cobrar",
     "german": "aufladen",
-    "vietnamese": "phí"
+    "vietnamese": "phí",
+    "japanese": "充電"
   },
   "871": {
     "english": "proper",
     "french": "propre",
     "spanish": "adecuada",
     "german": "richtig",
-    "vietnamese": "thích hợp"
+    "vietnamese": "thích hợp",
+    "japanese": "適切な"
   },
   "872": {
     "english": "bar",
     "french": "bar",
     "spanish": "barra",
     "german": "Leiste",
-    "vietnamese": "thanh"
+    "vietnamese": "thanh",
+    "japanese": "バー"
   },
   "873": {
     "english": "offer",
     "french": "proposition",
     "spanish": "oferta",
     "german": "Angebot",
-    "vietnamese": "phục vụ"
+    "vietnamese": "phục vụ",
+    "japanese": "申し出"
   },
   "874": {
     "english": "segment",
     "french": "segment",
     "spanish": "segmento",
     "german": "Segment",
-    "vietnamese": "phân khúc"
+    "vietnamese": "phân khúc",
+    "japanese": "セグメント"
   },
   "875": {
     "english": "slave",
     "french": "esclave",
     "spanish": "esclavo",
     "german": "Sklave",
-    "vietnamese": "nô lệ"
+    "vietnamese": "nô lệ",
+    "japanese": "スレーブ"
   },
   "876": {
     "english": "duck",
     "french": "canard",
     "spanish": "pato",
     "german": "ente",
-    "vietnamese": "vịt"
+    "vietnamese": "vịt",
+    "japanese": "アヒル"
   },
   "877": {
     "english": "instant",
     "french": "instant",
     "spanish": "instantánea",
     "german": "Augenblick",
-    "vietnamese": "ngay lập tức"
+    "vietnamese": "ngay lập tức",
+    "japanese": "インスタント"
   },
   "878": {
     "english": "market",
     "french": "marché",
     "spanish": "mercado",
     "german": "Markt",
-    "vietnamese": "thị trường"
+    "vietnamese": "thị trường",
+    "japanese": "市場"
   },
   "879": {
     "english": "degree",
     "french": "degré",
     "spanish": "grado",
     "german": "Grad",
-    "vietnamese": "mức độ"
+    "vietnamese": "mức độ",
+    "japanese": "度"
   },
   "880": {
     "english": "populate",
     "french": "peupler",
     "spanish": "poblar",
     "german": "besiedeln",
-    "vietnamese": "cư"
+    "vietnamese": "cư",
+    "japanese": "投入する"
   },
   "881": {
     "english": "chick",
     "french": "poussin",
     "spanish": "polluelo",
     "german": "küken",
-    "vietnamese": "gà"
+    "vietnamese": "gà",
+    "japanese": "ひよこ"
   },
   "882": {
     "english": "dear",
     "french": "cher",
     "spanish": "querido",
     "german": "liebe",
-    "vietnamese": "thân yêu"
+    "vietnamese": "thân yêu",
+    "japanese": "かわいい"
   },
   "883": {
     "english": "enemy",
     "french": "ennemi",
     "spanish": "enemigo",
     "german": "Feind",
-    "vietnamese": "kẻ thù"
+    "vietnamese": "kẻ thù",
+    "japanese": "敵"
   },
   "884": {
     "english": "reply",
     "french": "répondre",
     "spanish": "responder",
     "german": "antworten",
-    "vietnamese": "trả lời"
+    "vietnamese": "trả lời",
+    "japanese": "返事"
   },
   "885": {
     "english": "drink",
     "french": "boisson",
     "spanish": "bebida",
     "german": "Getränk",
-    "vietnamese": "ly"
+    "vietnamese": "ly",
+    "japanese": "ドリンク"
   },
   "886": {
     "english": "occur",
     "french": "se produire",
     "spanish": "producirse",
     "german": "auftreten",
-    "vietnamese": "xảy ra"
+    "vietnamese": "xảy ra",
+    "japanese": "起こる"
   },
   "887": {
     "english": "support",
     "french": "support",
     "spanish": "apoyo",
     "german": "Unterstützung",
-    "vietnamese": "hỗ trợ"
+    "vietnamese": "hỗ trợ",
+    "japanese": "サポート"
   },
   "888": {
     "english": "speech",
     "french": "discours",
     "spanish": "discurso",
     "german": "Rede",
-    "vietnamese": "bài phát biểu"
+    "vietnamese": "bài phát biểu",
+    "japanese": "スピーチ"
   },
   "889": {
     "english": "nature",
     "french": "nature",
     "spanish": "naturaleza",
     "german": "Natur",
-    "vietnamese": "thiên nhiên"
+    "vietnamese": "thiên nhiên",
+    "japanese": "自然"
   },
   "890": {
     "english": "range",
     "french": "gamme",
     "spanish": "alcance",
     "german": "Angebot",
-    "vietnamese": "phạm vi"
+    "vietnamese": "phạm vi",
+    "japanese": "レンジ"
   },
   "891": {
     "english": "steam",
     "french": "vapeur",
     "spanish": "vapor",
     "german": "Dampf",
-    "vietnamese": "hơi nước"
+    "vietnamese": "hơi nước",
+    "japanese": "スチーム"
   },
   "892": {
     "english": "motion",
     "french": "mouvement",
     "spanish": "movimiento",
     "german": "Bewegung",
-    "vietnamese": "chuyển động"
+    "vietnamese": "chuyển động",
+    "japanese": "モーション"
   },
   "893": {
     "english": "path",
     "french": "chemin",
     "spanish": "camino",
     "german": "Weg",
-    "vietnamese": "con đường"
+    "vietnamese": "con đường",
+    "japanese": "パス"
   },
   "894": {
     "english": "liquid",
     "french": "liquide",
     "spanish": "líquido",
     "german": "Flüssigkeit",
-    "vietnamese": "chất lỏng"
+    "vietnamese": "chất lỏng",
+    "japanese": "液体"
   },
   "895": {
     "english": "log",
     "french": "enregistrer",
     "spanish": "log",
     "german": "protokollieren",
-    "vietnamese": "đăng nhập"
+    "vietnamese": "đăng nhập",
+    "japanese": "ログ"
   },
   "896": {
     "english": "meant",
     "french": "signifiait",
     "spanish": "significado",
     "german": "gemeint",
-    "vietnamese": "có nghĩa là"
+    "vietnamese": "có nghĩa là",
+    "japanese": "意味"
   },
   "897": {
     "english": "quotient",
     "french": "quotient",
     "spanish": "cociente",
     "german": "Quotient",
-    "vietnamese": "thương"
+    "vietnamese": "thương",
+    "japanese": "商"
   },
   "898": {
     "english": "teeth",
     "french": "dents",
     "spanish": "dientes",
     "german": "Gebiss",
-    "vietnamese": "răng"
+    "vietnamese": "răng",
+    "japanese": "歯牙"
   },
   "899": {
     "english": "shell",
     "french": "coquille",
     "spanish": "concha",
     "german": "Schale",
-    "vietnamese": "vỏ"
+    "vietnamese": "vỏ",
+    "japanese": "シェル"
   },
   "900": {
     "english": "neck",
     "french": "cou",
     "spanish": "cuello",
     "german": "Hals",
-    "vietnamese": "cổ"
+    "vietnamese": "cổ",
+    "japanese": "首"
   },
   "901": {
     "english": "oxygen",
     "french": "oxygène",
     "spanish": "oxígeno",
     "german": "Sauerstoff",
-    "vietnamese": "oxy"
+    "vietnamese": "oxy",
+    "japanese": "酸素"
   },
   "902": {
     "english": "sugar",
     "french": "sucre",
     "spanish": "azúcar",
     "german": "Zucker",
-    "vietnamese": "đường"
+    "vietnamese": "đường",
+    "japanese": "砂糖"
   },
   "903": {
     "english": "death",
     "french": "décès",
     "spanish": "muerte",
     "german": "Tod",
-    "vietnamese": "chết"
+    "vietnamese": "chết",
+    "japanese": "死"
   },
   "904": {
     "english": "pretty",
     "french": "assez",
     "spanish": "bastante",
     "german": "ziemlich",
-    "vietnamese": "khá"
+    "vietnamese": "khá",
+    "japanese": "かわいい"
   },
   "905": {
     "english": "skill",
     "french": "compétence",
     "spanish": "habilidad",
     "german": "Geschicklichkeit",
-    "vietnamese": "kỹ năng"
+    "vietnamese": "kỹ năng",
+    "japanese": "スキル"
   },
   "906": {
     "english": "women",
     "french": "femmes",
     "spanish": "mujeres",
     "german": "Frauen",
-    "vietnamese": "phụ nữ"
+    "vietnamese": "phụ nữ",
+    "japanese": "女性たち"
   },
   "907": {
     "english": "season",
     "french": "saison",
     "spanish": "temporada",
     "german": "Saison",
-    "vietnamese": "mùa"
+    "vietnamese": "mùa",
+    "japanese": "シーズン"
   },
   "908": {
     "english": "solution",
     "french": "solution",
     "spanish": "solución",
     "german": "Lösung",
-    "vietnamese": "giải pháp"
+    "vietnamese": "giải pháp",
+    "japanese": "ソリューション"
   },
   "909": {
     "english": "magnet",
     "french": "aimant",
     "spanish": "imán",
     "german": "Magnet",
-    "vietnamese": "nam châm"
+    "vietnamese": "nam châm",
+    "japanese": "マグネット"
   },
   "910": {
     "english": "silver",
     "french": "argent",
     "spanish": "plata",
     "german": "Silber",
-    "vietnamese": "bạc"
+    "vietnamese": "bạc",
+    "japanese": "銀"
   },
   "911": {
     "english": "thank",
     "french": "merci",
     "spanish": "gracias",
     "german": "danken",
-    "vietnamese": "cảm ơn"
+    "vietnamese": "cảm ơn",
+    "japanese": "感謝"
   },
   "912": {
     "english": "branch",
     "french": "branche",
     "spanish": "rama",
     "german": "Zweig",
-    "vietnamese": "chi nhánh"
+    "vietnamese": "chi nhánh",
+    "japanese": "ブランチ"
   },
   "913": {
     "english": "match",
     "french": "rencontre",
     "spanish": "partido",
     "german": "Spiel",
-    "vietnamese": "trận đấu"
+    "vietnamese": "trận đấu",
+    "japanese": "マッチ"
   },
   "914": {
     "english": "suffix",
     "french": "suffixe",
     "spanish": "sufijo",
     "german": "Suffix",
-    "vietnamese": "hậu tố"
+    "vietnamese": "hậu tố",
+    "japanese": "サフィックス"
   },
   "915": {
     "english": "especially",
     "french": "particulièrement",
     "spanish": "especialmente",
     "german": "insbesondere",
-    "vietnamese": "đặc biệt là"
+    "vietnamese": "đặc biệt là",
+    "japanese": "特に"
   },
   "916": {
     "english": "fig",
     "french": "figue",
     "spanish": "higo",
     "german": "Feige",
-    "vietnamese": "sung"
+    "vietnamese": "sung",
+    "japanese": "イチジク"
   },
   "917": {
     "english": "afraid",
     "french": "peur",
     "spanish": "miedo",
     "german": "ängstlich",
-    "vietnamese": "sợ"
+    "vietnamese": "sợ",
+    "japanese": "恐れて"
   },
   "918": {
     "english": "huge",
     "french": "énorme",
     "spanish": "enorme",
     "german": "riesig",
-    "vietnamese": "to"
+    "vietnamese": "to",
+    "japanese": "巨大な"
   },
   "919": {
     "english": "sister",
     "french": "sœur",
     "spanish": "hermana",
     "german": "Schwester",
-    "vietnamese": "em gái"
+    "vietnamese": "em gái",
+    "japanese": "姉妹"
   },
   "920": {
     "english": "steel",
     "french": "acier",
     "spanish": "acero",
     "german": "Stahl",
-    "vietnamese": "thép"
+    "vietnamese": "thép",
+    "japanese": "スチール"
   },
   "921": {
     "english": "discuss",
     "french": "discuter",
     "spanish": "discutir",
     "german": "diskutieren",
-    "vietnamese": "thảo luận"
+    "vietnamese": "thảo luận",
+    "japanese": "話し合う"
   },
   "922": {
     "english": "forward",
     "french": "avant",
     "spanish": "adelante",
     "german": "vorwärts",
-    "vietnamese": "về phía trước"
+    "vietnamese": "về phía trước",
+    "japanese": "フォワード"
   },
   "923": {
     "english": "similar",
     "french": "similaire",
     "spanish": "similar",
     "german": "ähnlich",
-    "vietnamese": "tương tự"
+    "vietnamese": "tương tự",
+    "japanese": "同じような"
   },
   "924": {
     "english": "guide",
     "french": "guider",
     "spanish": "guiar",
     "german": "führen",
-    "vietnamese": "hướng dẫn"
+    "vietnamese": "hướng dẫn",
+    "japanese": "ガイド"
   },
   "925": {
     "english": "experience",
     "french": "expérience",
     "spanish": "experiencia",
     "german": "Erfahrung",
-    "vietnamese": "kinh nghiệm"
+    "vietnamese": "kinh nghiệm",
+    "japanese": "経験"
   },
   "926": {
     "english": "score",
     "french": "score",
     "spanish": "puntuación",
     "german": "Partitur",
-    "vietnamese": "điểm"
+    "vietnamese": "điểm",
+    "japanese": "スコア"
   },
   "927": {
     "english": "apple",
     "french": "pomme",
     "spanish": "manzana",
     "german": "apfel",
-    "vietnamese": "táo"
+    "vietnamese": "táo",
+    "japanese": "リンゴ"
   },
   "928": {
     "english": "bought",
     "french": "acheté",
     "spanish": "comprado",
     "german": "gekauft",
-    "vietnamese": "mua"
+    "vietnamese": "mua",
+    "japanese": "買った"
   },
   "929": {
     "english": "led",
     "french": "LED",
     "spanish": "llevado",
     "german": "geführt",
-    "vietnamese": "dẫn"
+    "vietnamese": "dẫn",
+    "japanese": "主導"
   },
   "930": {
     "english": "pitch",
     "french": "pas",
     "spanish": "pitch",
     "german": "Tonhöhe",
-    "vietnamese": "sân"
+    "vietnamese": "sân",
+    "japanese": "ピッチ"
   },
   "931": {
     "english": "coat",
     "french": "manteau",
     "spanish": "abrigo",
     "german": "Mantel",
-    "vietnamese": "áo"
+    "vietnamese": "áo",
+    "japanese": "コート"
   },
   "932": {
     "english": "mass",
     "french": "masse",
     "spanish": "masa",
     "german": "Masse",
-    "vietnamese": "khối lượng"
+    "vietnamese": "khối lượng",
+    "japanese": "マス"
   },
   "933": {
     "english": "card",
     "french": "carte",
     "spanish": "tarjeta",
     "german": "Karte",
-    "vietnamese": "thẻ"
+    "vietnamese": "thẻ",
+    "japanese": "カード"
   },
   "934": {
     "english": "band",
     "french": "bande",
     "spanish": "banda",
     "german": "Band",
-    "vietnamese": "ban nhạc"
+    "vietnamese": "ban nhạc",
+    "japanese": "バンド"
   },
   "935": {
     "english": "rope",
     "french": "corde",
     "spanish": "cuerda",
     "german": "Seil",
-    "vietnamese": "dây"
+    "vietnamese": "dây",
+    "japanese": "ロープ"
   },
   "936": {
     "english": "slip",
     "french": "glissement",
     "spanish": "deslizamiento",
     "german": "Rutsch",
-    "vietnamese": "trượt"
+    "vietnamese": "trượt",
+    "japanese": "スリップ"
   },
   "937": {
     "english": "win",
     "french": "gagner",
     "spanish": "ganar",
     "german": "gewinnen",
-    "vietnamese": "giành chiến thắng"
+    "vietnamese": "giành chiến thắng",
+    "japanese": "勝つ"
   },
   "938": {
     "english": "dream",
     "french": "rêver",
     "spanish": "soñar",
     "german": "träumen",
-    "vietnamese": "mơ"
+    "vietnamese": "mơ",
+    "japanese": "夢"
   },
   "939": {
     "english": "evening",
     "french": "soirée",
     "spanish": "noche",
     "german": "Abend",
-    "vietnamese": "buổi tối"
+    "vietnamese": "buổi tối",
+    "japanese": "夕べ"
   },
   "940": {
     "english": "condition",
     "french": "condition",
     "spanish": "condición",
     "german": "Zustand",
-    "vietnamese": "điều kiện"
+    "vietnamese": "điều kiện",
+    "japanese": "条件"
   },
   "941": {
     "english": "feed",
     "french": "alimentation",
     "spanish": "pienso",
     "german": "Futtermittel",
-    "vietnamese": "thức ăn chăn nuôi"
+    "vietnamese": "thức ăn chăn nuôi",
+    "japanese": "フィード"
   },
   "942": {
     "english": "tool",
     "french": "outil",
     "spanish": "herramienta",
     "german": "Werkzeug",
-    "vietnamese": "công cụ"
+    "vietnamese": "công cụ",
+    "japanese": "ツール"
   },
   "943": {
     "english": "total",
     "french": "total",
     "spanish": "totales",
     "german": "gesamt",
-    "vietnamese": "tổng số"
+    "vietnamese": "tổng số",
+    "japanese": "合計"
   },
   "944": {
     "english": "basic",
     "french": "de base",
     "spanish": "básico",
     "german": "Basis",
-    "vietnamese": "cơ bản"
+    "vietnamese": "cơ bản",
+    "japanese": "基本"
   },
   "945": {
     "english": "smell",
     "french": "odeur",
     "spanish": "olor",
     "german": "Geruch",
-    "vietnamese": "mùi"
+    "vietnamese": "mùi",
+    "japanese": "匂い"
   },
   "946": {
     "english": "valley",
     "french": "vallée",
     "spanish": "valle",
     "german": "Tal",
-    "vietnamese": "thung lũng"
+    "vietnamese": "thung lũng",
+    "japanese": "谷"
   },
   "947": {
     "english": "nor",
     "french": "ni",
     "spanish": "ni",
     "german": "noch",
-    "vietnamese": "cũng không"
+    "vietnamese": "cũng không",
+    "japanese": "も"
   },
   "948": {
     "english": "double",
     "french": "double",
     "spanish": "doble",
     "german": "doppelt",
-    "vietnamese": "đôi"
+    "vietnamese": "đôi",
+    "japanese": "ダブル"
   },
   "949": {
     "english": "seat",
     "french": "siège",
     "spanish": "asiento",
     "german": "Sitz",
-    "vietnamese": "ghế"
+    "vietnamese": "ghế",
+    "japanese": "座席"
   },
   "950": {
     "english": "continue",
     "french": "continuer",
     "spanish": "continuar",
     "german": "fortsetzen",
-    "vietnamese": "tiếp tục"
+    "vietnamese": "tiếp tục",
+    "japanese": "続ける"
   },
   "951": {
     "english": "block",
     "french": "bloc",
     "spanish": "bloque",
     "german": "Block",
-    "vietnamese": "khối"
+    "vietnamese": "khối",
+    "japanese": "ブロック"
   },
   "952": {
     "english": "chart",
     "french": "graphique",
     "spanish": "tabla",
     "german": "Tabelle",
-    "vietnamese": "biểu đồ"
+    "vietnamese": "biểu đồ",
+    "japanese": "チャート"
   },
   "953": {
     "english": "hat",
     "french": "chapeau",
     "spanish": "sombrero",
     "german": "Hut",
-    "vietnamese": "mũ"
+    "vietnamese": "mũ",
+    "japanese": "帽子"
   },
   "954": {
     "english": "sell",
     "french": "vendre",
     "spanish": "vender",
     "german": "verkaufen",
-    "vietnamese": "bán"
+    "vietnamese": "bán",
+    "japanese": "売る"
   },
   "955": {
     "english": "success",
     "french": "succès",
     "spanish": "éxito",
     "german": "Erfolg",
-    "vietnamese": "thành công"
+    "vietnamese": "thành công",
+    "japanese": "成功"
   },
   "956": {
     "english": "company",
     "french": "entreprise",
     "spanish": "empresa",
     "german": "Firma",
-    "vietnamese": "công ty"
+    "vietnamese": "công ty",
+    "japanese": "会社"
   },
   "957": {
     "english": "subtract",
     "french": "soustraire",
     "spanish": "restar",
     "german": "subtrahieren",
-    "vietnamese": "trừ"
+    "vietnamese": "trừ",
+    "japanese": "引く"
   },
   "958": {
     "english": "event",
     "french": "événement",
     "spanish": "evento",
     "german": "Veranstaltung",
-    "vietnamese": "sự kiện"
+    "vietnamese": "sự kiện",
+    "japanese": "イベント"
   },
   "959": {
     "english": "particular",
     "french": "particulier",
     "spanish": "particular,",
     "german": "besondere",
-    "vietnamese": "riêng"
+    "vietnamese": "riêng",
+    "japanese": "特定の"
   },
   "960": {
     "english": "deal",
     "french": "accord",
     "spanish": "acuerdo",
     "german": "viel",
-    "vietnamese": "thỏa thuận"
+    "vietnamese": "thỏa thuận",
+    "japanese": "契約"
   },
   "961": {
     "english": "swim",
     "french": "baignade",
     "spanish": "nadar",
     "german": "schwimmen",
-    "vietnamese": "bơi"
+    "vietnamese": "bơi",
+    "japanese": "泳ぐ"
   },
   "962": {
     "english": "term",
     "french": "terme",
     "spanish": "plazo",
     "german": "Begriff",
-    "vietnamese": "hạn"
+    "vietnamese": "hạn",
+    "japanese": "言葉"
   },
   "963": {
     "english": "opposite",
     "french": "opposé",
     "spanish": "opuesta",
     "german": "Gegenteil",
-    "vietnamese": "ngược lại"
+    "vietnamese": "ngược lại",
+    "japanese": "反対"
   },
   "964": {
     "english": "wife",
     "french": "femme",
     "spanish": "esposa",
     "german": "Frau",
-    "vietnamese": "vợ"
+    "vietnamese": "vợ",
+    "japanese": "妻"
   },
   "965": {
     "english": "shoe",
     "french": "chaussure",
     "spanish": "zapato",
     "german": "Schuh",
-    "vietnamese": "giày"
+    "vietnamese": "giày",
+    "japanese": "靴"
   },
   "966": {
     "english": "shoulder",
     "french": "épaule",
     "spanish": "hombro",
     "german": "Schulter",
-    "vietnamese": "vai"
+    "vietnamese": "vai",
+    "japanese": "肩"
   },
   "967": {
     "english": "spread",
     "french": "propagation",
     "spanish": "propagación",
     "german": "Verbreitung",
-    "vietnamese": "lây lan"
+    "vietnamese": "lây lan",
+    "japanese": "スプレッド"
   },
   "968": {
     "english": "arrange",
     "french": "organiser",
     "spanish": "organizar",
     "german": "arrangieren",
-    "vietnamese": "sắp xếp"
+    "vietnamese": "sắp xếp",
+    "japanese": "アレンジ"
   },
   "969": {
     "english": "camp",
     "french": "camp",
     "spanish": "campamento",
     "german": "Lager",
-    "vietnamese": "trại"
+    "vietnamese": "trại",
+    "japanese": "キャンプ"
   },
   "970": {
     "english": "invent",
     "french": "inventer",
     "spanish": "inventar",
     "german": "erfinden",
-    "vietnamese": "phát minh"
+    "vietnamese": "phát minh",
+    "japanese": "発明する"
   },
   "971": {
     "english": "cotton",
     "french": "coton",
     "spanish": "algodón",
     "german": "Baumwolle",
-    "vietnamese": "bông"
+    "vietnamese": "bông",
+    "japanese": "綿"
   },
   "972": {
     "english": "born",
     "french": "né",
     "spanish": "nacido",
     "german": "geboren",
-    "vietnamese": "Sinh"
+    "vietnamese": "Sinh",
+    "japanese": "ボルン"
   },
   "973": {
     "english": "determine",
     "french": "déterminer",
     "spanish": "determinar",
     "german": "bestimmen",
-    "vietnamese": "xác định"
+    "vietnamese": "xác định",
+    "japanese": "決定する"
   },
   "974": {
     "english": "quart",
     "french": "litre",
     "spanish": "cuarto de galón",
     "german": "Quart",
-    "vietnamese": "lít"
+    "vietnamese": "lít",
+    "japanese": "クォート"
   },
   "975": {
     "english": "nine",
     "french": "neuf",
     "spanish": "nueve",
     "german": "neun",
-    "vietnamese": "chín"
+    "vietnamese": "chín",
+    "japanese": "人"
   },
   "976": {
     "english": "truck",
     "french": "camion",
     "spanish": "camión",
     "german": "Lastwagen",
-    "vietnamese": "xe tải"
+    "vietnamese": "xe tải",
+    "japanese": "トラック"
   },
   "977": {
     "english": "noise",
     "french": "bruit",
     "spanish": "ruido",
     "german": "Lärm",
-    "vietnamese": "tiếng ồn"
+    "vietnamese": "tiếng ồn",
+    "japanese": "ノイズ"
   },
   "978": {
     "english": "level",
     "french": "niveau",
     "spanish": "nivel",
     "german": "Ebene",
-    "vietnamese": "mức"
+    "vietnamese": "mức",
+    "japanese": "レベル"
   },
   "979": {
     "english": "chance",
     "french": "chance",
     "spanish": "oportunidad",
     "german": "Chance",
-    "vietnamese": "cơ hội"
+    "vietnamese": "cơ hội",
+    "japanese": "チャンス"
   },
   "980": {
     "english": "gather",
     "french": "recueillir",
     "spanish": "reunir",
     "german": "sammeln",
-    "vietnamese": "thu thập"
+    "vietnamese": "thu thập",
+    "japanese": "集まる"
   },
   "981": {
     "english": "shop",
     "french": "boutique",
     "spanish": "tienda",
     "german": "Geschäft",
-    "vietnamese": "cửa hàng"
+    "vietnamese": "cửa hàng",
+    "japanese": "ショップ"
   },
   "982": {
     "english": "stretch",
     "french": "tronçon",
     "spanish": "tramo",
     "german": "Stretch",
-    "vietnamese": "căng ra"
+    "vietnamese": "căng ra",
+    "japanese": "ストレッチ"
   },
   "983": {
     "english": "throw",
     "french": "jeter",
     "spanish": "lanzar",
     "german": "werfen",
-    "vietnamese": "ném"
+    "vietnamese": "ném",
+    "japanese": "投げる"
   },
   "984": {
     "english": "shine",
     "french": "éclat",
     "spanish": "brillo",
     "german": "Glanz",
-    "vietnamese": "tỏa sáng"
+    "vietnamese": "tỏa sáng",
+    "japanese": "輝き"
   },
   "985": {
     "english": "property",
     "french": "propriété",
     "spanish": "propiedad",
     "german": "Immobilien",
-    "vietnamese": "tài sản"
+    "vietnamese": "tài sản",
+    "japanese": "財産"
   },
   "986": {
     "english": "column",
     "french": "colonne",
     "spanish": "columna",
     "german": "Spalte",
-    "vietnamese": "cột"
+    "vietnamese": "cột",
+    "japanese": "コラム"
   },
   "987": {
     "english": "molecule",
     "french": "molécule",
     "spanish": "molécula",
     "german": "Molekül",
-    "vietnamese": "phân tử"
+    "vietnamese": "phân tử",
+    "japanese": "分子"
   },
   "988": {
     "english": "select",
     "french": "sélectionner",
     "spanish": "seleccionar",
     "german": "wählen",
-    "vietnamese": "chọn"
+    "vietnamese": "chọn",
+    "japanese": "選択する"
   },
   "989": {
     "english": "wrong",
     "french": "mal",
     "spanish": "mal",
     "german": "falsch",
-    "vietnamese": "sai"
+    "vietnamese": "sai",
+    "japanese": "間違った"
   },
   "990": {
     "english": "gray",
     "french": "gris",
     "spanish": "gris",
     "german": "grau",
-    "vietnamese": "màu xám"
+    "vietnamese": "màu xám",
+    "japanese": "グレー"
   },
   "991": {
     "english": "repeat",
     "french": "répétition",
     "spanish": "repita",
     "german": "Wiederholung",
-    "vietnamese": "lặp lại"
+    "vietnamese": "lặp lại",
+    "japanese": "リピート"
   },
   "992": {
     "english": "require",
     "french": "exiger",
     "spanish": "exigir",
     "german": "erfordern",
-    "vietnamese": "yêu cầu"
+    "vietnamese": "yêu cầu",
+    "japanese": "必要とする"
   },
   "993": {
     "english": "broad",
     "french": "large",
     "spanish": "amplio",
     "german": "breit",
-    "vietnamese": "rộng"
+    "vietnamese": "rộng",
+    "japanese": "幅広い"
   },
   "994": {
     "english": "prepare",
     "french": "préparer",
     "spanish": "preparar",
     "german": "vorbereiten",
-    "vietnamese": "chuẩn bị"
+    "vietnamese": "chuẩn bị",
+    "japanese": "準備する"
   },
   "995": {
     "english": "salt",
     "french": "sel",
     "spanish": "sal",
     "german": "Salz",
-    "vietnamese": "muối"
+    "vietnamese": "muối",
+    "japanese": "塩"
   },
   "996": {
     "english": "nose",
     "french": "nez",
     "spanish": "nariz",
     "german": "Nase",
-    "vietnamese": "mui"
+    "vietnamese": "mui",
+    "japanese": "鼻"
   },
   "997": {
     "english": "plural",
     "french": "pluriel",
     "spanish": "plurales",
     "german": "mehreren",
-    "vietnamese": "số nhiều"
+    "vietnamese": "số nhiều",
+    "japanese": "複数"
   },
   "998": {
     "english": "anger",
     "french": "colère",
     "spanish": "cólera",
     "german": "Zorn",
-    "vietnamese": "tức giận"
+    "vietnamese": "tức giận",
+    "japanese": "怒り"
   },
   "999": {
     "english": "claim",
     "french": "revendication",
     "spanish": "reclamación",
     "german": "Anspruch",
-    "vietnamese": "xin"
+    "vietnamese": "xin",
+    "japanese": "請求"
   },
   "1000": {
     "english": "continent",
     "french": "continent…",
     "spanish": "continente",
     "german": "Kontinent",
-    "vietnamese": "lục"
+    "vietnamese": "lục",
+    "japanese": "大陸"
   }
 }

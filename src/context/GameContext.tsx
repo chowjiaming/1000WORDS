@@ -52,7 +52,7 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
       1000,
       gameData.gameSequence[gameData.gameRound - 1],
     );
-    const flashcardOptions: string[] = optionsArray.map((option) => {
+    const flashcardOptions: (string | number)[] = optionsArray.map((option) => {
       const wordObj = words[option.toString() as keyof typeof words];
       return wordObj['english' as keyof typeof wordObj];
     });
