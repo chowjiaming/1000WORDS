@@ -2,7 +2,7 @@ export interface IGameData {
   language: string;
   gameSequence: number[];
   gameRound: number;
-  roundWon: boolean;
+  roundComplete: boolean;
   wordToTranslate: object;
   flashcardOptions: (string | number)[];
   guessedWords: (string | number)[];

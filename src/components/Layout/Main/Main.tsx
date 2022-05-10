@@ -9,7 +9,7 @@ const Main: React.FC = () => {
   // const { gameData, setNextRound } = useContext(GameContext) as GameContextType;
   return (
     <main className="main">
-      {/* {gameData.roundWon ? (
+      {/* {gameData.roundComplete ? (
         <Button
           key={'Next Round'}
           handleClick={setNextRound}

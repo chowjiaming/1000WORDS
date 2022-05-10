@@ -52,7 +52,7 @@ const Game: React.FC = () => {
         </h1>
         <p className="game__score">{`Score: ${score}`}</p>
         <p className="game__round">{`Round: ${gameRound}`}</p>
-        {gameData.roundWon ? (
+        {gameData.roundComplete ? (
           <Button
             key={'Next Round'}
             handleClick={setNextRound}

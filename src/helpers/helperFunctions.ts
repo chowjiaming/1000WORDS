@@ -37,3 +37,13 @@ export const generateRandomArray = (
   randomArray.push(inclusion);
   return suffleArray(randomArray);
 };
+
+export const generateScore = (numGuesses: number): number => {
+  if (!numGuesses) {
+    return 10;
+  } else if (numGuesses === 1) {
+    return 5;
+  } else {
+    return 1;
+  }
+};

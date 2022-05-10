@@ -3,6 +3,7 @@ import { IGameData, GameContextType } from '../@types/game';
 import {
   populateAndShuffleArray,
   generateRandomArray,
+  generateScore,
 } from '../helpers/helperFunctions';
 import words from '../data/words.json';
 
@@ -17,7 +18,7 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
     language: '',
     gameSequence: [],
     gameRound: 1,
-    roundWon: false,
+    roundComplete: false,
     wordToTranslate: {},
     flashcardOptions: [],
     guessedWords: [],
@@ -41,7 +42,7 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
       ...gameData,
       gameRound: gameData.gameRound + 1,
       guessedWords: [],
-      roundWon: false,
+      roundComplete: false,
     });
   };
 
@@ -62,7 +63,8 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
   const handleFlashcardGuess = (
     e: React.MouseEvent<HTMLButtonElement>,
   ): void => {
-    if (!gameData.roundWon) {
+    const numGuesses = gameData.guessedWords.length;
+    if (!gameData.roundComplete) {
       if (!gameData.guessedWords.includes(e.currentTarget.value)) {
         setGameData({
           ...gameData,
@@ -77,7 +79,8 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
         setGameData({
           ...gameData,
           guessedWords: [...gameData.guessedWords, e.currentTarget.value],
-          roundWon: true,
+          score: gameData.score + generateScore(numGuesses),
+          roundComplete: true,
         });
       }
     }
