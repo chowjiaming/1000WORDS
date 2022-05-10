@@ -46,14 +46,13 @@ export const GameProvider = ({ children }: GameContextProviderProps) => {
   };
 
   const setGameRound = (sequence: number, numOptions: number): void => {
-    console.log(Object.keys(words));
     const wordToTranslate = words[sequence.toString() as keyof typeof words];
-    const optionsArray = generateRandomArray(
+    const optionsArray: number[] = generateRandomArray(
       numOptions,
       1000,
       gameData.gameSequence[gameData.gameRound - 1],
     );
-    const flashcardOptions = optionsArray.map((option) => {
+    const flashcardOptions: string[] = optionsArray.map((option) => {
       const wordObj = words[option.toString() as keyof typeof words];
       return wordObj['english' as keyof typeof wordObj];
     });
